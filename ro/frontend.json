@@ -1,0 +1,37 @@
+{
+  "generics": {
+    "about": "Despre",
+    "allposts": "Toate postările",
+    "audio": "Audio",
+    "changelog": "Schimbare jurnal",
+    "contactus": "Contactează-ne",
+    "explore": "Explora",
+    "games": "Jocuri",
+    "groups": "Grupuri",
+    "home": "Acasă",
+    "images": "Imagini",
+    "livestreams": "Fluxuri vii",
+    "moderation": "Moderare",
+    "playlists": "Liste de redare",
+    "recommended": "Recomandat",
+    "revision": "Revizuire",
+    "settings": "Setări",
+    "subscriptions": "Abonamente",
+    "topics": "Subiecte",
+    "version": "Versiune",
+    "videos": "Videoclipuri",
+    "watchlater": "Urmăriți mai târziu"
+  },
+  "groups": {},
+  "home": {},
+  "post": {},
+  "profile": {
+    "about": "Despre",
+    "all_posts": "Toate postările",
+    "connections": "Conexiuni",
+    "posts": "Mesaje",
+    "subscribers": "Abonații",
+    "subscriptions": "Abonamente",
+    "views": "Vizualizări profil"
+  }
+}

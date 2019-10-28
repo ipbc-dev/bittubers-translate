@@ -1,0 +1,37 @@
+{
+  "generics": {
+    "about": "À propos",
+    "allposts": "Tous les messages",
+    "audio": "l'audio",
+    "changelog": "Changer le journal",
+    "contactus": "Contactez-nous",
+    "explore": "Explorer",
+    "games": "Jeux",
+    "groups": "Groupes",
+    "home": "Accueil",
+    "images": "Images",
+    "livestreams": "Flux en direct",
+    "moderation": "Modération",
+    "playlists": "Playlists",
+    "recommended": "conseillé",
+    "revision": "Révision",
+    "settings": "Paramètres",
+    "subscriptions": "Abonnements",
+    "topics": "Les sujets",
+    "version": "Version",
+    "videos": "Vidéos",
+    "watchlater": "Regarder plus tard"
+  },
+  "groups": {},
+  "home": {},
+  "post": {},
+  "profile": {
+    "about": "À propos",
+    "all_posts": "Tous les messages",
+    "connections": "Les liaisons",
+    "posts": "Des postes",
+    "subscribers": "Les abonnés",
+    "subscriptions": "Abonnements",
+    "views": "Vues du profil"
+  }
+}
