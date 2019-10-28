@@ -120,6 +120,8 @@
     "youhavenot": "Du hast kein"
   },
   "groups": {
+    "Private group": "Private Gruppe",
+    "Public group": "Öffentliche Gruppe",
     "creategroup": "Gruppe erstellen",
     "createmanagegroup": "Erstellen, verwalten und moderieren Sie Ihre eigene öffentliche oder private Gruppe.",
     "groupcreated": "Gruppe erstellt",
