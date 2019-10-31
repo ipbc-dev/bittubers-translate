@@ -27,6 +27,21 @@
     "verifyaccnt": "Подтвердите ваш аккаунт",
     "youravatar": "Ваш аватар"
   },
+  "coin": {
+    "accepted": "Принято",
+    "amount": "Количество",
+    "buy": "купить",
+    "confirm": "подтвердить",
+    "creditcard": "Кредитная карта",
+    "crypto": "крипто-",
+    "donate": "жертвовать",
+    "donateto": "Пожертвовать",
+    "paymentid": "Идентификатор платежа",
+    "selectpayment": "Выберите метод оплаты.",
+    "shareincomments": "Поделиться в комментариях",
+    "wallet": "Кошелек",
+    "wiretransfer": "Передача по проводам"
+  },
   "generics": {
     "about": "О Нас",
     "addtoplaylist": "Добавить в плейлист",
@@ -52,6 +67,7 @@
     "games": "Игры",
     "groupname": "Имя группы",
     "groups": "Группы",
+    "help": "Помогите",
     "historypostdelete": "Any engagement history on this post will be erased.",
     "home": "Домой",
     "illegalharm": "Illegal/harmful",
@@ -108,6 +124,7 @@
     "unsupportedmedia": "Неподдерживаемый тип носителя",
     "upgrade": "Обновить",
     "users": "Пользователи",
+    "value": "Стоимость",
     "version": "Версия",
     "videos": "Видео",
     "viewall": "Посмотреть все",
@@ -132,6 +149,12 @@
     "nogroupsyet": "Еще нет групп",
     "viewgroupposts": "просмотреть посты группы"
   },
+  "header": {
+    "getextension": "Получить расширение BitTube",
+    "here": "Вот",
+    "learnmore": "Учить больше",
+    "startearning": "начать зарабатывать с AirTime!"
+  },
   "login": {
     "createaccount": "Создать аккаунт",
     "createlinkmonetize": "Создайте это. Свяжите это. Монетизировать это!",
@@ -141,11 +164,15 @@
     "loginfacebook": "Авторизироваться через Facebook",
     "logingoogle": "Авторизироваться через Google",
     "loginsocial": "Войдите или зарегистрируйтесь с социальной учетной записью.",
+    "logintobittubers": "Войдите в BitTubers",
     "logintocontinue": "Войдите, чтобы продолжить",
     "logintwitter": "Авторизироваться через Twitter",
+    "loginwelcome": "Добро пожаловать! Пожалуйста, войдите или присоединитесь к BitTubers сегодня. Это быстро, легко и бесплатно.",
     "notnow": "Не сейчас",
     "pleasewait": "Пожалуйста, подождите...",
     "redirecting": "Перенаправление...",
+    "username": "имя пользователя",
+    "usernamenotavailable": "имя пользователя не доступно",
     "valuesmissing": "Значения отсутствуют."
   },
   "media": {
@@ -285,11 +312,23 @@
     "updateProfile": "Обновить профиль",
     "views": "Просмотры Профиля"
   },
+  "recoverpass": {
+    "forgotpass": "Забыл пароль",
+    "proceedon": "Продолжить"
+  },
+  "register": {
+    "bittubeterms": "Условия использования BitTube",
+    "firstname": "Имя",
+    "guestaccess": "Гостевой доступ",
+    "haveaccount": "У тебя есть аккаунт?",
+    "iagreeto": "я согласен с",
+    "surname": "Фамилия"
+  },
   "settings": {
     "Selectview": "Выберите режим просмотра по умолчанию",
     "auto": "Автоматически",
     "changeacnnttype": "Изменить тип аккаунта",
-    "changelang": "Изменение языка",
+    "changelang": "Язык:",
     "changepassword": "Изменить пароль",
     "changepasswordcapital": "ИЗММЕНИТЬ ПАРОЛЬ",
     "comments": "Комментарии",
@@ -328,6 +367,7 @@
     "phoneverified": "Ваш номер телефона уже подтвержден",
     "post": "Посты",
     "private": "Частный",
+    "privatedescription": " Пользователи должны подписаться, чтобы просматривать ваш профиль и взаимодействовать с вашими сообщениями.",
     "privtext": "Пользователи должны подписаться, чтобы просматривать ваш профиль и взаимодействовать с вашими сообщениями.",
     "profsettings": " Настройки профиля",
     "public": "Публичный",

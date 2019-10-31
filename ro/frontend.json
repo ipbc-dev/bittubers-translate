@@ -27,6 +27,21 @@
     "verifyaccnt": "verifica-ti contul",
     "youravatar": "Avatarul tău"
   },
+  "coin": {
+    "accepted": "Admis",
+    "amount": "Cantitate",
+    "buy": "A cumpara",
+    "confirm": "A confirma",
+    "creditcard": "Card de credit",
+    "crypto": "Crypto",
+    "donate": "Donează",
+    "donateto": "Donează la",
+    "paymentid": "ID de plată",
+    "selectpayment": "Selecteaza metoda de plata.",
+    "shareincomments": "Distribuie în comentarii",
+    "wallet": "Portofel",
+    "wiretransfer": "Transfer prin cablu"
+  },
   "generics": {
     "about": "Despre",
     "addtoplaylist": "Adauga la lista de redare",
@@ -52,6 +67,7 @@
     "games": "Jocuri",
     "groupname": "Numele Grupului",
     "groups": "Grupuri",
+    "help": "Ajutor",
     "historypostdelete": "Orice istoric de implicare din această postare va fi șters.",
     "home": "Acasă",
     "illegalharm": "Ilegale / dăunătoare",
@@ -108,6 +124,7 @@
     "unsupportedmedia": "Tipul de suport neacceptat",
     "upgrade": "Modernizare",
     "users": "Utilizatori",
+    "value": "Valoare",
     "version": "Versiune",
     "videos": "Videoclipuri",
     "viewall": "A vedea tot",
@@ -132,7 +149,12 @@
     "nogroupsyet": "Încă nu există grupuri",
     "viewgroupposts": "vizualizați postările grupurilor"
   },
-  "home": {},
+  "header": {
+    "getextension": "Obțineți extensia BitTube",
+    "here": "aici",
+    "learnmore": "Aflați mai multe",
+    "startearning": "pentru a începe să câștigi cu AirTime!"
+  },
   "login": {
     "createaccount": "Creează un cont",
     "createlinkmonetize": "Creaza-l. Legă-l. Monetizează-l!",
@@ -142,11 +164,15 @@
     "loginfacebook": "Logheaza-te cu Facebook",
     "logingoogle": "Conectați-vă cu Google",
     "loginsocial": "Autentificați-vă sau înregistrați-vă cu un cont social.",
+    "logintobittubers": "Conectați-vă la BitTubers",
     "logintocontinue": "Autentificare pentru a continua",
     "logintwitter": "Conectați-vă cu Twitter",
+    "loginwelcome": "Bine ati venit! Vă rugăm să vă conectați sau să vă alăturați BitTubers astăzi. Este rapid, ușor și gratuit.",
     "notnow": "Nu acum",
     "pleasewait": "Te rog asteapta...",
     "redirecting": "Redirecționează ...",
+    "username": "Nume de utilizator",
+    "usernamenotavailable": "Nume de utilizator indisponibil",
     "valuesmissing": "Valorile lipsesc."
   },
   "media": {
@@ -287,11 +313,23 @@
     "updateProfile": "Actualizati profilul",
     "views": "Vizualizări profil"
   },
+  "recoverpass": {
+    "forgotpass": "Ați uitat parola",
+    "proceedon": "Continuați mai departe"
+  },
+  "register": {
+    "bittubeterms": "Termeni BitTube",
+    "firstname": "Nume",
+    "guestaccess": "Acces pentru oaspeți",
+    "haveaccount": "Aveți un cont?",
+    "iagreeto": "Sunt de acord să",
+    "surname": "Nume de familie"
+  },
   "settings": {
     "Selectview": "Selectați modul dvs. de vizualizare implicit",
     "auto": "Auto",
     "changeacnnttype": "Schimbați tipul de cont",
-    "changelang": "Schimbă limba",
+    "changelang": "Limba:",
     "changepassword": "Schimbați parola",
     "changepasswordcapital": "SCHIMBAȚI PAROLA",
     "comments": "Comentarii",
@@ -330,6 +368,7 @@
     "phoneverified": "Numărul dvs. de telefon este deja verificat",
     "post": "Mesaje",
     "private": "Privat",
+    "privatedescription": " Utilizatorii trebuie să se aboneze pentru a vă vizualiza profilul și pentru a interacționa cu postările dvs.",
     "privtext": "Utilizatorii trebuie să se aboneze pentru a vă vizualiza profilul și pentru a interacționa cu postările dvs.",
     "profsettings": " Setarile profilului",
     "public": "Public",

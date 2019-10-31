@@ -27,6 +27,21 @@
     "verifyaccnt": "Überprüfen Sie Ihr Konto",
     "youravatar": "Dein Avatar"
   },
+  "coin": {
+    "accepted": "Akzeptiert",
+    "amount": "Menge",
+    "buy": "Kaufen",
+    "confirm": "Bestätigen",
+    "creditcard": "Kreditkarte",
+    "crypto": "Krypto",
+    "donate": "Spenden",
+    "donateto": "Spenden an",
+    "paymentid": "Zahlungs ID",
+    "selectpayment": "Wählen Sie die Zahlungsmethode.",
+    "shareincomments": "In Kommentaren teilen",
+    "wallet": "Brieftasche",
+    "wiretransfer": "Banküberweisung"
+  },
   "generics": {
     "about": "Über",
     "addtoplaylist": "Zur Wiedergabeliste hinzufügen",
@@ -52,6 +67,7 @@
     "games": "Spiele",
     "groupname": "Gruppenname",
     "groups": "Gruppen",
+    "help": "Hilfe",
     "historypostdelete": "Jegliche Verlobungshistorie in diesem Beitrag wird gelöscht.",
     "home": "Zuhause",
     "illegalharm": "Illegal / schädlich",
@@ -108,6 +124,7 @@
     "unsupportedmedia": "Nicht unterstützter Medientyp",
     "upgrade": "Aktualisierung",
     "users": "Benutzer",
+    "value": "Wert",
     "version": "Ausführung",
     "videos": "Videos",
     "viewall": "Alle ansehen",
@@ -132,6 +149,12 @@
     "nogroupsyet": "Noch keine Gruppen",
     "viewgroupposts": "Gruppenbeiträge anzeigen"
   },
+  "header": {
+    "getextension": "Holen Sie sich die BitTube-Erweiterung",
+    "here": "Hier",
+    "learnmore": "Erfahren Sie mehr",
+    "startearning": "mit AirTime verdienen!"
+  },
   "login": {
     "createaccount": "Ein Konto erstellen",
     "createlinkmonetize": "Erstelle es. Verlinke es. Geld verdienen!",
@@ -141,11 +164,15 @@
     "loginfacebook": "Mit Facebook einloggen",
     "logingoogle": "Loggen Sie sich mit Google ein",
     "loginsocial": "Logge dich ein oder registriere dich mit einem sozialen Account.",
+    "logintobittubers": "Melden Sie sich bei BitTubers an",
     "logintocontinue": "Loggen Sie sich ein, um fortzufahren",
     "logintwitter": "Mit Twitter einloggen",
+    "loginwelcome": "Herzlich willkommen! Bitte melden Sie sich noch heute an oder treten Sie BitTubers bei. Es ist schnell, einfach und kostenlos.",
     "notnow": "Nicht jetzt",
     "pleasewait": "Warten Sie mal...",
     "redirecting": "Umleiten ...",
+    "username": "Nutzername",
+    "usernamenotavailable": "Benutzername nicht verfügbar",
     "valuesmissing": "Werte fehlen."
   },
   "media": {
@@ -285,11 +312,23 @@
     "updateProfile": "Profil aktualisieren",
     "views": "Profilansichten"
   },
+  "recoverpass": {
+    "forgotpass": "Passwort vergessen",
+    "proceedon": "Fahren Sie fort"
+  },
+  "register": {
+    "bittubeterms": "BitTube-Nutzungsbedingungen",
+    "firstname": "Vorname",
+    "guestaccess": "Gastzugang",
+    "haveaccount": "Hast du einen Account?",
+    "iagreeto": "Ich stimme zu",
+    "surname": "Nachname"
+  },
   "settings": {
     "Selectview": "Wählen Sie Ihren Standardansichtsmodus",
     "auto": "Auto",
     "changeacnnttype": "Kontotyp ändern",
-    "changelang": "Sprache ändern",
+    "changelang": "Sprache:",
     "changepassword": "Passwort ändern",
     "changepasswordcapital": "PASSWORT ÄNDERN",
     "comments": "Bemerkungen",
@@ -328,6 +367,7 @@
     "phoneverified": "Ihre Telefonnummer wurde bereits bestätigt",
     "post": "Beiträge",
     "private": "Privatgelände",
+    "privatedescription": " Benutzer müssen sich anmelden, um Ihr Profil anzuzeigen und mit Ihren Posts zu interagieren.",
     "privtext": "Benutzer müssen sich anmelden, um Ihr Profil anzuzeigen und mit Ihren Posts zu interagieren.",
     "profsettings": " Profileinstellungen",
     "public": "Öffentlichkeit",

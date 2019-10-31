@@ -27,6 +27,21 @@
     "verifyaccnt": "Verify your account",
     "youravatar": "Your avatar"
   },
+  "coin": {
+    "accepted": "Accepted",
+    "amount": "Amount",
+    "buy": "Buy",
+    "confirm": "Confirm",
+    "creditcard": "Credit card",
+    "crypto": "Crypto",
+    "donate": "Donate",
+    "donateto": "Donate to",
+    "paymentid": "Payment ID",
+    "selectpayment": "Select payment method.",
+    "shareincomments": "Share in comments",
+    "wallet": "Wallet",
+    "wiretransfer": "Wire transfer"
+  },
   "generics": {
     "about": "About",
     "addtoplaylist": "Add to play list",
@@ -52,6 +67,7 @@
     "games": "Games",
     "groupname": "Group name",
     "groups": "Groups",
+    "help": "Help",
     "historypostdelete": "Any engagement history on this post will be erased.",
     "home": "Home",
     "illegalharm": "Illegal/harmful",
@@ -108,6 +124,7 @@
     "unsupportedmedia": "Unsupported media type",
     "upgrade": "Upgrade",
     "users": "Users",
+    "value": "Value",
     "version": "Version",
     "videos": "Videos",
     "viewall": "View all",
@@ -132,6 +149,12 @@
     "nogroupsyet": "No groups yet",
     "viewgroupposts": "view groups posts"
   },
+  "header": {
+    "getextension": "Get the BitTube extension",
+    "here": "here",
+    "learnmore": "Learn more",
+    "startearning": "to start earning with AirTime!"
+  },
   "login": {
     "createaccount": "Create an account",
     "createlinkmonetize": "Create it. Link it. Monetize it!",
@@ -141,11 +164,15 @@
     "loginfacebook": "Login with Facebook",
     "logingoogle": "Login with Google",
     "loginsocial": "Login or sign up with a social account.",
+    "logintobittubers": "Log in to BitTubers",
     "logintocontinue": "Login to continue",
     "logintwitter": "Login with Twitter",
+    "loginwelcome": "Welcome! Please log in or join BitTubers today. It's fast, easy and free.",
     "notnow": "Not now",
     "pleasewait": "Please wait...",
     "redirecting": "Redirecting...",
+    "username": "Username",
+    "usernamenotavailable": "username not available",
     "valuesmissing": "Values are missing."
   },
   "media": {
@@ -205,7 +232,7 @@
     "membershipxp": "Membership & XP",
     "mixed": "Mixed",
     "moderation": "Moderation",
-    "mydocs": "My docyments",
+    "mydocs": "My documents",
     "myreferrals": "My referrals",
     "new": "New",
     "privpolicy": "Privacy policy",
@@ -285,11 +312,23 @@
     "updateProfile": "Update profile",
     "views": "Profile Views"
   },
+  "recoverpass": {
+    "forgotpass": "Forgot password",
+    "proceedon": "Proceed on"
+  },
+  "register": {
+    "bittubeterms": "BitTube Terms",
+    "firstname": "First name",
+    "guestaccess": "Guest access",
+    "haveaccount": "Do you have an account?",
+    "iagreeto": "I agree to",
+    "surname": "Surname"
+  },
   "settings": {
     "Selectview": "Select your default view mode",
     "auto": "Auto",
     "changeacnnttype": "Change account type",
-    "changelang": "Change language",
+    "changelang": "Language:",
     "changepassword": "Change password",
     "changepasswordcapital": "CHANGE PASSWORD",
     "comments": "Comments",
@@ -328,6 +367,7 @@
     "phoneverified": "Your phone number is already verified",
     "post": "Posts",
     "private": "Private",
+    "privatedescription": " Users need to subscribe to view your profile and interact with your posts.",
     "privtext": "Users need to subscribe to view your profile and interact with your posts.",
     "profsettings": " Profile settings",
     "public": "Public",

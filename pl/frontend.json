@@ -27,6 +27,21 @@
     "verifyaccnt": "Zweryfikuj swoje konto",
     "youravatar": "Twój awatar"
   },
+  "coin": {
+    "accepted": "Przyjęty",
+    "amount": "Ilość",
+    "buy": "Kupować",
+    "confirm": "Potwierdzać",
+    "creditcard": "Karta kredytowa",
+    "crypto": "Crypto",
+    "donate": "Podarować",
+    "donateto": "Przekaż darowiznę na",
+    "paymentid": "Identyfikator płatności",
+    "selectpayment": "Wybierz Metodę Płatności.",
+    "shareincomments": "Udostępnij w komentarzach",
+    "wallet": "Portfel",
+    "wiretransfer": "Przelew"
+  },
   "generics": {
     "about": "O",
     "addtoplaylist": "Dodaj do listy odtwarzania",
@@ -52,6 +67,7 @@
     "games": "Gry",
     "groupname": "Nazwa grupy",
     "groups": "Grupy",
+    "help": "Wsparcie",
     "historypostdelete": "Historia zaangażowania w tym poście zostanie usunięta.",
     "home": "Dom",
     "illegalharm": "Nielegalne / szkodliwe",
@@ -108,6 +124,7 @@
     "unsupportedmedia": "Nieobsługiwany typ nośnika",
     "upgrade": "Aktualizacja",
     "users": "Użytkownicy",
+    "value": "Wartość",
     "version": "Wersja",
     "videos": "Wideo",
     "viewall": "Pokaż wszystkie",
@@ -132,7 +149,12 @@
     "nogroupsyet": "Brak grup",
     "viewgroupposts": "przeglądaj posty grup"
   },
-  "home": {},
+  "header": {
+    "getextension": "Pobierz rozszerzenie BitTube",
+    "here": "tutaj",
+    "learnmore": "Ucz się więcej",
+    "startearning": "zacząć zarabiać w AirTime!"
+  },
   "login": {
     "createaccount": "Utwórz konto",
     "createlinkmonetize": "Stwórz To. Połącz to. Zarabiaj na tym!",
@@ -142,11 +164,15 @@
     "loginfacebook": "Zaloguj się przez facebook",
     "logingoogle": "Zaloguj się za pomocą Google",
     "loginsocial": "Zaloguj się lub zarejestruj za pomocą konta społecznościowego.",
+    "logintobittubers": "Zaloguj się do BitTuberów",
     "logintocontinue": "Zaloguj się, aby kontynuować",
     "logintwitter": "Zaloguj się za pomocą Twittera",
+    "loginwelcome": "Witamy! Zaloguj się lub dołącz do BitTuberów już dziś. Jest szybki, łatwy i darmowy.",
     "notnow": "Nie teraz",
     "pleasewait": "Proszę czekać...",
     "redirecting": "Przekierowuję ...",
+    "username": "Nazwa Użytkownika",
+    "usernamenotavailable": "Nazwa użytkownika jest nie dostępna",
     "valuesmissing": "Brakuje wartości."
   },
   "media": {
@@ -287,11 +313,23 @@
     "updateProfile": "Zaktualizować profil",
     "views": "Wyświetlenia profilu"
   },
+  "recoverpass": {
+    "forgotpass": "Zapomniałeś hasła",
+    "proceedon": "Kontynuuj"
+  },
+  "register": {
+    "bittubeterms": "Warunki BitTube",
+    "firstname": "Imię",
+    "guestaccess": "Dostęp dla gościa",
+    "haveaccount": "Czy masz konto?",
+    "iagreeto": "Zgadzam się",
+    "surname": "Nazwisko"
+  },
   "settings": {
     "Selectview": "Wybierz domyślny tryb widoku",
     "auto": "Automatyczny",
     "changeacnnttype": "Zmień typ konta",
-    "changelang": "Zmień język",
+    "changelang": "Język:",
     "changepassword": "Zmień hasło",
     "changepasswordcapital": "ZMIEŃ HASŁO",
     "comments": "Komentarze",
@@ -330,6 +368,7 @@
     "phoneverified": "Twój numer telefonu jest już zweryfikowany",
     "post": "Posty",
     "private": "Prywatny",
+    "privatedescription": " Użytkownicy muszą subskrybować, aby wyświetlić Twój profil i wchodzić w interakcje z Twoimi postami.",
     "privtext": "Użytkownicy muszą subskrybować, aby wyświetlić Twój profil i wchodzić w interakcje z Twoimi postami.",
     "profsettings": " Ustawienia profilu",
     "public": "Publiczny",
