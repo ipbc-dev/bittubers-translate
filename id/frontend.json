@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "Jenis pelanggaran",
+    "ban": "Melarang",
     "banmssg": "Larangan sebagai Administrator",
     "bannednologinmssg": "tidak lagi dapat masuk atau melakukan tindakan apa pun di situs BitTube.",
     "bgpictureintro": "Tambahkan gambar latar belakang. Ini akan memberi pengunjung rasa profil Anda tentang profil Anda.",
     "block": "Blok",
     "blockuser": "Blokir pengguna",
     "blockusermssg": "tidak lagi dapat mengikuti, mengirim pesan, berkomentar, merekomendasikan atau menambahkan Anda dalam grup apa pun. BitTube tidak akan membiarkannya",
-    "blockusermssg2": "tahu Anda memblokirnya. Anda dapat membuka blokir dari pengaturan.",
+    "blockusermssg2": "tahu Anda memblokirnya. Anda dapat membebaskannya dari pengaturan. Setelah memblokir pengguna, Anda akan diarahkan ke Beranda.",
     "changeavatar": "Ubah avatar Anda",
     "changebackground": " Ubah latar belakang",
     "changeyourbackground": "Ubah Latar Belakang Anda",

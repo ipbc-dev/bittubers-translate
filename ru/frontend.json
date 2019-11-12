@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "Тип нарушения",
+    "ban": "запрет",
     "banmssg": "Бан согласно Администратора",
     "bannednologinmssg": "will no longer be able to login or perform any actions in the BitTube site.",
     "bgpictureintro": "Добавьте фоновую картинку. Это даст посетителям вашего профиля понимание того, о чем ваш профиль.",
     "block": "Блок",
     "blockuser": "Заблокировать пользователя",
     "blockusermssg": "will no longer be able to follow, message, comment, recommend or add you in any group. BitTube won't let",
-    "blockusermssg2": "зная, что вы заблокировали его / ее. Вы можете разблокировать из настроек.",
+    "blockusermssg2": "знаю, что вы заблокировали его / ее. Вы можете разблокировать его / ее из настроек. После блокировки пользователя вы будете перенаправлены на домашнюю страницу.",
     "changeavatar": "Измени свой аватар",
     "changebackground": " Изменить фон",
     "changeyourbackground": "Изменить фон",

@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "Infraktiotyyppi",
+    "ban": "Kieltää",
     "banmssg": "Kiellä järjestelmänvalvojana",
     "bannednologinmssg": "ei enää voi kirjautua sisään tai suorittaa mitään toimia BitTube-sivustossa.",
     "bgpictureintro": "Lisää taustakuva. Se antaa profiilisi kävijöille käsityksen profiilisi merkityksestä.",
     "block": "Lohko",
     "blockuser": "Estä käyttäjä",
     "blockusermssg": "ei enää voi seurata, viestiä, kommentoida, suositella tai lisätä sinua mihinkään ryhmään. BitTube ei anna",
-    "blockusermssg2": "tiedät estänyt hänet. Voit poistaa eston asetuksista.",
+    "blockusermssg2": "tiedät estänyt hänet. Voit estää hänet asetuksista. Käyttäjän estämisen jälkeen sinut ohjataan kotisivulle.",
     "changeavatar": "Vaihda avatari",
     "changebackground": " Vaihda taustakuva",
     "changeyourbackground": "Vaihda tausta",

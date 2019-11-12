@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "Art der Zuwiderhandlung",
+    "ban": "Verbot",
     "banmssg": "Als Administrator sperren",
     "bannednologinmssg": "kann sich auf der BitTube-Site nicht mehr anmelden oder Aktionen ausführen.",
     "bgpictureintro": "Fügen Sie ein Hintergrundbild hinzu. Es vermittelt den Besuchern Ihres Profils einen Eindruck davon, worum es in Ihrem Profil geht.",
     "block": "Block",
     "blockuser": "Benutzer blockieren",
     "blockusermssg": "kann Ihnen in keiner Gruppe mehr folgen, Nachrichten senden, Kommentare abgeben, Sie empfehlen oder hinzufügen. BitTube lässt nicht zu",
-    "blockusermssg2": "weiß, dass du ihn / sie blockiert hast. Sie können die Einstellungen entsperren.",
+    "blockusermssg2": "weiß, dass du ihn / sie blockiert hast. Sie können ihn / sie von den Einstellungen entsperren. Nach dem Sperren eines Benutzers werden Sie zur Homepage weitergeleitet.",
     "changeavatar": "Ändere deinen Avatar",
     "changebackground": " Hintergrund ändern",
     "changeyourbackground": "Ändere deinen Hintergrund",

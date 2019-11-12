@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "Tipus d’infracció",
+    "ban": "Prohibició",
     "banmssg": "Prohibició com a administrador",
     "bannednologinmssg": "ja no podreu iniciar la sessió ni realitzar accions al lloc de BitTube.",
     "bgpictureintro": "Afegeix una imatge de fons. Donarà als visitants del vostre perfil una idea del que és el vostre perfil.",
     "block": "Bloc",
     "blockuser": "Bloquejar usuari",
     "blockusermssg": "ja no podreu seguir, missatge, comentari, recomanació o afegir-vos a cap grup. BitTube no permetrà",
-    "blockusermssg2": "sabeu que el heu bloquejat. Podeu desbloquejar la configuració.",
+    "blockusermssg2": "sabeu que el heu bloquejat. Podeu desbloquejar-lo de la configuració. Després de bloquejar un usuari, se us redirigirà a la pàgina principal.",
     "changeavatar": "Canvia el teu avatar",
     "changebackground": " Canviar el fons",
     "changeyourbackground": "Canvieu el fons",

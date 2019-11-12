@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "违规类型",
+    "ban": "禁止",
     "banmssg": "禁止以管理员身份",
     "bannednologinmssg": "将不再能够在BitTube网站上登录或执行任何操作。",
     "bgpictureintro": "添加背景图片。它将使您个人资料上的访问者了解您的个人资料。",
     "block": "块",
     "blockuser": "阻止用户",
     "blockusermssg": "将不再能够在任何组中关注，发送消息，发表评论，推荐或添加您。 BitTube不会让",
-    "blockusermssg2": "知道你阻止了他/她。您可以取消阻止设置。",
+    "blockusermssg2": "知道你阻止了他/她。您可以取消阻止他/她的设置。屏蔽用户后，您将被重定向到首页。",
     "changeavatar": "更改头像",
     "changebackground": " 换背景",
     "changeyourbackground": "更改背景",

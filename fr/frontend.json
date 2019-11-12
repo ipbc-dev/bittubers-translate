@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "Type d'infraction",
+    "ban": "Interdire",
     "banmssg": "Ban en tant qu'administrateur",
     "bannednologinmssg": "ne sera plus en mesure de se connecter ou d'effectuer aucune action sur le site BitTube.",
     "bgpictureintro": "Ajouter une image de fond. Cela donnera aux visiteurs de votre profil une idée de son contenu.",
     "block": "Bloquer",
     "blockuser": "Bloquer un utilisateur",
     "blockusermssg": "ne sera plus en mesure de vous suivre, de vous envoyer des messages, de commenter, de vous recommander ou de vous ajouter à n’importe quel groupe. BitTube ne laissera pas",
-    "blockusermssg2": "sais que tu l'as bloqué. Vous pouvez débloquer des paramètres.",
+    "blockusermssg2": "sais que tu l'as bloqué. Vous pouvez le débloquer des paramètres. Après avoir bloqué un utilisateur, vous serez redirigé vers la page d'accueil.",
     "changeavatar": "Changer votre avatar",
     "changebackground": " Changement de fond",
     "changeyourbackground": "Changer votre fond",

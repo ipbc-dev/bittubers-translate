@@ -1,13 +1,14 @@
 {
   "banner": {
     "Infractiontype": "Tipul de infracțiune",
+    "ban": "Interzice",
     "banmssg": "Interzicerea ca administrator",
     "bannednologinmssg": "nu va mai putea să vă autentifice sau să efectueze nicio acțiune pe site-ul BitTube.",
     "bgpictureintro": "Adăugați o imagine de fundal. Acesta va oferi vizitatorilor de pe profilul tău un sentiment despre ce este profilul tău.",
     "block": "bloc",
     "blockuser": "Blocați utilizatorul",
     "blockusermssg": "nu va mai putea să vă urmărească, să mesajeze, să comenteze, să vă recomande sau să vă adauge în niciun grup. BitTube nu va permite",
-    "blockusermssg2": "știu că l-ai blocat. Puteți debloca din setări.",
+    "blockusermssg2": "știu că l-ai blocat. Îl puteți debloca din setări. După blocarea unui utilizator, veți fi redirecționat către Pagina de pornire.",
     "changeavatar": "Schimbă-ți avatarul",
     "changebackground": " Schimba fundalul",
     "changeyourbackground": "Schimbă-ți fundalul",
