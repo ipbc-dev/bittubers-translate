@@ -100,6 +100,7 @@
   "generics": {
     "More": "もっと",
     "about": "約",
+    "addcomment": "にコメントする",
     "addtoplaylist": "プレイリストに追加する",
     "allposts": "すべての投稿",
     "apply": "適用する",
@@ -399,7 +400,9 @@
   },
   "post": {
     "NSFL": "「NSFL（血液/暴力）」",
+    "NSFLmessage": "次のコンテンツには、暴力/流血が含まれています。ご自身の裁量でご覧ください。",
     "NSFW": "NSFW（安全ではありません）",
+    "NSFWmessage": "次のコンテンツは不適切とみなされる場合があります。ご自身の裁量でご覧ください。",
     "addlocation": "場所を追加",
     "approveeach": "各コメントを承認する",
     "chooseafile": "ファイルを選択してください",

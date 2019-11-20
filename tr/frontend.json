@@ -100,6 +100,7 @@
   "generics": {
     "More": "Daha",
     "about": "hakkında",
+    "addcomment": "Yorum yap",
     "addtoplaylist": "Oynatma listesine ekle",
     "allposts": "Tüm gönderiler",
     "apply": "Uygulamak",
@@ -399,7 +400,9 @@
   },
   "post": {
     "NSFL": "'NSFL (Kan / Şiddet)'",
+    "NSFLmessage": "Aşağıdaki içerik şiddet / kan içerir. Lütfen kendi takdirine bağlı olarak görüş.",
     "NSFW": "NSFW (İş İçin Güvenli Değil)",
+    "NSFWmessage": "Aşağıdaki içerik uygunsuz olarak kabul edilebilir. Lütfen kendi takdirine bağlı olarak görüş.",
     "addlocation": "Konum ekle",
     "approveeach": "Her yorumu onayla",
     "chooseafile": "Bir dosya seçin",
