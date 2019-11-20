@@ -100,6 +100,7 @@
   "generics": {
     "More": "gehiago",
     "about": "About",
+    "addcomment": "Iruzkindu",
     "addtoplaylist": "Gehitu erreproduzitzeko zerrendara",
     "allposts": "Mezu guztiak",
     "apply": "aplikatu",
@@ -399,7 +400,9 @@
   },
   "post": {
     "NSFL": "'NSFL (Odola / Indarkeria)'",
+    "NSFLmessage": "Hurrengo edukiak indarkeria / gore. Mesedez, ikusi zure nahierara.",
     "NSFW": "NSFW (Lanerako ez da segurua)",
+    "NSFWmessage": "Hurrengo edukia desegokitzat jo daiteke. Mesedez, ikusi zure nahierara.",
     "addlocation": "Kokapena gehitu",
     "approveeach": "Onartu iruzkin bakoitza",
     "chooseafile": "Aukeratu fitxategia",

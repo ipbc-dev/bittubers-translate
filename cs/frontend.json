@@ -100,6 +100,7 @@
   "generics": {
     "More": "Více",
     "about": "O",
+    "addcomment": "Komentář k",
     "addtoplaylist": "Přidat do seznamu skladeb",
     "allposts": "Všechny příspěvky",
     "apply": "Aplikovat",
@@ -399,7 +400,9 @@
   },
   "post": {
     "NSFL": "„NSFL (krev / násilí)“",
+    "NSFLmessage": "Následující obsah obsahuje násilí / gore. Podívejte se, prosím, podle vlastního uvážení.",
     "NSFW": "NSFW (Není bezpečné pro práci)",
+    "NSFWmessage": "Následující obsah může být považován za nevhodný. Podívejte se, prosím, podle vlastního uvážení.",
     "addlocation": "Přidat lokaci",
     "approveeach": "Schválit každý komentář",
     "chooseafile": "Vyberte soubor",
