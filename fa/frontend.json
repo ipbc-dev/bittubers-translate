@@ -1,0 +1,37 @@
+{
+  "generics": {
+    "about": "در باره",
+    "allposts": "همه پست ها",
+    "audio": "سمعی",
+    "changelog": "ورود به سیستم را تغییر دهید",
+    "contactus": "با ما تماس بگیرید",
+    "explore": "کاوش",
+    "games": "بازی ها",
+    "groups": "گروه ها",
+    "home": "خانه",
+    "images": "تصاویر",
+    "livestreams": "پخش زنده",
+    "moderation": "اعتدال",
+    "playlists": "لیست های پخش",
+    "recommended": "توصیه شده",
+    "revision": "تجدید نظر",
+    "settings": "تنظیمات",
+    "subscriptions": "اشتراک ها",
+    "topics": "مباحث",
+    "version": "نسخه",
+    "videos": "فیلم های",
+    "watchlater": "بعداً تماشا کنید"
+  },
+  "groups": {},
+  "home": {},
+  "post": {},
+  "profile": {
+    "about": "در باره",
+    "all_posts": "همه پست ها",
+    "connections": "اتصالات",
+    "posts": "نوشته ها",
+    "subscribers": "مشترکین",
+    "subscriptions": "اشتراک ها",
+    "views": "تعداد مرتبه های دیده شدن پروفایل شما"
+  }
+}

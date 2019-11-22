@@ -1,0 +1,37 @@
+{
+  "generics": {
+    "about": "Om",
+    "allposts": "Alle indlæg",
+    "audio": "Lyd",
+    "changelog": "Skift log",
+    "contactus": "Kontakt os",
+    "explore": "Udforske",
+    "games": "Spil",
+    "groups": "grupper",
+    "home": "Hjem",
+    "images": "Billeder",
+    "livestreams": "Livestreams",
+    "moderation": "Moderation",
+    "playlists": "Afspilningslister",
+    "recommended": "Anbefalede",
+    "revision": "Revision",
+    "settings": "Indstillinger",
+    "subscriptions": "Abonnementer",
+    "topics": "Emner",
+    "version": "Version",
+    "videos": "Videoer",
+    "watchlater": "Se senere"
+  },
+  "groups": {},
+  "home": {},
+  "post": {},
+  "profile": {
+    "about": "Om",
+    "all_posts": "Alle indlæg",
+    "connections": "Tilslutninger",
+    "posts": "Indlæg",
+    "subscribers": "Abonnenter",
+    "subscriptions": "Abonnementer",
+    "views": "Profil visninger"
+  }
+}

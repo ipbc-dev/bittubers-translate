@@ -1,0 +1,37 @@
+{
+  "generics": {
+    "about": "О томе",
+    "allposts": "Све поруке",
+    "audio": "Аудио",
+    "changelog": "Дневник промена",
+    "contactus": "Контактирајте нас",
+    "explore": "Истражите",
+    "games": "Игре",
+    "groups": "Групе",
+    "home": "Кућа",
+    "images": "Слике",
+    "livestreams": "Преноси уживо",
+    "moderation": "Умереност",
+    "playlists": "Листе за репродукцију",
+    "recommended": "Препоручује се",
+    "revision": "Ревизија",
+    "settings": "Подешавања",
+    "subscriptions": "Претплате",
+    "topics": "Теме",
+    "version": "Верзија",
+    "videos": "Видео",
+    "watchlater": "Гледај касније"
+  },
+  "groups": {},
+  "home": {},
+  "post": {},
+  "profile": {
+    "about": "О томе",
+    "all_posts": "Све поруке",
+    "connections": "Везе",
+    "posts": "Постови",
+    "subscribers": "Претплатници",
+    "subscriptions": "Претплате",
+    "views": "Прегледи профила"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "generics": {
+    "about": "Handla om",
+    "allposts": "Alla inlägg",
+    "audio": "Audio",
+    "changelog": "Ändra logg",
+    "contactus": "Kontakta oss",
+    "explore": "Utforska",
+    "games": "Spel",
+    "groups": "grupper",
+    "home": "Hem",
+    "images": "Bilder",
+    "livestreams": "Liveströmmar",
+    "moderation": "Måtta",
+    "playlists": "spellistor",
+    "recommended": "Rekommenderad",
+    "revision": "Revision",
+    "settings": "inställningar",
+    "subscriptions": "Prenumerationer",
+    "topics": "ämnen",
+    "version": "Version",
+    "videos": "videoklipp",
+    "watchlater": "Titta på senare"
+  },
+  "groups": {},
+  "home": {},
+  "post": {},
+  "profile": {
+    "about": "Handla om",
+    "all_posts": "Alla inlägg",
+    "connections": "anslutningar",
+    "posts": "inlägg",
+    "subscribers": "abonnenter",
+    "subscriptions": "Prenumerationer",
+    "views": "Profilvyer"
+  }
+}
