@@ -389,13 +389,23 @@
     "votedyourpost": "проголосовал на вашем посту."
   },
   "playlists": {
+    "cloned": "Плейлист клонирован.",
+    "cloneplaylist": "Клон плейлиста",
+    "copytoyourprofile": "Скопируйте этот плейлист в свой профиль",
+    "created": "Плейлист создан.",
     "createplaylist": "Создать плейлист",
+    "delete": "удалять",
+    "deleted": "Плейлист удален.",
+    "deleteplaylist": "Удалить плейлист",
+    "deleteplaylistdescrip": "Этот плейлист будет удален. Там нет отмены, поэтому вы не сможете найти его.",
+    "empty": "Плейлист пуст",
     "hasnoplaylist": "не имеет плейлистов",
     "havenoplaylist": "У вас нет плейлистов",
     "newplaylist": "Новый плейлист",
     "playlist": "Плейлист",
     "playlistdesc": "Описание плейлиста",
-    "playlistname": "Название плейлиста"
+    "playlistname": "Название плейлиста",
+    "playlists": "плейлисты"
   },
   "post": {
     "NSFL": "«НСФЛ (кровь / насилие)»",
