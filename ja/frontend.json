@@ -390,13 +390,23 @@
     "votedyourpost": "あなたの投稿に投票しました。"
   },
   "playlists": {
+    "cloned": "プレイリストのクローン。",
+    "cloneplaylist": "プレイリストのクローン",
+    "copytoyourprofile": "このプレイリストを自分のプロファイルにコピーします",
+    "created": "プレイリストが作成されました。",
     "createplaylist": "プレイリストを作成する",
+    "delete": "削除",
+    "deleted": "プレイリストが削除されました。",
+    "deleteplaylist": "プレイリストを削除",
+    "deleteplaylistdescrip": "このプレイリストは削除されます。元に戻すことはできないため、見つけることはできません。",
+    "empty": "プレイリストが空です",
     "hasnoplaylist": "プレイリストがありません",
     "havenoplaylist": "プレイリストがありません",
     "newplaylist": "新しいプレイリスト",
     "playlist": "プレイリスト",
     "playlistdesc": "プレイリストの説明",
-    "playlistname": "プレイリスト名"
+    "playlistname": "プレイリスト名",
+    "playlists": "プレイリスト"
   },
   "post": {
     "NSFL": "「NSFL（血液/暴力）」",

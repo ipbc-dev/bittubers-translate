@@ -389,13 +389,23 @@
     "votedyourpost": "votó en tu publicación."
   },
   "playlists": {
+    "cloned": "Lista de reproducción clonada.",
+    "cloneplaylist": "Lista de reproducción clonada",
+    "copytoyourprofile": "Copie esta lista de reproducción a su propio perfil",
+    "created": "Lista de reproducción creada.",
     "createplaylist": "Crear lista de reproducción",
+    "delete": "Borrar",
+    "deleted": "Lista de reproducción eliminada.",
+    "deleteplaylist": "Eliminar lista de reproducción",
+    "deleteplaylistdescrip": "Esta lista de reproducción será eliminada. No hay deshacer, así que no podrás encontrarlo.",
+    "empty": "La lista de reproducción está vacía.",
     "hasnoplaylist": "no tiene listas de reproducción",
     "havenoplaylist": "No tiene listas de reproducción",
     "newplaylist": "Nueva lista de reproducción",
     "playlist": "Lista de reproducción",
     "playlistdesc": "Descripción de la lista de reproducción",
-    "playlistname": "Nombre de la lista de reproducción"
+    "playlistname": "Nombre de la lista de reproducción",
+    "playlists": "listas de reproducción"
   },
   "post": {
     "NSFL": "'NSFL (Sangre / Violencia)'",

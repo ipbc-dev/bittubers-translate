@@ -390,13 +390,23 @@
     "votedyourpost": "votou a túa publicación."
   },
   "playlists": {
+    "cloned": "Lista de reprodución clonada.",
+    "cloneplaylist": "Lista de reprodución de clons",
+    "copytoyourprofile": "Copia esta lista de reprodución ao teu propio perfil",
+    "created": "Creouse a lista de reprodución.",
     "createplaylist": "Crear lista de reprodución",
+    "delete": "Eliminar",
+    "deleted": "Eliminouse a lista de reprodución.",
+    "deleteplaylist": "Eliminar lista de reprodución",
+    "deleteplaylistdescrip": "Esta lista de reprodución eliminarase. Non se pode desfacer, polo que non poderás atopalo.",
+    "empty": "A lista de reprodución está baleira",
     "hasnoplaylist": "non ten listas de reprodución",
     "havenoplaylist": "Non tes listas de reprodución",
     "newplaylist": "Nova lista de reprodución",
     "playlist": "Lista de reprodución",
     "playlistdesc": "Descrición da lista de reprodución",
-    "playlistname": "Nome da lista de reprodución"
+    "playlistname": "Nome da lista de reprodución",
+    "playlists": "listas de reprodución"
   },
   "post": {
     "NSFL": "NSFL (sangue / violencia)",

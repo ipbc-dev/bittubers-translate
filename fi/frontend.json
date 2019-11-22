@@ -390,13 +390,23 @@
     "votedyourpost": "äänesti viestissäsi."
   },
   "playlists": {
+    "cloned": "Soittolista kloonattu.",
+    "cloneplaylist": "Kloonien soittolista",
+    "copytoyourprofile": "Kopioi tämä soittolista omaan profiiliisi",
+    "created": "Soittolista luotu.",
     "createplaylist": "Luo soittolista",
+    "delete": "Poistaa",
+    "deleted": "Soittolista poistettu.",
+    "deleteplaylist": "Poista soittolista",
+    "deleteplaylistdescrip": "Tämä soittolista poistetaan. Kumoamista ei ole, joten et löydä sitä.",
+    "empty": "Soittolista on tyhjä",
     "hasnoplaylist": "ei ole soittolistoja",
     "havenoplaylist": "Sinulla ei ole soittolistoja",
     "newplaylist": "Uusi soittolista",
     "playlist": "soittolista",
     "playlistdesc": "Soittolistan kuvaus",
-    "playlistname": "Soittolistan nimi"
+    "playlistname": "Soittolistan nimi",
+    "playlists": "soittolistoja"
   },
   "post": {
     "NSFL": "'NSFL (veri / väkivalta)'",

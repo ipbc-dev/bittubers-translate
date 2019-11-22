@@ -389,13 +389,23 @@
     "votedyourpost": "hat über Ihren Beitrag abgestimmt."
   },
   "playlists": {
+    "cloned": "Wiedergabeliste geklont.",
+    "cloneplaylist": "Wiedergabeliste klonen",
+    "copytoyourprofile": "Kopiere diese Playlist in dein eigenes Profil",
+    "created": "Playlist erstellt.",
     "createplaylist": "Wiedergabeliste erstellen",
+    "delete": "Löschen",
+    "deleted": "Playlist gelöscht.",
+    "deleteplaylist": "Playlist löschen",
+    "deleteplaylistdescrip": "Diese Wiedergabeliste wird gelöscht. Es gibt kein Rückgängigmachen, so dass Sie es nicht finden können.",
+    "empty": "Die Wiedergabeliste ist leer",
     "hasnoplaylist": "hat keine Playlists",
     "havenoplaylist": "Sie haben keine Wiedergabelisten",
     "newplaylist": "Neue Playlist",
     "playlist": "Wiedergabeliste",
     "playlistdesc": "Playlist-Beschreibung",
-    "playlistname": "Name der Wiedergabeliste"
+    "playlistname": "Name der Wiedergabeliste",
+    "playlists": "Wiedergabelisten"
   },
   "post": {
     "NSFL": "NSFL (Blut / Gewalt)",

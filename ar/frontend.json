@@ -390,13 +390,23 @@
     "votedyourpost": "صوت على مشاركتك."
   },
   "playlists": {
+    "cloned": "قائمة التشغيل المستنسخة.",
+    "cloneplaylist": "استنساخ قائمة التشغيل",
+    "copytoyourprofile": "انسخ قائمة التشغيل هذه إلى ملفك الشخصي",
+    "created": "قائمة التشغيل التي تم إنشاؤها.",
     "createplaylist": "إنشاء قائمة التشغيل",
+    "delete": "حذف",
+    "deleted": "تم حذف قائمة التشغيل.",
+    "deleteplaylist": "حذف قائمة التشغيل",
+    "deleteplaylistdescrip": "سيتم حذف قائمة التشغيل هذه. لا يوجد تراجع حتى لا تتمكن من العثور عليه.",
+    "empty": "قائمة التشغيل فارغة",
     "hasnoplaylist": "لا يوجد لديه قوائم التشغيل",
     "havenoplaylist": "ليس لديك أي قوائم تشغيل",
     "newplaylist": "قائمة تشغيل جديدة",
     "playlist": "قائمة التشغيل",
     "playlistdesc": "وصف قائمة التشغيل",
-    "playlistname": "اسم قائمة التشغيل"
+    "playlistname": "اسم قائمة التشغيل",
+    "playlists": "قوائم التشغيل"
   },
   "post": {
     "NSFL": "\"NSFL (الدم / العنف)\"",

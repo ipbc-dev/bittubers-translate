@@ -390,13 +390,23 @@
     "votedyourpost": "memberi suara pada posting Anda."
   },
   "playlists": {
+    "cloned": "Daftar putar dikloning.",
+    "cloneplaylist": "Klon Daftar Putar",
+    "copytoyourprofile": "Salin daftar putar ini ke profil Anda sendiri",
+    "created": "Daftar putar dibuat.",
     "createplaylist": "Buat daftar putar",
+    "delete": "Menghapus",
+    "deleted": "Daftar putar dihapus.",
+    "deleteplaylist": "Hapus Daftar Putar",
+    "deleteplaylistdescrip": "Daftar putar ini akan dihapus. Tidak ada yang dibatalkan sehingga Anda tidak akan dapat menemukannya.",
+    "empty": "Daftar putar kosong",
     "hasnoplaylist": "tidak memiliki daftar putar",
     "havenoplaylist": "Anda tidak memiliki daftar putar",
     "newplaylist": "Daftar putar baru",
     "playlist": "Daftar putar",
     "playlistdesc": "Deskripsi daftar putar",
-    "playlistname": "Nama daftar putar"
+    "playlistname": "Nama daftar putar",
+    "playlists": "daftar putar"
   },
   "post": {
     "NSFL": "'NSFL (Darah / Kekerasan)'",

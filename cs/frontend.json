@@ -390,13 +390,23 @@
     "votedyourpost": "hlasoval pro váš příspěvek."
   },
   "playlists": {
+    "cloned": "Seznam skladeb byl klonován.",
+    "cloneplaylist": "Klonovat seznam skladeb",
+    "copytoyourprofile": "Zkopírujte tento seznam skladeb do svého vlastního profilu",
+    "created": "Seznam videí byl vytvořen.",
     "createplaylist": "Vytvořit seznam skladeb",
+    "delete": "Odstranit",
+    "deleted": "Seznam skladeb byl smazán.",
+    "deleteplaylist": "Smazat seznam skladeb",
+    "deleteplaylistdescrip": "Tento seznam skladeb bude smazán. Neexistuje žádné vrácení, takže jej nebudete moci najít.",
+    "empty": "Seznam skladeb je prázdný",
     "hasnoplaylist": "nemá žádné seznamy skladeb",
     "havenoplaylist": "Nemáte žádné seznamy skladeb",
     "newplaylist": "Nový seznam skladeb",
     "playlist": "Seznam skladeb",
     "playlistdesc": "Popis seznamu skladeb",
-    "playlistname": "Název seznamu skladeb"
+    "playlistname": "Název seznamu skladeb",
+    "playlists": "seznamy skladeb"
   },
   "post": {
     "NSFL": "„NSFL (krev / násilí)“",

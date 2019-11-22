@@ -389,13 +389,23 @@
     "votedyourpost": "a votat postarea ta."
   },
   "playlists": {
+    "cloned": "Playlist clonat.",
+    "cloneplaylist": "Lista de redare a clonelor",
+    "copytoyourprofile": "Copiați această listă de redare pe propriul profil",
+    "created": "Playlist creat.",
     "createplaylist": "Creați playlist",
+    "delete": "Șterge",
+    "deleted": "Playlist a fost șters.",
+    "deleteplaylist": "Ștergeți lista de redare",
+    "deleteplaylistdescrip": "Această listă de redare va fi ștearsă. Nu se poate desface, așa că nu o vei putea găsi.",
+    "empty": "Lista de redare este goală",
     "hasnoplaylist": "nu are liste de redare",
     "havenoplaylist": "Nu aveți liste de redare",
     "newplaylist": "Nou playlist",
     "playlist": "Listă de redare",
     "playlistdesc": "Descrierea listei de redare",
-    "playlistname": "Numele listei de redare"
+    "playlistname": "Numele listei de redare",
+    "playlists": "liste de redare"
   },
   "post": {
     "NSFL": "„NSFL (sânge / violență)”",

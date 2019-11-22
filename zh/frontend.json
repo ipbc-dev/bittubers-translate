@@ -390,13 +390,23 @@
     "votedyourpost": "对您的帖子进行了投票。"
   },
   "playlists": {
+    "cloned": "播放列表已克隆。",
+    "cloneplaylist": "克隆播放列表",
+    "copytoyourprofile": "将此播放列表复制到您自己的个人资料",
+    "created": "播放列表已创建。",
     "createplaylist": "建立播放清单",
+    "delete": "删除",
+    "deleted": "播放列表已删除。",
+    "deleteplaylist": "删除播放列表",
+    "deleteplaylistdescrip": "该播放列表将被删除。没有撤消操作，因此您将无法找到它。",
+    "empty": "播放列表为空",
     "hasnoplaylist": "没有播放列表",
     "havenoplaylist": "您没有播放列表",
     "newplaylist": "新播放清单",
     "playlist": "播放清单",
     "playlistdesc": "播放清单说明",
-    "playlistname": "播放清单名称"
+    "playlistname": "播放清单名称",
+    "playlists": "播放清单"
   },
   "post": {
     "NSFL": "“ NSFL（血液/暴力）”",

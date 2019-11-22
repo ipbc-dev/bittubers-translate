@@ -390,13 +390,23 @@
     "votedyourpost": "yayınınıza oy verdi."
   },
   "playlists": {
+    "cloned": "Oynatma listesi klonlandı.",
+    "cloneplaylist": "Oynatma Listesini Klonla",
+    "copytoyourprofile": "Bu oynatma listesini kendi profiline kopyala",
+    "created": "Oynatma listesi oluşturuldu.",
     "createplaylist": "Oynatma listesi yarat",
+    "delete": "Sil",
+    "deleted": "Oynatma listesi silindi.",
+    "deleteplaylist": "Oynatma Listesini Sil",
+    "deleteplaylistdescrip": "Bu oynatma listesi silinecek. Geri alma yok, bu yüzden onu bulamayacaksın.",
+    "empty": "Oynatma listesi boş",
     "hasnoplaylist": "oynatma listesi yok",
     "havenoplaylist": "Oynatma listeniz yok",
     "newplaylist": "Yeni çalma listesi",
     "playlist": "Oynatma Listesi",
     "playlistdesc": "Oynatma listesi açıklaması",
-    "playlistname": "Oynatma listesi adı"
+    "playlistname": "Oynatma listesi adı",
+    "playlists": "çalma"
   },
   "post": {
     "NSFL": "'NSFL (Kan / Şiddet)'",

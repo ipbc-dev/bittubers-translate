@@ -389,13 +389,23 @@
     "votedyourpost": "głosował na twój post."
   },
   "playlists": {
+    "cloned": "Sklonowana lista odtwarzania.",
+    "cloneplaylist": "Klonuj listę odtwarzania",
+    "copytoyourprofile": "Skopiuj tę listę odtwarzania do własnego profilu",
+    "created": "Utworzono listę odtwarzania.",
     "createplaylist": "Stwórz playlistę",
+    "delete": "Kasować",
+    "deleted": "Lista odtwarzania została usunięta.",
+    "deleteplaylist": "Usuń listę odtwarzania",
+    "deleteplaylistdescrip": "Ta lista odtwarzania zostanie usunięta. Nie ma cofania, więc nie będzie można go znaleźć.",
+    "empty": "Lista odtwarzania jest pusta",
     "hasnoplaylist": "nie ma list odtwarzania",
     "havenoplaylist": "Nie masz list odtwarzania",
     "newplaylist": "Nowa playlista",
     "playlist": "Lista odtwarzania",
     "playlistdesc": "Opis listy odtwarzania",
-    "playlistname": "Nazwa listy odtwarzania"
+    "playlistname": "Nazwa listy odtwarzania",
+    "playlists": "listy odtwarzania"
   },
   "post": {
     "NSFL": "„NSFL (Blood / Violence)”",

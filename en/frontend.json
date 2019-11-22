@@ -389,13 +389,23 @@
     "votedyourpost": "voted on your post."
   },
   "playlists": {
+    "cloned": "Playlist cloned.",
+    "cloneplaylist": "Clone Playlist",
+    "copytoyourprofile": "Copy this playlist to your own profile",
+    "created": "Playlist created.",
     "createplaylist": "Create playlist",
+    "delete": "Delete",
+    "deleted": "Playlist deleted.",
+    "deleteplaylist": "Delete Playlist",
+    "deleteplaylistdescrip": "This playlist will be deleted. There's no undo so you won't be able to find it.",
+    "empty": "Playlist is empty",
     "hasnoplaylist": "has no playlists",
     "havenoplaylist": "You have no playlists",
     "newplaylist": "New playlist",
     "playlist": "Playlist",
     "playlistdesc": "Playlist description",
-    "playlistname": "Playlist name"
+    "playlistname": "Playlist name",
+    "playlists": "playlists"
   },
   "post": {
     "NSFL": "'NSFL (Blood/Violence)'",

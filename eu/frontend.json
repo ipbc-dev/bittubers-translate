@@ -390,13 +390,23 @@
     "votedyourpost": "botoa eman zuen zure mezuan."
   },
   "playlists": {
+    "cloned": "Erreprodukzio-zerrenda klonatua.",
+    "cloneplaylist": "Klonen erreprodukzio zerrenda",
+    "copytoyourprofile": "Kopiatu erreprodukzio zerrenda zure profilera",
+    "created": "Erreprodukzio-zerrenda sortu da.",
     "createplaylist": "Sortu erreprodukzio zerrenda",
+    "delete": "Ezabatu",
+    "deleted": "Erreprodukzio-zerrenda ezabatu da.",
+    "deleteplaylist": "Ezabatu erreprodukzio-zerrenda",
+    "deleteplaylistdescrip": "Erreprodukzio zerrenda hau ezabatuko da. Ez da desegin, beraz ezin duzu aurkitu.",
+    "empty": "Erreprodukzio-zerrenda hutsik dago",
     "hasnoplaylist": "ez du erreprodukzio-zerrendarik",
     "havenoplaylist": "Ez duzu erreprodukzio zerrendarik",
     "newplaylist": "Erreprodukzio zerrenda berria",
     "playlist": "erreprodukzio-zerrendan",
     "playlistdesc": "Erreprodukzio-zerrenda deskribapena",
-    "playlistname": "Erreprodukzio-zerrenda"
+    "playlistname": "Erreprodukzio-zerrenda",
+    "playlists": "erreprodukzio zerrendak"
   },
   "post": {
     "NSFL": "'NSFL (Odola / Indarkeria)'",
