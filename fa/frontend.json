@@ -228,7 +228,9 @@
     "createmanagegroup": "یک گروه عمومی یا خصوصی خود را ایجاد ، مدیریت و تعدیل کنید.",
     "groupcreated": "گروه ایجاد شد",
     "groupcreatedby": "گروه های ایجاد شده توسط",
+    "groupshejoined": "گروه هایی که {{username}} به آنها پیوسته اند",
     "grouptype": "نوع گروه",
+    "joinedgroups": "گروه هایی که من به آنها تعلق دارم",
     "joingroup": "به گروه بپیوندید",
     "leavegroup": "گروه را ترک کن",
     "memberuknow": "اعضایی که می شناسید",
@@ -237,6 +239,7 @@
     "nogroupsyet": "هنوز هیچ گروهی نیست",
     "sorrynogroups": "متأسفیم ، هیچ گروهی برای کشف",
     "usergroups": "گروه های کاربر",
+    "usernamegroups": "گروه های {{username}} نام کاربری",
     "viewgroupposts": "مشاهده پست های گروه"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "لیست پخش حذف شد.",
     "deleteplaylist": "لیست پخش را حذف کنید",
     "deleteplaylistdescrip": "این لیست پخش حذف می شود. خنثیسازی وجود ندارد بنابراین شما قادر به پیدا کردن آن نخواهید بود.",
+    "editplaylists": "لیست های پخش را ویرایش کنید",
     "empty": "لیست پخش خالی است",
     "hasnoplaylist": "لیست پخش ندارد",
     "havenoplaylist": "هیچ لیست پخش ای ندارید",
+    "itemdeleted": "مورد حذف شد",
     "newplaylist": "لیست پخش جدید",
     "playlist": "لیست پخش",
     "playlistdesc": "توضیحات لیست پخش",
+    "playlistisempty": "لیست پخش خالی است",
     "playlistname": "نام لیست پخش",
-    "playlists": "لیست های پخش"
+    "playlists": "لیست های پخش",
+    "playlistupdated": "لیست پخش به روز شد",
+    "updateplaylist": "لیست پخش را به روز کنید",
+    "usernameplaylists": "لیست های پخش لیست @{{username}}"
   },
   "post": {
     "NSFL": "\"NSFL (خون / خشونت)\"",

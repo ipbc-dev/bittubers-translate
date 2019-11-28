@@ -228,7 +228,9 @@
     "createmanagegroup": "Създайте, управлявайте и модерирайте собствена публична или поверителна група.",
     "groupcreated": "Групата е създадена",
     "groupcreatedby": "Групи, създадени от",
+    "groupshejoined": "Групи, които {{username}} се присъединиха",
     "grouptype": "Тип група",
+    "joinedgroups": "Групи, към които принадлежа",
     "joingroup": "Влезе в групата",
     "leavegroup": "Напусни групата",
     "memberuknow": "Членове, които познавате",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Все още няма групи",
     "sorrynogroups": "За съжаление няма групи за изследване.",
     "usergroups": "Потребителски групи",
+    "usernamegroups": "групите {{username}}",
     "viewgroupposts": "преглед на публикации в групи"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Плейлистът е изтрит.",
     "deleteplaylist": "Изтриване на плейлиста",
     "deleteplaylistdescrip": "Този плейлист ще бъде изтрит. Няма отмяна, така че няма да можете да го намерите.",
+    "editplaylists": "Редактиране на плейлисти",
     "empty": "Плейлистът е празен",
     "hasnoplaylist": "няма плейлисти",
     "havenoplaylist": "Нямате плейлисти",
+    "itemdeleted": "Елементът е изтрит.",
     "newplaylist": "Нов плейлист",
     "playlist": "плейлист",
     "playlistdesc": "Описание на плейлиста",
+    "playlistisempty": "Плейлистът е празен",
     "playlistname": "Име на плейлиста",
-    "playlists": "плейлисти"
+    "playlists": "плейлисти",
+    "playlistupdated": "Плейлистът е актуализиран",
+    "updateplaylist": "Актуализиране на плейлиста",
+    "usernameplaylists": "Плейлисти на @{{username}}"
   },
   "post": {
     "NSFL": "„NSFL (Кръв / Насилие)“",

@@ -228,7 +228,9 @@
     "createmanagegroup": "创建，管理和管理您自己的公共或私人组。",
     "groupcreated": "群组已建立",
     "groupcreatedby": "创建的组",
+    "groupshejoined": "{{username}} 已加入的群组",
     "grouptype": "团体类型",
+    "joinedgroups": "我所属的群组",
     "joingroup": "加入组",
     "leavegroup": "离开组",
     "memberuknow": "你认识的成员",
@@ -237,6 +239,7 @@
     "nogroupsyet": "尚无群组",
     "sorrynogroups": "抱歉，没有团体可以探索。",
     "usergroups": "用户群",
+    "usernamegroups": "{{username}} 的群组",
     "viewgroupposts": "查看群组帖子"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "播放列表已删除。",
     "deleteplaylist": "删除播放列表",
     "deleteplaylistdescrip": "该播放列表将被删除。没有撤消操作，因此您将无法找到它。",
+    "editplaylists": "修改播放列表",
     "empty": "播放列表为空",
     "hasnoplaylist": "没有播放列表",
     "havenoplaylist": "您没有播放列表",
+    "itemdeleted": "项目已删除。",
     "newplaylist": "新播放清单",
     "playlist": "播放清单",
     "playlistdesc": "播放清单说明",
+    "playlistisempty": "播放列表为空",
     "playlistname": "播放清单名称",
-    "playlists": "播放清单"
+    "playlists": "播放清单",
+    "playlistupdated": "播放清单已更新",
+    "updateplaylist": "更新播放列表",
+    "usernameplaylists": "@{{username}} 的播放列表"
   },
   "post": {
     "NSFL": "“ NSFL（血液/暴力）”",

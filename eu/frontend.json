@@ -228,7 +228,9 @@
     "createmanagegroup": "Sortu, kudeatu eta moderatu zure talde publiko edo pribatua.",
     "groupcreated": "Taldea sortua",
     "groupcreatedby": "Sortutako taldeak",
+    "groupshejoined": "{{Erabiltzaile izena}} -rekin bat egin duten taldeak",
     "grouptype": "Talde mota",
+    "joinedgroups": "Taldeak naiz",
     "joingroup": "Sartu taldean",
     "leavegroup": "Utzi taldea",
     "memberuknow": "Ezagutzen dituzun kideak",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Oraindik ez dago talderik",
     "sorrynogroups": "Barkatu, ez duzu arakatu talderik.",
     "usergroups": "Erabiltzaile taldeak",
+    "usernamegroups": "{{username}}'ren taldeak",
     "viewgroupposts": "taldeen mezuak ikusi"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Erreprodukzio-zerrenda ezabatu da.",
     "deleteplaylist": "Ezabatu erreprodukzio-zerrenda",
     "deleteplaylistdescrip": "Erreprodukzio zerrenda hau ezabatuko da. Ez da desegin, beraz ezin duzu aurkitu.",
+    "editplaylists": "Editatu erreprodukzio zerrendak",
     "empty": "Erreprodukzio-zerrenda hutsik dago",
     "hasnoplaylist": "ez du erreprodukzio-zerrendarik",
     "havenoplaylist": "Ez duzu erreprodukzio zerrendarik",
+    "itemdeleted": "Elementua ezabatu da",
     "newplaylist": "Erreprodukzio zerrenda berria",
     "playlist": "erreprodukzio-zerrendan",
     "playlistdesc": "Erreprodukzio-zerrenda deskribapena",
+    "playlistisempty": "Erreprodukzio-zerrenda hutsik dago",
     "playlistname": "Erreprodukzio-zerrenda",
-    "playlists": "erreprodukzio zerrendak"
+    "playlists": "erreprodukzio zerrendak",
+    "playlistupdated": "Erreprodukzio-zerrenda eguneratu da",
+    "updateplaylist": "Eguneratu zerrenda",
+    "usernameplaylists": "@{{username}} erreprodukzio zerrendak"
   },
   "post": {
     "NSFL": "'NSFL (Odola / Indarkeria)'",

@@ -228,7 +228,9 @@
     "createmanagegroup": "Twórz, zarządzaj i moderuj własną grupę publiczną lub prywatną.",
     "groupcreated": "Grupa utworzona",
     "groupcreatedby": "Grupy utworzone przez",
+    "groupshejoined": "Grupy, do których dołączyła {{username}}",
     "grouptype": "Rodzaj grupy",
+    "joinedgroups": "Grupy, do których należę",
     "joingroup": "Dołączyć do grupy",
     "leavegroup": "Opuścić grupę",
     "memberuknow": "Członkowie, których znasz",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Brak grup",
     "sorrynogroups": "Przepraszamy, brak grup do odkrycia.",
     "usergroups": "Grupy użytkowników",
+    "usernamegroups": "Grupy {{username}}",
     "viewgroupposts": "przeglądaj posty grup"
   },
   "header": {
@@ -415,14 +418,20 @@
     "deleted": "Lista odtwarzania została usunięta.",
     "deleteplaylist": "Usuń listę odtwarzania",
     "deleteplaylistdescrip": "Ta lista odtwarzania zostanie usunięta. Nie ma cofania, więc nie będzie można go znaleźć.",
+    "editplaylists": "Edytuj listy odtwarzania",
     "empty": "Lista odtwarzania jest pusta",
     "hasnoplaylist": "nie ma list odtwarzania",
     "havenoplaylist": "Nie masz list odtwarzania",
+    "itemdeleted": "Element został usunięty.",
     "newplaylist": "Nowa playlista",
     "playlist": "Lista odtwarzania",
     "playlistdesc": "Opis listy odtwarzania",
+    "playlistisempty": "Lista odtwarzania jest pusta",
     "playlistname": "Nazwa listy odtwarzania",
-    "playlists": "listy odtwarzania"
+    "playlists": "listy odtwarzania",
+    "playlistupdated": "Zaktualizowano listę odtwarzania",
+    "updateplaylist": "Zaktualizuj listę odtwarzania",
+    "usernameplaylists": "Listy odtwarzania @{{username}}"
   },
   "post": {
     "NSFL": "„NSFL (Blood / Violence)”",

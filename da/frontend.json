@@ -228,7 +228,9 @@
     "createmanagegroup": "Opret, administrer og moderér din egen offentlige eller private gruppe.",
     "groupcreated": "Gruppe oprettet",
     "groupcreatedby": "Grupper oprettet af",
+    "groupshejoined": "Grupper, som {{username}} er tilsluttet",
     "grouptype": "Gruppetype",
+    "joinedgroups": "Grupper, jeg tilhører",
     "joingroup": "Tilmeld gruppe",
     "leavegroup": "Forlad gruppe",
     "memberuknow": "Medlemmer, du kender",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Der er endnu ingen grupper",
     "sorrynogroups": "Beklager, ingen grupper at udforske.",
     "usergroups": "Brugergrupper",
+    "usernamegroups": "{{username}}'s grupper",
     "viewgroupposts": "se gruppeposter"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Playlist slettet.",
     "deleteplaylist": "Slet afspilningsliste",
     "deleteplaylistdescrip": "Denne spilleliste slettes. Der er ingen fortryd, så du ikke kan finde det.",
+    "editplaylists": "Rediger afspilningslister",
     "empty": "Afspilningsliste er tom",
     "hasnoplaylist": "har ingen afspilningslister",
     "havenoplaylist": "Du har ingen afspilningslister",
+    "itemdeleted": "Elementet er slettet.",
     "newplaylist": "Ny afspilningsliste",
     "playlist": "afspilningsliste",
     "playlistdesc": "Beskrivelse af afspilningsliste",
+    "playlistisempty": "Afspilningsliste er tom",
     "playlistname": "Playlistens navn",
-    "playlists": "afspilningslister"
+    "playlists": "afspilningslister",
+    "playlistupdated": "Playlist opdateret",
+    "updateplaylist": "Opdater afspilningsliste",
+    "usernameplaylists": "@{{username}} 's spillelister"
   },
   "post": {
     "NSFL": "'NSFL (blod / vold)'",

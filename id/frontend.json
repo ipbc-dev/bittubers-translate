@@ -228,7 +228,9 @@
     "createmanagegroup": "Buat, kelola, dan kelola grup publik atau pribadi Anda sendiri.",
     "groupcreated": "Grup dibuat",
     "groupcreatedby": "Grup dibuat oleh",
+    "groupshejoined": "Grup yang {{username}} telah bergabung",
     "grouptype": "Jenis grup",
+    "joinedgroups": "Grup milik saya",
     "joingroup": "Bergabung dengan grup",
     "leavegroup": "Meninggalkan grup",
     "memberuknow": "Anggota yang kamu kenal",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Belum ada grup",
     "sorrynogroups": "Maaf, tidak ada grup yang dapat dijelajahi.",
     "usergroups": "Grup Pengguna",
+    "usernamegroups": "Grup {{username}}",
     "viewgroupposts": "lihat posting grup"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Daftar putar dihapus.",
     "deleteplaylist": "Hapus Daftar Putar",
     "deleteplaylistdescrip": "Daftar putar ini akan dihapus. Tidak ada yang dibatalkan sehingga Anda tidak akan dapat menemukannya.",
+    "editplaylists": "Edit daftar putar",
     "empty": "Daftar putar kosong",
     "hasnoplaylist": "tidak memiliki daftar putar",
     "havenoplaylist": "Anda tidak memiliki daftar putar",
+    "itemdeleted": "Item dihapus.",
     "newplaylist": "Daftar putar baru",
     "playlist": "Daftar putar",
     "playlistdesc": "Deskripsi daftar putar",
+    "playlistisempty": "Daftar putar kosong",
     "playlistname": "Nama daftar putar",
-    "playlists": "daftar putar"
+    "playlists": "daftar putar",
+    "playlistupdated": "Daftar putar diperbarui",
+    "updateplaylist": "Perbarui daftar putar",
+    "usernameplaylists": "Daftar putar @{{username}}"
   },
   "post": {
     "NSFL": "'NSFL (Darah / Kekerasan)'",

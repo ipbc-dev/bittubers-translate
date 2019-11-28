@@ -228,7 +228,9 @@
     "createmanagegroup": "Créez, gérez et modérez votre propre groupe public ou privé.",
     "groupcreated": "Groupe créé",
     "groupcreatedby": "Groupes créés par",
+    "groupshejoined": "Groupes auxquels {{username}} a rejoint",
     "grouptype": "Type de groupe",
+    "joinedgroups": "Groupes auxquels j'appartiens",
     "joingroup": "Rejoindre le groupe",
     "leavegroup": "Quitter le groupe",
     "memberuknow": "Membres que vous connaissez",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Pas encore de groupe",
     "sorrynogroups": "Désolé, pas de groupes à explorer.",
     "usergroups": "Groupes d'utilisateurs",
+    "usernamegroups": "{{username}}",
     "viewgroupposts": "voir les messages des groupes"
   },
   "header": {
@@ -415,14 +418,20 @@
     "deleted": "Playlist supprimée.",
     "deleteplaylist": "Supprimer la liste de lecture",
     "deleteplaylistdescrip": "Cette playlist sera supprimée. Il n'y a pas d'annulation, vous ne pourrez donc pas le trouver.",
+    "editplaylists": "Modifier les playlists",
     "empty": "La playlist est vide",
     "hasnoplaylist": "n'a pas de playlists",
     "havenoplaylist": "Vous n'avez pas de playlists",
+    "itemdeleted": "Élément supprimé.",
     "newplaylist": "Nouvelle playlist",
     "playlist": "Playlist",
     "playlistdesc": "Description de la playlist",
+    "playlistisempty": "La playlist est vide",
     "playlistname": "Nom de la playlist",
-    "playlists": "listes de lecture"
+    "playlists": "listes de lecture",
+    "playlistupdated": "Playlist mise à jour",
+    "updateplaylist": "Mettre à jour la playlist",
+    "usernameplaylists": "Les playlists de @{{username}}"
   },
   "post": {
     "NSFL": "'NSFL (Blood / Violence)'",

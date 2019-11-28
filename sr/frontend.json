@@ -228,7 +228,9 @@
     "createmanagegroup": "Креирајте, управљајте и модерирајте своју јавну или приватну групу.",
     "groupcreated": "Група је креирана",
     "groupcreatedby": "Групе које је створио",
+    "groupshejoined": "Групе које су се {{username}} придружиле",
     "grouptype": "Тип групе",
+    "joinedgroups": "Групама којима припадам",
     "joingroup": "Придружити групи",
     "leavegroup": "Напусти групу",
     "memberuknow": "Чланови које знате",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Још нема група",
     "sorrynogroups": "Извините, ниједна група не би могла да истражује.",
     "usergroups": "Корисничке групе",
+    "usernamegroups": "Групе {{username}}",
     "viewgroupposts": "прикажи групе"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Листа за репродукцију је избрисана",
     "deleteplaylist": "Избриши листу репродукције",
     "deleteplaylistdescrip": "Ова плејлиста ће бити избрисана. Нема поништења па је нећете моћи пронаћи.",
+    "editplaylists": "Уређивање листа за репродукцију",
     "empty": "Листа за репродукцију је празна",
     "hasnoplaylist": "нема плејлиста",
     "havenoplaylist": "Немате плејлисте",
+    "itemdeleted": "Ставка је избрисана",
     "newplaylist": "Нова листа песама",
     "playlist": "Плаилист",
     "playlistdesc": "Опис листе репродукције",
+    "playlistisempty": "Листа за репродукцију је празна",
     "playlistname": "Име плејлисте",
-    "playlists": "плејлисте"
+    "playlists": "плејлисте",
+    "playlistupdated": "Листа за репродукцију је ажурирана",
+    "updateplaylist": "Ажурирај листу репродукције",
+    "usernameplaylists": "Листе за репродукцију @{{username}}"
   },
   "post": {
     "NSFL": "'НСФЛ (крв / насиље)'",

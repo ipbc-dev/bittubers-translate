@@ -228,7 +228,9 @@
     "createmanagegroup": "Kendi genel veya özel grubunuzu oluşturun, yönetin ve yönetin.",
     "groupcreated": "Grup oluşturuldu",
     "groupcreatedby": "Tarafından oluşturulan gruplar",
+    "groupshejoined": "{{username}} grubunun katıldığı gruplar",
     "grouptype": "Grup türü",
+    "joinedgroups": "Ait olduğum gruplar",
     "joingroup": "Gruba katılmak",
     "leavegroup": "Gruptan ayrıl",
     "memberuknow": "Tanıdığınız üyeler",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Henüz grup yok",
     "sorrynogroups": "Üzgünüz, keşfedilecek grup yok.",
     "usergroups": "Kullanıcı Grupları",
+    "usernamegroups": "{{username}} adlı kullanıcının grupları",
     "viewgroupposts": "grup yayınlarını görüntüle"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Oynatma listesi silindi.",
     "deleteplaylist": "Oynatma Listesini Sil",
     "deleteplaylistdescrip": "Bu oynatma listesi silinecek. Geri alma yok, bu yüzden onu bulamayacaksın.",
+    "editplaylists": "Oynatma listelerini düzenle",
     "empty": "Oynatma listesi boş",
     "hasnoplaylist": "oynatma listesi yok",
     "havenoplaylist": "Oynatma listeniz yok",
+    "itemdeleted": "Öğe silindi.",
     "newplaylist": "Yeni çalma listesi",
     "playlist": "Oynatma Listesi",
     "playlistdesc": "Oynatma listesi açıklaması",
+    "playlistisempty": "Oynatma listesi boş",
     "playlistname": "Oynatma listesi adı",
-    "playlists": "çalma"
+    "playlists": "çalma",
+    "playlistupdated": "Oynatma listesi güncellendi",
+    "updateplaylist": "Oynatma listesini güncelle",
+    "usernameplaylists": "@{{username}} adlı kullanıcının listeleri"
   },
   "post": {
     "NSFL": "'NSFL (Kan / Şiddet)'",

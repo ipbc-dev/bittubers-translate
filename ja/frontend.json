@@ -228,7 +228,9 @@
     "createmanagegroup": "独自のパブリックまたはプライベートグループを作成、管理、管理します。",
     "groupcreated": "作成されたグループ",
     "groupcreatedby": "によって作成されたグループ",
+    "groupshejoined": "{{username}}が参加したグループ",
     "grouptype": "グループタイプ",
+    "joinedgroups": "私が属するグループ",
     "joingroup": "グループに参加",
     "leavegroup": "グループを離れる",
     "memberuknow": "知っているメンバー",
@@ -237,6 +239,7 @@
     "nogroupsyet": "グループはまだありません",
     "sorrynogroups": "申し訳ありませんが、探索するグループはありません。",
     "usergroups": "ユーザーグループ",
+    "usernamegroups": "{{username}}のグループ",
     "viewgroupposts": "グループの投稿を表示"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "プレイリストが削除されました。",
     "deleteplaylist": "プレイリストを削除",
     "deleteplaylistdescrip": "このプレイリストは削除されます。元に戻すことはできないため、見つけることはできません。",
+    "editplaylists": "プレイリストを編集する",
     "empty": "プレイリストが空です",
     "hasnoplaylist": "プレイリストがありません",
     "havenoplaylist": "プレイリストがありません",
+    "itemdeleted": "アイテムを削除しました。",
     "newplaylist": "新しいプレイリスト",
     "playlist": "プレイリスト",
     "playlistdesc": "プレイリストの説明",
+    "playlistisempty": "プレイリストが空です",
     "playlistname": "プレイリスト名",
-    "playlists": "プレイリスト"
+    "playlists": "プレイリスト",
+    "playlistupdated": "プレイリストが更新されました",
+    "updateplaylist": "プレイリストを更新",
+    "usernameplaylists": "@{{username}}のプレイリスト"
   },
   "post": {
     "NSFL": "「NSFL（血液/暴力）」",

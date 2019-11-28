@@ -228,7 +228,9 @@
     "createmanagegroup": "Создайте, управляйте и модерируйте свою публичную или частную группу.",
     "groupcreated": "Группа создана",
     "groupcreatedby": "Groups created by",
+    "groupshejoined": "Группы, к которым {{username}} присоединился",
     "grouptype": "Тип группы",
+    "joinedgroups": "Группы, к которым я принадлежу",
     "joingroup": "Вступить в группу",
     "leavegroup": "Покинуть группу",
     "memberuknow": "Пользователи, которых вы знаете",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Еще нет групп",
     "sorrynogroups": "Извините, нет групп для изучения.",
     "usergroups": "Группы пользователей",
+    "usernamegroups": "{{username}} группы",
     "viewgroupposts": "просмотреть посты группы"
   },
   "header": {
@@ -415,14 +418,20 @@
     "deleted": "Плейлист удален.",
     "deleteplaylist": "Удалить плейлист",
     "deleteplaylistdescrip": "Этот плейлист будет удален. Там нет отмены, поэтому вы не сможете найти его.",
+    "editplaylists": "Редактировать плейлисты",
     "empty": "Плейлист пуст",
     "hasnoplaylist": "не имеет плейлистов",
     "havenoplaylist": "У вас нет плейлистов",
+    "itemdeleted": "Элемент удален.",
     "newplaylist": "Новый плейлист",
     "playlist": "Плейлист",
     "playlistdesc": "Описание плейлиста",
+    "playlistisempty": "Плейлист пуст",
     "playlistname": "Название плейлиста",
-    "playlists": "плейлисты"
+    "playlists": "плейлисты",
+    "playlistupdated": "Плейлист обновлен",
+    "updateplaylist": "Обновить плейлист",
+    "usernameplaylists": "Плейлисты @{{username}}"
   },
   "post": {
     "NSFL": "«НСФЛ (кровь / насилие)»",

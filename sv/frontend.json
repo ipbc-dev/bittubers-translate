@@ -228,7 +228,9 @@
     "createmanagegroup": "Skapa, hantera och moderera din egen offentliga eller privata grupp.",
     "groupcreated": "Grupp skapad",
     "groupcreatedby": "Grupper skapade av",
+    "groupshejoined": "Grupper som {{username}} har gått med i",
     "grouptype": "Grupptyp",
+    "joinedgroups": "Grupper jag tillhör",
     "joingroup": "Gå med i gruppen",
     "leavegroup": "Lämna gruppen",
     "memberuknow": "Medlemmar du känner",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Inga grupper än",
     "sorrynogroups": "Tyvärr, inga grupper att utforska.",
     "usergroups": "Användargrupper",
+    "usernamegroups": "{{username}}:s grupper",
     "viewgroupposts": "visa gruppinlägg"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Spellista raderad.",
     "deleteplaylist": "Radera spellista",
     "deleteplaylistdescrip": "Den här spellistan raderas. Det finns ingen ångring så att du inte kan hitta det.",
+    "editplaylists": "Redigera spellistor",
     "empty": "Spellistan är tom",
     "hasnoplaylist": "har inga spellistor",
     "havenoplaylist": "Du har inga spellistor",
+    "itemdeleted": "Objektet raderas.",
     "newplaylist": "Ny spellista",
     "playlist": "Spellista",
     "playlistdesc": "Beskrivning av spellista",
+    "playlistisempty": "Spellistan är tom",
     "playlistname": "Spellistnamn",
-    "playlists": "spellistor"
+    "playlists": "spellistor",
+    "playlistupdated": "Spellistan uppdaterad",
+    "updateplaylist": "Uppdatera spellistan",
+    "usernameplaylists": "@{{username}}:s spellistor"
   },
   "post": {
     "NSFL": "'NSFL (blod / våld)'",

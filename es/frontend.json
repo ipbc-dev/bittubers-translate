@@ -228,7 +228,9 @@
     "createmanagegroup": "Crea, administra y modera tu propio grupo público o privado.",
     "groupcreated": "Grupo creado",
     "groupcreatedby": "Grupo creados por",
+    "groupshejoined": "Grupos a los que {{username}} se ha unido",
     "grouptype": "Tipo de grupo",
+    "joinedgroups": "Grupos a los que pertenezco",
     "joingroup": "Unirse al grupo",
     "leavegroup": "Abandonar grupo",
     "memberuknow": "Miembros que conoces",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Aún no hay grupos",
     "sorrynogroups": "Lo sentimos, no hay grupos para explorar.",
     "usergroups": "Grupos de Usuarios",
+    "usernamegroups": "Grupos de {{username}}",
     "viewgroupposts": "ver publicaciones de grupos"
   },
   "header": {
@@ -415,14 +418,20 @@
     "deleted": "Lista de reproducción eliminada.",
     "deleteplaylist": "Eliminar lista de reproducción",
     "deleteplaylistdescrip": "Esta lista de reproducción será eliminada. No hay deshacer, así que no podrás encontrarlo.",
+    "editplaylists": "Editar listas de reproducción",
     "empty": "La lista de reproducción está vacía.",
     "hasnoplaylist": "no tiene listas de reproducción",
     "havenoplaylist": "No tiene listas de reproducción",
+    "itemdeleted": "Elemento eliminado",
     "newplaylist": "Nueva lista de reproducción",
     "playlist": "Lista de reproducción",
     "playlistdesc": "Descripción de la lista de reproducción",
+    "playlistisempty": "La lista de reproducción está vacía.",
     "playlistname": "Nombre de la lista de reproducción",
-    "playlists": "listas de reproducción"
+    "playlists": "listas de reproducción",
+    "playlistupdated": "Lista de reproducción actualizada",
+    "updateplaylist": "Actualizar lista de reproducción",
+    "usernameplaylists": "Listas de reproducción de @{{username}}"
   },
   "post": {
     "NSFL": "'NSFL (Sangre / Violencia)'",

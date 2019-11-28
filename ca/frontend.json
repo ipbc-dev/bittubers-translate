@@ -228,7 +228,9 @@
     "createmanagegroup": "Creeu, gestioneu i modereu el vostre propi grup públic o privat.",
     "groupcreated": "Grup creat",
     "groupcreatedby": "Grups creats per",
+    "groupshejoined": "Grups que s’han unit {{username}}",
     "grouptype": "Tipus de grup",
+    "joinedgroups": "Grups als quals pertanyo",
     "joingroup": "Unir-se al grup",
     "leavegroup": "Marxar del grup",
     "memberuknow": "Membres que coneixeu",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Encara no hi ha grups",
     "sorrynogroups": "Ho sentim, no hi ha cap grup per explorar.",
     "usergroups": "Grups d’usuaris",
+    "usernamegroups": "Grups de {{username}}",
     "viewgroupposts": "visualització de publicacions de grups"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "S'ha suprimit la llista de reproducció.",
     "deleteplaylist": "Suprimeix la llista de reproducció",
     "deleteplaylistdescrip": "Aquesta llista de reproducció se suprimirà. No hi ha desfer, així que no el podreu trobar.",
+    "editplaylists": "Edita les llistes de reproducció",
     "empty": "La llista de reproducció està buida",
     "hasnoplaylist": "no té cap llista de reproducció",
     "havenoplaylist": "No teniu cap llista de reproducció",
+    "itemdeleted": "S’ha suprimit l’element.",
     "newplaylist": "Nova llista de reproducció",
     "playlist": "Llista de reproducció",
     "playlistdesc": "Descripció de la llista de reproducció",
+    "playlistisempty": "La llista de reproducció està buida",
     "playlistname": "Nom de la llista de reproducció",
-    "playlists": "Llistes de reproducció"
+    "playlists": "Llistes de reproducció",
+    "playlistupdated": "S'ha actualitzat la llista de reproducció",
+    "updateplaylist": "Actualitza la llista de reproducció",
+    "usernameplaylists": "Les llistes de reproducció de @{{username}}"
   },
   "post": {
     "NSFL": "NSFL (sang / violència)",

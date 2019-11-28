@@ -228,7 +228,9 @@
     "createmanagegroup": "Vytvořte, spravujte a moderujte svou vlastní veřejnou nebo soukromou skupinu.",
     "groupcreated": "Skupina byla vytvořena",
     "groupcreatedby": "Skupiny vytvořené uživatelem",
+    "groupshejoined": "Skupiny, ke kterým se připojilo {{username}}",
     "grouptype": "Typ skupiny",
+    "joinedgroups": "Skupiny, do kterých patřím",
     "joingroup": "Přidat se ke skupině",
     "leavegroup": "Opustit skupinu",
     "memberuknow": "Členové, které znáte",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Zatím žádné skupiny",
     "sorrynogroups": "Litujeme, žádné skupiny k prozkoumání.",
     "usergroups": "Skupiny uživatelů",
+    "usernamegroups": "Skupiny {{username}}",
     "viewgroupposts": "zobrazit příspěvky skupin"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Seznam skladeb byl smazán.",
     "deleteplaylist": "Smazat seznam skladeb",
     "deleteplaylistdescrip": "Tento seznam skladeb bude smazán. Neexistuje žádné vrácení, takže jej nebudete moci najít.",
+    "editplaylists": "Upravit seznamy skladeb",
     "empty": "Seznam skladeb je prázdný",
     "hasnoplaylist": "nemá žádné seznamy skladeb",
     "havenoplaylist": "Nemáte žádné seznamy skladeb",
+    "itemdeleted": "Položka byla smazána.",
     "newplaylist": "Nový seznam skladeb",
     "playlist": "Seznam skladeb",
     "playlistdesc": "Popis seznamu skladeb",
+    "playlistisempty": "Seznam skladeb je prázdný",
     "playlistname": "Název seznamu skladeb",
-    "playlists": "seznamy skladeb"
+    "playlists": "seznamy skladeb",
+    "playlistupdated": "Seznam skladeb byl aktualizován",
+    "updateplaylist": "Aktualizujte seznam skladeb",
+    "usernameplaylists": "Seznamy skladeb @{{username}}"
   },
   "post": {
     "NSFL": "„NSFL (krev / násilí)“",

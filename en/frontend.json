@@ -228,7 +228,9 @@
     "createmanagegroup": "Create, manage and moderate your own public or private group.",
     "groupcreated": "Group created",
     "groupcreatedby": "Groups created by",
+    "groupshejoined": "Groups that {{username}} has joined",
     "grouptype": "Group type",
+    "joinedgroups": "Joined groups",
     "joingroup": "Join group",
     "leavegroup": "Leave Group",
     "memberuknow": "Members you know",
@@ -237,6 +239,7 @@
     "nogroupsyet": "No groups yet",
     "sorrynogroups": "Sorry, no groups to explore.",
     "usergroups": "User groups",
+    "usernamegroups": "{{username}}'s groups",
     "viewgroupposts": "view groups posts"
   },
   "header": {
@@ -415,14 +418,20 @@
     "deleted": "Playlist deleted.",
     "deleteplaylist": "Delete Playlist",
     "deleteplaylistdescrip": "This playlist will be deleted. There's no undo so you won't be able to find it.",
+    "editplaylists": "Edit playlists",
     "empty": "Playlist is empty",
     "hasnoplaylist": "has no playlists",
     "havenoplaylist": "You have no playlists",
+    "itemdeleted": "Item deleted.",
     "newplaylist": "New playlist",
     "playlist": "Playlist",
     "playlistdesc": "Playlist description",
+    "playlistisempty": "Playlist is empty",
     "playlistname": "Playlist name",
-    "playlists": "playlists"
+    "playlists": "playlists",
+    "playlistupdated": "Playlist updated",
+    "updateplaylist": "Update playlist",
+    "usernameplaylists": "@{{username}}'s playlists"
   },
   "post": {
     "NSFL": "'NSFL (Blood/Violence)'",

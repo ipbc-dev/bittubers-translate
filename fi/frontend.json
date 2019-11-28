@@ -228,7 +228,9 @@
     "createmanagegroup": "Luo, hallinnoi ja valvo omaa julkista tai yksityistä ryhmääsi.",
     "groupcreated": "Ryhmä luotu",
     "groupcreatedby": "Ryhmät luonut",
+    "groupshejoined": "Ryhmät, joihin {{username}} on liittynyt",
     "grouptype": "Ryhmätyyppi",
+    "joinedgroups": "Ryhmät, joihin kuulun",
     "joingroup": "Liittyä ryhmään",
     "leavegroup": "Jätä ryhmä",
     "memberuknow": "Tunnetut jäsenet",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Ei vielä ryhmiä",
     "sorrynogroups": "Valitettavasti ei ryhmiä tutkittavaksi.",
     "usergroups": "Käyttäjäryhmät",
+    "usernamegroups": "{{username}} ryhmät",
     "viewgroupposts": "tarkastele ryhmien viestejä"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Soittolista poistettu.",
     "deleteplaylist": "Poista soittolista",
     "deleteplaylistdescrip": "Tämä soittolista poistetaan. Kumoamista ei ole, joten et löydä sitä.",
+    "editplaylists": "Muokkaa soittolistoja",
     "empty": "Soittolista on tyhjä",
     "hasnoplaylist": "ei ole soittolistoja",
     "havenoplaylist": "Sinulla ei ole soittolistoja",
+    "itemdeleted": "Kohde poistettu.",
     "newplaylist": "Uusi soittolista",
     "playlist": "soittolista",
     "playlistdesc": "Soittolistan kuvaus",
+    "playlistisempty": "Soittolista on tyhjä",
     "playlistname": "Soittolistan nimi",
-    "playlists": "soittolistoja"
+    "playlists": "soittolistoja",
+    "playlistupdated": "Soittolista päivitetty",
+    "updateplaylist": "Päivitä soittolista",
+    "usernameplaylists": "@{{username}} soittolistat"
   },
   "post": {
     "NSFL": "'NSFL (veri / väkivalta)'",

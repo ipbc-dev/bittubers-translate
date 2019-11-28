@@ -228,7 +228,9 @@
     "createmanagegroup": "Crea, xestiona e modera o teu propio grupo público ou privado.",
     "groupcreated": "Grupo creado",
     "groupcreatedby": "Grupos creados por",
+    "groupshejoined": "Grupos aos que se uniu {{username}}",
     "grouptype": "Tipo de grupo",
+    "joinedgroups": "Grupos aos que pertenzo",
     "joingroup": "Únete ao grupo",
     "leavegroup": "Deixar grupo",
     "memberuknow": "Membros que coñeces",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Aínda non hai grupos",
     "sorrynogroups": "Sentímolo, non hai grupos que explorar.",
     "usergroups": "Grupos de usuarios",
+    "usernamegroups": "Grupos de {{username}}",
     "viewgroupposts": "ver as publicacións de grupos"
   },
   "header": {
@@ -416,14 +419,20 @@
     "deleted": "Eliminouse a lista de reprodución.",
     "deleteplaylist": "Eliminar lista de reprodución",
     "deleteplaylistdescrip": "Esta lista de reprodución eliminarase. Non se pode desfacer, polo que non poderás atopalo.",
+    "editplaylists": "Editar listas de reprodución",
     "empty": "A lista de reprodución está baleira",
     "hasnoplaylist": "non ten listas de reprodución",
     "havenoplaylist": "Non tes listas de reprodución",
+    "itemdeleted": "Eliminouse o elemento.",
     "newplaylist": "Nova lista de reprodución",
     "playlist": "Lista de reprodución",
     "playlistdesc": "Descrición da lista de reprodución",
+    "playlistisempty": "A lista de reprodución está baleira",
     "playlistname": "Nome da lista de reprodución",
-    "playlists": "listas de reprodución"
+    "playlists": "listas de reprodución",
+    "playlistupdated": "Actualizouse a lista de reprodución",
+    "updateplaylist": "Actualizar a lista de reprodución",
+    "usernameplaylists": "As listas de reprodución de @{{username}}"
   },
   "post": {
     "NSFL": "NSFL (sangue / violencia)",

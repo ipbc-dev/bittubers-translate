@@ -228,7 +228,9 @@
     "createmanagegroup": "Erstellen, verwalten und moderieren Sie Ihre eigene öffentliche oder private Gruppe.",
     "groupcreated": "Gruppe erstellt",
     "groupcreatedby": "Gruppen erstellt von",
+    "groupshejoined": "Gruppen, denen {{username}} beigetreten ist",
     "grouptype": "Gruppentyp",
+    "joinedgroups": "Gruppen, denen ich angehöre",
     "joingroup": "Gruppe beitreten",
     "leavegroup": "Gruppe verlassen",
     "memberuknow": "Mitglieder, die Sie kennen",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Noch keine Gruppen",
     "sorrynogroups": "Sorry, keine Gruppen zu erkunden.",
     "usergroups": "Benutzergruppen",
+    "usernamegroups": "Gruppen von {{username}}",
     "viewgroupposts": "Gruppenbeiträge anzeigen"
   },
   "header": {
@@ -415,14 +418,20 @@
     "deleted": "Playlist gelöscht.",
     "deleteplaylist": "Playlist löschen",
     "deleteplaylistdescrip": "Diese Wiedergabeliste wird gelöscht. Es gibt kein Rückgängigmachen, so dass Sie es nicht finden können.",
+    "editplaylists": "Wiedergabelisten bearbeiten",
     "empty": "Die Wiedergabeliste ist leer",
     "hasnoplaylist": "hat keine Playlists",
     "havenoplaylist": "Sie haben keine Wiedergabelisten",
+    "itemdeleted": "Artikel gelöscht.",
     "newplaylist": "Neue Playlist",
     "playlist": "Wiedergabeliste",
     "playlistdesc": "Playlist-Beschreibung",
+    "playlistisempty": "Die Wiedergabeliste ist leer",
     "playlistname": "Name der Wiedergabeliste",
-    "playlists": "Wiedergabelisten"
+    "playlists": "Wiedergabelisten",
+    "playlistupdated": "Playlist aktualisiert",
+    "updateplaylist": "Wiedergabeliste aktualisieren",
+    "usernameplaylists": "Die Wiedergabelisten von @{{username}}"
   },
   "post": {
     "NSFL": "NSFL (Blut / Gewalt)",

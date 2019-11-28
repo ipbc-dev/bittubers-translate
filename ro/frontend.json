@@ -228,7 +228,9 @@
     "createmanagegroup": "Creați, gestionați și moderați propriul grup public sau privat.",
     "groupcreated": "Grup creat",
     "groupcreatedby": "Grupuri create de",
+    "groupshejoined": "Grupuri la care {{username}} s-au alăturat",
     "grouptype": "Tipul grupului",
+    "joinedgroups": "Grupuri din care fac parte",
     "joingroup": "Alăturați-vă grupului",
     "leavegroup": "Paraseste grupul",
     "memberuknow": "Membrii pe care îi cunoașteți",
@@ -237,6 +239,7 @@
     "nogroupsyet": "Încă nu există grupuri",
     "sorrynogroups": "Ne pare rău, nu există grupuri de explorat.",
     "usergroups": "Grupuri de utilizatori",
+    "usernamegroups": "Grupurile {{username}}",
     "viewgroupposts": "vizualizați postările grupurilor"
   },
   "header": {
@@ -415,14 +418,20 @@
     "deleted": "Playlist a fost șters.",
     "deleteplaylist": "Ștergeți lista de redare",
     "deleteplaylistdescrip": "Această listă de redare va fi ștearsă. Nu se poate desface, așa că nu o vei putea găsi.",
+    "editplaylists": "Editează liste de redare",
     "empty": "Lista de redare este goală",
     "hasnoplaylist": "nu are liste de redare",
     "havenoplaylist": "Nu aveți liste de redare",
+    "itemdeleted": "Element șters.",
     "newplaylist": "Nou playlist",
     "playlist": "Listă de redare",
     "playlistdesc": "Descrierea listei de redare",
+    "playlistisempty": "Lista de redare este goală",
     "playlistname": "Numele listei de redare",
-    "playlists": "liste de redare"
+    "playlists": "liste de redare",
+    "playlistupdated": "Playlist actualizată",
+    "updateplaylist": "Actualizați lista de redare",
+    "usernameplaylists": "Listele de redare ale lui @{{{username}}"
   },
   "post": {
     "NSFL": "„NSFL (sânge / violență)”",
