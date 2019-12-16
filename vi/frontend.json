@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Loại vi phạm",
     "ban": "Lệnh cấm",
-    "banmssg": "Cấm làm Quản trị viên",
+    "banmssg": "Cấm người dùng (quản trị viên)",
     "bannednologinmssg": "sẽ không còn có thể đăng nhập hoặc thực hiện bất kỳ hành động nào trong trang BitTube.",
     "bgpictureintro": "Thêm một hình nền. Nó sẽ cung cấp cho khách truy cập trên hồ sơ của bạn một ý nghĩa về những gì hồ sơ của bạn là về.",
     "block": "Khối",
@@ -24,7 +24,7 @@
     "message": "Thông điệp",
     "nopostshared": "Không ai đã chia sẻ một bài viết với",
     "nopostssharedyet": "Chưa có bài viết nào được chia sẻ",
-    "report": "Bài báo cáo",
+    "report": "Báo cáo người dùng",
     "reportdesc": "Nhập mô tả báo cáo",
     "rotate": "Quay:",
     "rotateleft": "Xoay trái",
@@ -35,7 +35,7 @@
     "skip": "Bỏ qua",
     "suggestedresolution": "Độ phân giải đề xuất 200x200 pixel. NSFW không được phép.",
     "tagged": "Được gắn thẻ",
-    "unbanmssg": "Unban là Quản trị viên",
+    "unbanmssg": "Người dùng unban (quản trị viên)",
     "uploadavatar": "Tải ảnh đại diện",
     "uploadbanner": "Tải lên nền",
     "verifyaccnt": "Xác thực tài khoản của bạn",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Thêm biểu tượng cảm xúc",
     "Addsticker": "Thêm nhãn dán",
+    "Addto": "Thêm vào...",
     "Attachafile": "Đính kèm một tập tin",
+    "Done": "Làm xong",
     "Livestreams": "Phát sóng trực tiếp",
     "Loadmore": "Tải thêm",
     "Members": "Các thành viên",
@@ -297,7 +299,9 @@
     "learnmore": "Tìm hiểu thêm",
     "startearning": "để bắt đầu kiếm tiền với AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Xin chào, có vẻ như bạn là người mới! Đây là nguồn cấp dữ liệu Trang chủ của bạn. Bằng cách đăng ký người dùng, cá nhân bạn kiểm soát nội dung trên dòng thời gian của mình. Bắt đầu bằng cách theo dõi @BitTubeOfficial để bạn không bỏ lỡ bất kỳ thông báo nào. Chúc may mắn!"
+  },
   "login": {
     "createaccount": "Tạo một tài khoản",
     "createlinkmonetize": "Tạo ra nó. Liên kết nó. Kiếm tiền từ nó!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Hiển thị tin nhắn riêng tư"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Tất cả các bài viết được coi là NSFW",
     "Dismissed": "Bỏ đi",
+    "EnableNSFW": "Kích hoạt NSFW",
     "Evaluation": "Đánh giá",
+    "SetNSFW": "Đặt NSFW",
+    "SetprofileasNSFWadmin": "Đặt làm NSFW (quản trị viên)",
     "Total": "Toàn bộ",
+    "UnsetprofileasNSFWadmin": "Bỏ đặt hồ sơ dưới dạng NSFW (quản trị viên)",
     "Users": "Người dùng",
     "aboutmoderation": "Giới thiệu: Kiểm duyệt",
     "addmssg": "Thêm thông điệp",
@@ -468,6 +477,9 @@
     "votedyourpost": "đã bình chọn trên bài viết của bạn."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Tìm kiếm hoặc thêm danh sách phát mới",
+    "Sortbyalphabeticalorder": "Sắp xếp theo thứ tự bảng chữ cái",
+    "Srotbyrecentactivity": "Sắp xếp theo hoạt động gần đây",
     "cloned": "Danh sách phát nhân bản.",
     "cloneplaylist": "Danh sách phát bản sao",
     "copytoyourprofile": "Sao chép danh sách này vào hồ sơ của riêng bạn",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Không ai đã chia sẻ một bài đăng với {{username}}.",
     "Noonehassharedapostwithyou": "Không ai đã chia sẻ một bài viết với bạn.",
     "Nopostsfound": "Không tìm thấy bài viết.",
+    "Recommend": "Giới thiệu",
+    "Recommendto": "Đề nghị:",
     "Usernamebookmarkedpostsareprivate": "Các bài đăng được đánh dấu của {{username}} là riêng tư.",
     "Usernamehasnobookmarkedposts": "{{username}} không có bài viết được đánh dấu.",
     "Usernameisnottagged": "{{username}} không được gắn thẻ trong bất kỳ bài đăng nào.",
@@ -748,6 +762,13 @@
     "year": "năm",
     "years": "năm",
     "yesterday": "Hôm qua"
+  },
+  "topic": {
+    "Topicsall": "Chủ đề: Tất cả",
+    "Topicsaudio": "Chủ đề: Âm thanh",
+    "Topicsimages": "Chủ đề: Hình ảnh",
+    "Topicslivestreams": "Chủ đề: Phát trực tiếp",
+    "Topicsvideos": "Chủ đề: Video"
   },
   "types": {
     "Comments": "Bình luận",

@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "ประเภทการรบกวน",
     "ban": "ห้าม",
-    "banmssg": "แบนในฐานะผู้ดูแลระบบ",
+    "banmssg": "แบนผู้ใช้ (ผู้ดูแลระบบ)",
     "bannednologinmssg": "จะไม่สามารถลงชื่อเข้าใช้หรือดำเนินการใด ๆ ในไซต์ BitTube อีกต่อไป",
     "bgpictureintro": "เพิ่มภาพพื้นหลัง มันจะทำให้ผู้เยี่ยมชมโปรไฟล์ของคุณรู้สึกว่าโปรไฟล์ของคุณเกี่ยวกับอะไร",
     "block": "กลุ่ม",
@@ -24,7 +24,7 @@
     "message": "ข่าวสาร",
     "nopostshared": "ไม่มีใครแบ่งปันโพสต์ด้วย",
     "nopostssharedyet": "ยังไม่มีการแชร์โพสต์",
-    "report": "รายงาน",
+    "report": "รายงานผู้ใช้",
     "reportdesc": "ป้อนคำอธิบายรายงาน",
     "rotate": "หมุน:",
     "rotateleft": "หมุนซ้าย",
@@ -35,7 +35,7 @@
     "skip": "ข้าม",
     "suggestedresolution": "ความละเอียดที่แนะนำ 200x200 พิกเซล ไม่อนุญาตให้ใช้ NSFW",
     "tagged": "Tagged",
-    "unbanmssg": "เลิกแบนในฐานะผู้ดูแลระบบ",
+    "unbanmssg": "ผู้ใช้ Unban (ผู้ดูแลระบบ)",
     "uploadavatar": "อัพโหลดอวาตาร์",
     "uploadbanner": "พื้นหลังอัพโหลด",
     "verifyaccnt": "ตรวจสอบบัญชีของคุณ",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "เพิ่มอิโมจิ",
     "Addsticker": "เพิ่มสติกเกอร์",
+    "Addto": "เพิ่ม...",
     "Attachafile": "แนบเอกสาร",
+    "Done": "เสร็จสิ้น",
     "Livestreams": "livestreams",
     "Loadmore": "โหลดมากขึ้น",
     "Members": "สมาชิก",
@@ -297,7 +299,9 @@
     "learnmore": "เรียนรู้เพิ่มเติม",
     "startearning": "เพื่อเริ่มรับรายได้ด้วย AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "สวัสดีดูเหมือนคุณจะใหม่! นี่คือฟีดโฮมของคุณ โดยการสมัครสมาชิกกับผู้ใช้คุณสามารถควบคุมเนื้อหาบนไทม์ไลน์ของคุณได้เป็นการส่วนตัว เริ่มต้นด้วยการติดตาม @BitTubeOfficial ดังนั้นคุณจะไม่พลาดประกาศใด ๆ โชคดี!"
+  },
   "login": {
     "createaccount": "สร้างบัญชี",
     "createlinkmonetize": "สร้างมัน เชื่อมโยงมัน สร้างรายได้จากมัน!",
@@ -346,9 +350,14 @@
     "showprivmssg": "แสดงข้อความส่วนตัว"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "โพสต์ทั้งหมดถือว่าเป็น NSFW",
     "Dismissed": "ไล่",
+    "EnableNSFW": "เปิดใช้งาน NSFW",
     "Evaluation": "การประเมินผล",
+    "SetNSFW": "ตั้งค่า NSFW",
+    "SetprofileasNSFWadmin": "ตั้งเป็น NSFW (ผู้ดูแลระบบ)",
     "Total": "ทั้งหมด",
+    "UnsetprofileasNSFWadmin": "ยกเลิกการตั้งค่าโปรไฟล์เป็น NSFW (ผู้ดูแลระบบ)",
     "Users": "ผู้ใช้",
     "aboutmoderation": "เกี่ยวกับ: การดูแล",
     "addmssg": "เพิ่มข้อความ",
@@ -468,6 +477,9 @@
     "votedyourpost": "โหวตให้โพสต์ของคุณ"
   },
   "playlists": {
+    "Searchoraddnewplaylist": "ค้นหาหรือเพิ่มเพลย์ลิสต์ใหม่",
+    "Sortbyalphabeticalorder": "เรียงตามลำดับตัวอักษร",
+    "Srotbyrecentactivity": "จัดเรียงตามกิจกรรมล่าสุด",
     "cloned": "เพลย์ลิสต์โคลน",
     "cloneplaylist": "โคลนเพลย์ลิสต์",
     "copytoyourprofile": "คัดลอกเพลย์ลิสต์นี้ไปยังโปรไฟล์ของคุณเอง",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "ยังไม่มีใครแบ่งปันโพสต์กับ {{username}}",
     "Noonehassharedapostwithyou": "ยังไม่มีใครแบ่งปันโพสต์กับคุณ",
     "Nopostsfound": "ไม่พบโพสต์",
+    "Recommend": "แนะนำ",
+    "Recommendto": "แนะนำให้:",
     "Usernamebookmarkedpostsareprivate": "โพสต์ที่คั่นหน้าของ {{username}} เป็นแบบส่วนตัว",
     "Usernamehasnobookmarkedposts": "{{username}} ไม่มีโพสต์ที่คั่นหน้า",
     "Usernameisnottagged": "{{username}} ไม่ได้ติดแท็กในโพสต์ใด ๆ",
@@ -748,6 +762,13 @@
     "year": "ปี",
     "years": "ปี",
     "yesterday": "เมื่อวาน"
+  },
+  "topic": {
+    "Topicsall": "หัวข้อ: ทั้งหมด",
+    "Topicsaudio": "หัวข้อ: เสียง",
+    "Topicsimages": "หัวข้อ: รูปภาพ",
+    "Topicslivestreams": "หัวข้อ: สตรีมสด",
+    "Topicsvideos": "หัวข้อ: วิดีโอ"
   },
   "types": {
     "Comments": "ความคิดเห็น",

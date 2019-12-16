@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Type overtreding",
     "ban": "ban",
-    "banmssg": "Verbieden als beheerder",
+    "banmssg": "Gebruiker verbieden (admin)",
     "bannednologinmssg": "kunnen niet langer inloggen of acties uitvoeren op de BitTube-site.",
     "bgpictureintro": "Voeg een achtergrondafbeelding toe. Het geeft bezoekers op uw profiel een idee van waar uw profiel over gaat.",
     "block": "Blok",
     "blockuser": "Blokkeer gebruiker",
     "blockusermssg": "kan je niet langer volgen, berichten sturen, reageren, aanbevelen of je toevoegen aan een groep. BitTube laat niet toe",
-    "blockusermssg2": "weet dat je hem / haar hebt geblokkeerd. Je kunt hem / haar deblokkeren vanuit instellingen. Nadat een gebruiker is geblokkeerd, wordt u doorgestuurd naar de startpagina.",
+    "blockusermssg2": "weet dat je hem / haar hebt geblokkeerd. Je kunt hem / haar deblokkeren vanuit instellingen. Na het blokkeren van een gebruiker, wordt u doorgestuurd naar de startpagina.",
     "changeavatar": "Verander je avatar",
     "changebackground": " Verander de achtergrond",
     "changeyourbackground": "Verander je achtergrond",
@@ -24,7 +24,7 @@
     "message": "Bericht",
     "nopostshared": "Niemand heeft een bericht met gedeeld",
     "nopostssharedyet": "Er zijn nog geen berichten gedeeld",
-    "report": "Verslag doen van",
+    "report": "Rapporteer gebruiker",
     "reportdesc": "Voer een rapportbeschrijving in",
     "rotate": "Draaien:",
     "rotateleft": "Draai naar links",
@@ -35,7 +35,7 @@
     "skip": "Overspringen",
     "suggestedresolution": "Voorgestelde resolutie 200x200 pixels. NSFW niet toegestaan.",
     "tagged": "Tagged",
-    "unbanmssg": "Unban als beheerder",
+    "unbanmssg": "Unban-gebruiker (admin)",
     "uploadavatar": "Upload avatar",
     "uploadbanner": "Upload achtergrond",
     "verifyaccnt": "Verifieer uw account",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Voeg emoji's toe",
     "Addsticker": "Sticker toevoegen",
+    "Addto": "Toevoegen aan...",
     "Attachafile": "Voeg een bestand toe",
+    "Done": "Gedaan",
     "Livestreams": "livestreams",
     "Loadmore": "Meer laden",
     "Members": "leden",
@@ -297,7 +299,9 @@
     "learnmore": "Leer meer",
     "startearning": "beginnen met verdienen met AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Hallo, het lijkt erop dat je nieuw bent! Dit is je thuisfeed. Door u te abonneren op gebruikers, beheert u persoonlijk de inhoud op uw tijdlijn. Begin door @BitTubeOfficial te volgen, zodat je geen aankondigingen mist. Succes!"
+  },
   "login": {
     "createaccount": "Account aanmaken",
     "createlinkmonetize": "Creëer het. Koppelen. Verdien geld!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Privéberichten weergeven"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Alle berichten worden behandeld als NSFW",
     "Dismissed": "ontslagen",
+    "EnableNSFW": "Schakel NSFW in",
     "Evaluation": "evaluatie",
+    "SetNSFW": "Stel NSFW in",
+    "SetprofileasNSFWadmin": "Instellen als NSFW (admin)",
     "Total": "Totaal",
+    "UnsetprofileasNSFWadmin": "Profiel uitschakelen als NSFW (admin)",
     "Users": "gebruikers",
     "aboutmoderation": "Over: Moderatie",
     "addmssg": "Bericht toevoegen",
@@ -468,6 +477,9 @@
     "votedyourpost": "op je bericht gestemd."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Zoek of voeg een nieuwe afspeellijst toe",
+    "Sortbyalphabeticalorder": "Sorteer op alfabetische volgorde",
+    "Srotbyrecentactivity": "Sorteer op recente activiteit",
     "cloned": "Afspeellijst gekloond.",
     "cloneplaylist": "Afspeellijst klonen",
     "copytoyourprofile": "Kopieer deze afspeellijst naar je eigen profiel",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Niemand heeft nog een bericht gedeeld met {{username}}.",
     "Noonehassharedapostwithyou": "Niemand heeft nog een bericht met je gedeeld.",
     "Nopostsfound": "Geen berichten gevonden.",
+    "Recommend": "Adviseren",
+    "Recommendto": "Aanraden om:",
     "Usernamebookmarkedpostsareprivate": "De {{username}} gepubliceerde berichten zijn privé.",
     "Usernamehasnobookmarkedposts": "{{username}} heeft geen bookmarked berichten.",
     "Usernameisnottagged": "{{username}} is in geen enkel bericht getagd.",
@@ -748,6 +762,13 @@
     "year": "jaar",
     "years": "jaar",
     "yesterday": "Gisteren"
+  },
+  "topic": {
+    "Topicsall": "Onderwerpen: All",
+    "Topicsaudio": "Onderwerpen: Audio",
+    "Topicsimages": "Onderwerpen: Afbeeldingen",
+    "Topicslivestreams": "Onderwerpen: Live streams",
+    "Topicsvideos": "Onderwerpen: video's"
   },
   "types": {
     "Comments": "Comments",

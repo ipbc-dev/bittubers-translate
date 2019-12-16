@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Brudd type",
     "ban": "Forby",
-    "banmssg": "Forbud som administrator",
+    "banmssg": "Forbud bruker (admin)",
     "bannednologinmssg": "vil ikke lenger kunne logge på eller utføre noen handlinger på BitTube-nettstedet.",
     "bgpictureintro": "Legg til et bakgrunnsbilde. Det vil gi besøkende på profilen din en følelse av hva profilen din handler om.",
     "block": "Blokkere",
@@ -24,7 +24,7 @@
     "message": "Budskap",
     "nopostshared": "Ingen har delt et innlegg med",
     "nopostssharedyet": "Ingen innlegg har blitt delt ennå",
-    "report": "Rapportere",
+    "report": "Rapporter bruker",
     "reportdesc": "Skriv inn en rapportbeskrivelse",
     "rotate": "Rotere:",
     "rotateleft": "Rotér mot venstre",
@@ -35,7 +35,7 @@
     "skip": "Skip",
     "suggestedresolution": "Foreslått oppløsning 200x200 piksler. NSFW ikke tillatt.",
     "tagged": "Tagged",
-    "unbanmssg": "Ikke banke som administrator",
+    "unbanmssg": "Ikke baner bruker (admin)",
     "uploadavatar": "Last opp avatar",
     "uploadbanner": "Last opp bakgrunn",
     "verifyaccnt": "Bekreft kontoen din",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Legg til emojis",
     "Addsticker": "Legg klistremerke",
+    "Addto": "Legge til...",
     "Attachafile": "Legg ved en fil",
+    "Done": "Ferdig",
     "Livestreams": "direkteoverføringer",
     "Loadmore": "Last mer",
     "Members": "medlemmer",
@@ -297,7 +299,9 @@
     "learnmore": "Lære mer",
     "startearning": "å begynne å tjene med AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Hei, det ser ut som om du er ny! Dette er ditt hjemmefôr. Ved å abonnere på brukere, kontrollerer du personlig innholdet på tidslinjen din. Start med å følge @BitTubeOfficial slik at du ikke går glipp av noen kunngjøringer. Lykke til!"
+  },
   "login": {
     "createaccount": "Opprett en konto",
     "createlinkmonetize": "Lag den. Koble den. Tjen penger på det!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Vis private meldinger"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Alle innlegg behandles som NSFW",
     "Dismissed": "Avvist",
+    "EnableNSFW": "Aktiver NSFW",
     "Evaluation": "evaluering",
+    "SetNSFW": "Sett NSFW",
+    "SetprofileasNSFWadmin": "Angi som NSFW (admin)",
     "Total": "Total",
+    "UnsetprofileasNSFWadmin": "Fjern profil som NSFW (admin)",
     "Users": "brukere",
     "aboutmoderation": "Om: Moderering",
     "addmssg": "Legg til melding",
@@ -468,6 +477,9 @@
     "votedyourpost": "stemte på innlegget ditt."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Søk eller legg til en ny spilleliste",
+    "Sortbyalphabeticalorder": "Sorter etter alfabetisk rekkefølge",
+    "Srotbyrecentactivity": "Sorter etter nylig aktivitet",
     "cloned": "Spilleliste klonet.",
     "cloneplaylist": "Klon-spilleliste",
     "copytoyourprofile": "Kopier denne spillelisten til din egen profil",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Ingen har delt et innlegg med {{username}} ennå.",
     "Noonehassharedapostwithyou": "Ingen har delt et innlegg med deg ennå.",
     "Nopostsfound": "Ingen innlegg funnet.",
+    "Recommend": "Anbefale",
+    "Recommendto": "Anbefaler å:",
     "Usernamebookmarkedpostsareprivate": "{{username}} 's bokmerkede innlegg er private.",
     "Usernamehasnobookmarkedposts": "{{username}} har ingen bokmerke-innlegg.",
     "Usernameisnottagged": "{{username}} er ikke merket i noe innlegg.",
@@ -748,6 +762,13 @@
     "year": "år",
     "years": "år",
     "yesterday": "I går"
+  },
+  "topic": {
+    "Topicsall": "Temaer: Alle",
+    "Topicsaudio": "Temaer: Audio",
+    "Topicsimages": "Emner: Bilder",
+    "Topicslivestreams": "Temaer: Livestrømmer",
+    "Topicsvideos": "Temaer: Videoer"
   },
   "types": {
     "Comments": "kommentarer",

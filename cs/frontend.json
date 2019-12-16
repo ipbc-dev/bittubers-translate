@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Typ infrastruktury",
     "ban": "Zákaz",
-    "banmssg": "Zakázat jako správce",
+    "banmssg": "Zakázat uživatele (admin)",
     "bannednologinmssg": "se již nebudou moci přihlásit nebo provádět žádné akce na webu BitTube.",
     "bgpictureintro": "Přidejte obrázek na pozadí. Poskytne návštěvníkům vašeho profilu představu o tom, o čem je váš profil.",
     "block": "Blok",
@@ -24,7 +24,7 @@
     "message": "Zpráva",
     "nopostshared": "Nikdo s nikým nesdílí příspěvek",
     "nopostssharedyet": "Zatím nebyly sdíleny žádné příspěvky",
-    "report": "Zpráva",
+    "report": "Nahlásit uživatele",
     "reportdesc": "Zadejte popis zprávy",
     "rotate": "Točit se:",
     "rotateleft": "Otočit doleva",
@@ -35,7 +35,7 @@
     "skip": "Přeskočit",
     "suggestedresolution": "Doporučené rozlišení 200x200 pixelů. NSFW není povoleno.",
     "tagged": "Označeno",
-    "unbanmssg": "Unban jako správce",
+    "unbanmssg": "Unban user (admin)",
     "uploadavatar": "Nahrát avatar",
     "uploadbanner": "Nahrajte pozadí",
     "verifyaccnt": "Ověřte svůj účet",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Přidejte emodži",
     "Addsticker": "Přidat nálepku",
+    "Addto": "Přidat do...",
     "Attachafile": "Připojte soubor",
+    "Done": "Hotovo",
     "Livestreams": "Livestreams",
     "Loadmore": "Načíst další",
     "Members": "Členové",
@@ -297,7 +299,9 @@
     "learnmore": "Další informace",
     "startearning": "začít vydělávat s AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Ahoj, vypadá to, že jsi nový! Toto je váš domovský kanál. Přihlášením k odběru uživatelů osobně kontrolujete obsah na časové ose. Začněte sledováním @BitTubeOfficial, abyste si nenechali ujít žádná oznámení. Hodně štěstí!"
+  },
   "login": {
     "createaccount": "Vytvořit účet",
     "createlinkmonetize": "Vytvořit to. Propojte to. Vydělávejte to!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Zobrazit soukromé zprávy"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Všechny příspěvky jsou považovány za NSFW",
     "Dismissed": "Odmítnuto",
+    "EnableNSFW": "Povolit NSFW",
     "Evaluation": "Hodnocení",
+    "SetNSFW": "Nastavit NSFW",
+    "SetprofileasNSFWadmin": "Nastavit jako NSFW (admin)",
     "Total": "Celkový",
+    "UnsetprofileasNSFWadmin": "Zrušit nastavení profilu jako NSFW (admin)",
     "Users": "Uživatelé",
     "aboutmoderation": "O uživateli: Moderování",
     "addmssg": "Přidat zprávu",
@@ -468,6 +477,9 @@
     "votedyourpost": "hlasoval pro váš příspěvek."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Vyhledejte nebo přidejte nový seznam skladeb",
+    "Sortbyalphabeticalorder": "Seřadit podle abecedy",
+    "Srotbyrecentactivity": "Seřadit podle nedávné aktivity",
     "cloned": "Seznam skladeb byl klonován.",
     "cloneplaylist": "Klonovat seznam skladeb",
     "copytoyourprofile": "Zkopírujte tento seznam skladeb do svého vlastního profilu",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Zatím nikdo nesdělil příspěvek s {{username}}.",
     "Noonehassharedapostwithyou": "Zatím s vámi nikdo nesdílí příspěvek.",
     "Nopostsfound": "Nenalezeny žádné příspěvky.",
+    "Recommend": "Doporučit",
+    "Recommendto": "Doporučit:",
     "Usernamebookmarkedpostsareprivate": "{{username}} příspěvky označené jako záložky jsou soukromé.",
     "Usernamehasnobookmarkedposts": "{{username}} nemá žádné záložky.",
     "Usernameisnottagged": "{{username}} není označen v žádném příspěvku.",
@@ -748,6 +762,13 @@
     "year": "rok",
     "years": "let",
     "yesterday": "Včera"
+  },
+  "topic": {
+    "Topicsall": "Témata: Vše",
+    "Topicsaudio": "Témata: Zvuk",
+    "Topicsimages": "Témata: Obrázky",
+    "Topicslivestreams": "Témata: Živé přenosy",
+    "Topicsvideos": "Témata: Videa"
   },
   "types": {
     "Comments": "Komentáře",

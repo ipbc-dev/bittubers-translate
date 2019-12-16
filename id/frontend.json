@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Jenis pelanggaran",
     "ban": "Melarang",
-    "banmssg": "Larangan sebagai Administrator",
+    "banmssg": "Larang pengguna (admin)",
     "bannednologinmssg": "tidak lagi dapat masuk atau melakukan tindakan apa pun di situs BitTube.",
     "bgpictureintro": "Tambahkan gambar latar belakang. Ini akan memberi pengunjung rasa profil Anda tentang profil Anda.",
     "block": "Blok",
@@ -24,7 +24,7 @@
     "message": "Pesan",
     "nopostshared": "Tidak ada yang membagikan pos",
     "nopostssharedyet": "Belum ada tulisan yang dibagikan",
-    "report": "Melaporkan",
+    "report": "Laporan pengguna",
     "reportdesc": "Masukkan deskripsi laporan",
     "rotate": "Memutar:",
     "rotateleft": "Putar ke kiri",
@@ -35,7 +35,7 @@
     "skip": "Melewatkan",
     "suggestedresolution": "Resolusi yang disarankan 200x200 piksel. NSFW tidak diizinkan.",
     "tagged": "Ditandai",
-    "unbanmssg": "Batalkan Batasan sebagai Administrator",
+    "unbanmssg": "Batalkan pengguna (admin)",
     "uploadavatar": "Unggah avatar",
     "uploadbanner": "Unggah latar belakang",
     "verifyaccnt": "verifikasi akun anda",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Tambahkan emoji",
     "Addsticker": "Tambahkan stiker",
+    "Addto": "Tambahkan...",
     "Attachafile": "Lampirkan file",
+    "Done": "Selesai",
     "Livestreams": "Streaming langsung",
     "Loadmore": "Muat lebih",
     "Members": "Anggota",
@@ -297,7 +299,9 @@
     "learnmore": "Belajarlah lagi",
     "startearning": "untuk mulai menghasilkan dengan AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Hai, sepertinya Anda baru! Ini adalah umpan Beranda Anda. Dengan berlangganan ke pengguna, Anda secara pribadi mengontrol konten di timeline Anda. Mulailah dengan mengikuti @ BitTubeOfficial sehingga Anda tidak akan melewatkan pengumuman apa pun. Semoga berhasil!"
+  },
   "login": {
     "createaccount": "Buat sebuah akun",
     "createlinkmonetize": "Menciptakannya. Tautkan itu. Hasilkan uang!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Tampilkan pesan pribadi"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Semua posting diperlakukan sebagai NSFW",
     "Dismissed": "Dibubarkan",
+    "EnableNSFW": "Aktifkan NSFW",
     "Evaluation": "Evaluasi",
+    "SetNSFW": "Setel NSFW",
+    "SetprofileasNSFWadmin": "Tetapkan sebagai NSFW (admin)",
     "Total": "Total",
+    "UnsetprofileasNSFWadmin": "Batalkan profil sebagai NSFW (admin)",
     "Users": "Pengguna",
     "aboutmoderation": "Tentang: Moderasi",
     "addmssg": "Tambahkan pesan",
@@ -468,6 +477,9 @@
     "votedyourpost": "memberi suara pada posting Anda."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Cari atau tambahkan daftar putar baru",
+    "Sortbyalphabeticalorder": "Urutkan berdasarkan urutan abjad",
+    "Srotbyrecentactivity": "Urutkan berdasarkan aktivitas terkini",
     "cloned": "Daftar putar dikloning.",
     "cloneplaylist": "Klon Daftar Putar",
     "copytoyourprofile": "Salin daftar putar ini ke profil Anda sendiri",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Belum ada yang berbagi pos dengan {{username}}.",
     "Noonehassharedapostwithyou": "Belum ada yang membagikan pos dengan Anda.",
     "Nopostsfound": "Tidak ada tulisan yang ditemukan.",
+    "Recommend": "Sarankan",
+    "Recommendto": "Merekomendasikan untuk:",
     "Usernamebookmarkedpostsareprivate": "Posting {{username}} yang ditandai bersifat pribadi.",
     "Usernamehasnobookmarkedposts": "{{username}} tidak memiliki pos bookmark.",
     "Usernameisnottagged": "{{username}} tidak ditandai di pos mana pun.",
@@ -748,6 +762,13 @@
     "year": "tahun",
     "years": "tahun",
     "yesterday": "Kemarin"
+  },
+  "topic": {
+    "Topicsall": "Topik: Semua",
+    "Topicsaudio": "Topik: Audio",
+    "Topicsimages": "Topik: Gambar",
+    "Topicslivestreams": "Topik: Streaming langsung",
+    "Topicsvideos": "Topik: Video"
   },
   "types": {
     "Comments": "Komentar",

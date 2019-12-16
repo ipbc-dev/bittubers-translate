@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Art der Zuwiderhandlung",
     "ban": "Verbot",
-    "banmssg": "Als Administrator sperren",
+    "banmssg": "Benutzer sperren (admin)",
     "bannednologinmssg": "kann sich auf der BitTube-Seite nicht mehr anmelden oder Aktionen ausführen.",
     "bgpictureintro": "Füge ein Hintergrundbild hinzu. Es vermittelt den Besuchern deines Profils einen Eindruck davon, worum es in deinem Profil geht.",
     "block": "Block",
     "blockuser": "Benutzer blockieren",
     "blockusermssg": "kann dir in keiner Gruppe mehr folgen, Nachrichten senden, Kommentare abgeben, dich empfehlen oder hinzufügen. BitTube lässt nicht zu",
-    "blockusermssg2": "weiß, dass du ihn / sie blockiert hast. Du kannst ihn / sie von den Einstellungen entsperren. Nach dem Sperren eines Benutzers wirst du zur Homepage weitergeleitet.",
+    "blockusermssg2": "weiß, dass du ihn / sie blockiert hast. Sie können ihn / sie von den Einstellungen entsperren. Nach dem Sperren eines Benutzers werden Sie auf die Homepage weitergeleitet.",
     "changeavatar": "Ändere deinen Avatar",
     "changebackground": " Hintergrund ändern",
     "changeyourbackground": "Ändere deinen Hintergrund",
@@ -24,7 +24,7 @@
     "message": "Botschaft",
     "nopostshared": "Niemand hat einen Beitrag mit geteilt",
     "nopostssharedyet": "Es wurden noch keine Beiträge geteilt",
-    "report": "Bericht",
+    "report": "Benutzer melden",
     "reportdesc": "Gib eine Berichtsbeschreibung ein",
     "rotate": "Drehen:",
     "rotateleft": "Nach links drehen",
@@ -35,7 +35,7 @@
     "skip": "Überspringen",
     "suggestedresolution": "Vorgeschlagene Auflösung 200x200 Pixel. NSFW nicht erlaubt.",
     "tagged": "Markiert",
-    "unbanmssg": "Als Administrator aufheben",
+    "unbanmssg": "Unban user (admin)",
     "uploadavatar": "Avatar hochladen",
     "uploadbanner": "Hintergrund hochladen",
     "verifyaccnt": "Überprüfe dein Konto",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Fügen Sie Emojis hinzu",
     "Addsticker": "Aufkleber hinzufügen",
+    "Addto": "Hinzufügen...",
     "Attachafile": "Eine Datei anhängen",
+    "Done": "Getan",
     "Livestreams": "Live-Streams",
     "Loadmore": "Mehr laden",
     "Members": "Mitglieder",
@@ -297,6 +299,9 @@
     "learnmore": "Erfahre mehr",
     "startearning": "mit AirTime verdienen!"
   },
+  "home": {
+    "Homefeednewuser": "Hallo, sieht aus wie du neu bist! Dies ist Ihr Home-Feed. Durch das Abonnieren von Benutzern können Sie den Inhalt auf Ihrer Timeline persönlich steuern. Folgen Sie zunächst @BitTubeOfficial, damit Sie keine Ankündigungen verpassen. Viel Glück!"
+  },
   "login": {
     "createaccount": "Ein Konto erstellen",
     "createlinkmonetize": "Erstelle es. Verlinke es. Geld verdienen!",
@@ -345,9 +350,14 @@
     "showprivmssg": "Private Nachrichten anzeigen"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Alle Beiträge werden als NSFW behandelt",
     "Dismissed": "Entlassen",
+    "EnableNSFW": "Aktivieren Sie NSFW",
     "Evaluation": "Auswertung",
+    "SetNSFW": "NSFW einstellen",
+    "SetprofileasNSFWadmin": "Als NSFW festlegen (admin)",
     "Total": "Gesamt",
+    "UnsetprofileasNSFWadmin": "Profil als NSFW löschen (admin)",
     "Users": "Benutzer",
     "aboutmoderation": "Über: Moderation",
     "addmssg": "Nachricht hinzufügen",
@@ -467,6 +477,9 @@
     "votedyourpost": "hat über deinen Beitrag abgestimmt."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Suchen oder Hinzufügen einer neuen Wiedergabeliste",
+    "Sortbyalphabeticalorder": "Nach alphabetischer Reihenfolge sortieren",
+    "Srotbyrecentactivity": "Nach letzter Aktivität sortieren",
     "cloned": "Wiedergabeliste geklont.",
     "cloneplaylist": "Wiedergabeliste klonen",
     "copytoyourprofile": "Kopiere diese Playlist in dein eigenes Profil",
@@ -576,6 +589,8 @@
     "Noonehassharedapost": "Bisher hat noch niemand einen Beitrag mit {{username}} geteilt.",
     "Noonehassharedapostwithyou": "Bisher hat noch niemand einen Beitrag mit Ihnen geteilt.",
     "Nopostsfound": "Keine Einträge gefunden.",
+    "Recommend": "Empfehlen",
+    "Recommendto": "Empfohlen für:",
     "Usernamebookmarkedpostsareprivate": "Die mit einem Lesezeichen versehenen Beiträge von {{username}} sind privat.",
     "Usernamehasnobookmarkedposts": "{{username}} hat keine mit Lesezeichen versehenen Beiträge.",
     "Usernameisnottagged": "{{username}} ist in keinem Beitrag markiert.",
@@ -747,6 +762,13 @@
     "year": "Jahr",
     "years": "Jahre",
     "yesterday": "Gestern"
+  },
+  "topic": {
+    "Topicsall": "Themen: Alle",
+    "Topicsaudio": "Themen: Audio",
+    "Topicsimages": "Themen: Bilder",
+    "Topicslivestreams": "Themen: Live-Streams",
+    "Topicsvideos": "Themen: Videos"
   },
   "types": {
     "Comments": "Bemerkungen",

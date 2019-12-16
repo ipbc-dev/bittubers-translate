@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "違反の種類",
     "ban": "禁止",
-    "banmssg": "管理者として禁止",
+    "banmssg": "ユーザーの禁止（管理者）",
     "bannednologinmssg": "BitTubeサイトでログインまたはアクションを実行できなくなります。",
     "bgpictureintro": "背景画像を追加します。それはあなたのプロフィールの訪問者にあなたのプロフィールが何であるかの感覚を与えます。",
     "block": "ブロック",
@@ -24,7 +24,7 @@
     "message": "メッセージ",
     "nopostshared": "誰も投稿を共有していません",
     "nopostssharedyet": "投稿はまだ共有されていません",
-    "report": "報告書",
+    "report": "レポートユーザー",
     "reportdesc": "レポートの説明を入力してください",
     "rotate": "回転：",
     "rotateleft": "左に回転",
@@ -35,7 +35,7 @@
     "skip": "スキップ",
     "suggestedresolution": "推奨解像度は200x200ピクセルです。 NSFWは許可されていません。",
     "tagged": "タグ付き",
-    "unbanmssg": "管理者としての禁止を解除",
+    "unbanmssg": "ユーザーの禁止を解除（管理者）",
     "uploadavatar": "アバターをアップロード",
     "uploadbanner": "背景をアップロード",
     "verifyaccnt": "アカウントを確認する",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "絵文字を追加",
     "Addsticker": "ステッカーを追加",
+    "Addto": "追加...",
     "Attachafile": "ファイルを添付する",
+    "Done": "完了",
     "Livestreams": "ライブストリーム",
     "Loadmore": "さらに読み込む",
     "Members": "会員",
@@ -297,7 +299,9 @@
     "learnmore": "もっと詳しく知る",
     "startearning": "AirTimeで稼ぎ始めましょう！"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "こんにちは、あなたは新しいようです！これがホームフィードです。ユーザーをサブスクライブすることにより、タイムラインのコンテンツを個人的に管理できます。 @BitTubeOfficialをフォローすることから始めて、お知らせを見逃さないようにしてください。がんばろう！"
+  },
   "login": {
     "createaccount": "アカウントを作成する",
     "createlinkmonetize": "作成します。それをリンクします。収益化しましょう！",
@@ -346,9 +350,14 @@
     "showprivmssg": "プライベートメッセージを表示"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "すべての投稿はNSFWとして扱われます",
     "Dismissed": "却下",
+    "EnableNSFW": "NSFWを有効にする",
     "Evaluation": "評価",
+    "SetNSFW": "NSFWを設定する",
+    "SetprofileasNSFWadmin": "NSFWとして設定（管理者）",
     "Total": "合計",
+    "UnsetprofileasNSFWadmin": "NSFWとしてプロファイルの設定を解除します（管理者）",
     "Users": "ユーザー",
     "aboutmoderation": "概要：モデレーション",
     "addmssg": "メッセージを追加",
@@ -468,6 +477,9 @@
     "votedyourpost": "あなたの投稿に投票しました。"
   },
   "playlists": {
+    "Searchoraddnewplaylist": "新しいプレイリストを検索または追加する",
+    "Sortbyalphabeticalorder": "アルファベット順に並べ替え",
+    "Srotbyrecentactivity": "最近のアクティビティで並べ替え",
     "cloned": "プレイリストのクローン。",
     "cloneplaylist": "プレイリストのクローン",
     "copytoyourprofile": "このプレイリストを自分のプロファイルにコピーします",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "誰もまだ{{username}}と投稿を共有していません。",
     "Noonehassharedapostwithyou": "まだ誰もあなたと投稿を共有していません。",
     "Nopostsfound": "投稿が見つかりません。",
+    "Recommend": "お勧め",
+    "Recommendto": "お勧め：",
     "Usernamebookmarkedpostsareprivate": "{{username}}のブックマークされた投稿は非公開です。",
     "Usernamehasnobookmarkedposts": "{{username}}にはブックマークされた投稿はありません。",
     "Usernameisnottagged": "{{username}}はどの投稿でもタグ付けされていません。",
@@ -748,6 +762,13 @@
     "year": "年",
     "years": "年",
     "yesterday": "昨日"
+  },
+  "topic": {
+    "Topicsall": "トピック：すべて",
+    "Topicsaudio": "トピック：オーディオ",
+    "Topicsimages": "トピック：画像",
+    "Topicslivestreams": "トピック：ライブストリーム",
+    "Topicsvideos": "トピック：ビデオ"
   },
   "types": {
     "Comments": "コメント",

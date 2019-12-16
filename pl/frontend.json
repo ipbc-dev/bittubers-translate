@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Rodzaj naruszenia",
     "ban": "Zakaz",
-    "banmssg": "Ban jako Administrator",
+    "banmssg": "Zablokuj użytkownika (administratora)",
     "bannednologinmssg": "nie będzie już mógł się logować ani wykonywać żadnych działań na stronie BitTube.",
     "bgpictureintro": "Dodaj zdjęcie w tle. Daje to osobom odwiedzającym Twój profil poczucie, o czym jest Twój profil.",
     "block": "Blok",
@@ -24,7 +24,7 @@
     "message": "Wiadomość",
     "nopostshared": "Nikt nie udostępnił wpisu",
     "nopostssharedyet": "Nie udostępniono jeszcze żadnych postów",
-    "report": "Raport",
+    "report": "Zgłoś użytkownika",
     "reportdesc": "Wprowadź opis raportu",
     "rotate": "Obracać się:",
     "rotateleft": "Obrót w lewo",
@@ -35,7 +35,7 @@
     "skip": "Pominąć",
     "suggestedresolution": "Sugerowana rozdzielczość 200 x 200 pikseli. NSFW nie jest dozwolone.",
     "tagged": "Tagged",
-    "unbanmssg": "Odblokuj jako administrator",
+    "unbanmssg": "Odblokuj użytkownika (admin)",
     "uploadavatar": "Prześlij awatar",
     "uploadbanner": "Prześlij tło",
     "verifyaccnt": "Zweryfikuj swoje konto",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Dodaj emoji",
     "Addsticker": "Dodaj naklejkę",
+    "Addto": "Dodać do...",
     "Attachafile": "Dołączyć plik",
+    "Done": "Gotowy",
     "Livestreams": "Transmisja na żywo",
     "Loadmore": "Załaduj więcej",
     "Members": "Członkowie",
@@ -297,6 +299,9 @@
     "learnmore": "Ucz się więcej",
     "startearning": "zacząć zarabiać w AirTime!"
   },
+  "home": {
+    "Homefeednewuser": "Cześć, wygląda na to, że jesteś nowy! To jest Twój domowy kanał. Subskrybując użytkowników, osobiście kontrolujesz zawartość na swojej osi czasu. Zacznij od śledzenia @BitTubeOfficial, aby nie przegapić żadnych ogłoszeń. Powodzenia!"
+  },
   "login": {
     "createaccount": "Utwórz konto",
     "createlinkmonetize": "Stwórz To. Połącz to. Zarabiaj na tym!",
@@ -345,9 +350,14 @@
     "showprivmssg": "Pokaż prywatne wiadomości"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Wszystkie posty są traktowane jako NSFW",
     "Dismissed": "Zwolniony",
+    "EnableNSFW": "Włącz NSFW",
     "Evaluation": "Ocena",
+    "SetNSFW": "Ustaw NSFW",
+    "SetprofileasNSFWadmin": "Ustaw jako NSFW (admin)",
     "Total": "Całkowity",
+    "UnsetprofileasNSFWadmin": "Usuń profil jako NSFW (admin)",
     "Users": "Użytkownicy",
     "aboutmoderation": "O: Moderacja",
     "addmssg": "Dodaj wiadomość",
@@ -467,6 +477,9 @@
     "votedyourpost": "głosował na twój post."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Wyszukaj lub dodaj nową listę odtwarzania",
+    "Sortbyalphabeticalorder": "Sortuj według kolejności alfabetycznej",
+    "Srotbyrecentactivity": "Sortuj według ostatniej aktywności",
     "cloned": "Sklonowana lista odtwarzania.",
     "cloneplaylist": "Klonuj listę odtwarzania",
     "copytoyourprofile": "Skopiuj tę listę odtwarzania do własnego profilu",
@@ -576,6 +589,8 @@
     "Noonehassharedapost": "Nikt jeszcze nie udostępnił wpisu {{username}}.",
     "Noonehassharedapostwithyou": "Nikt jeszcze nie udostępnił Ci wpisu.",
     "Nopostsfound": "Nie znaleziono postów.",
+    "Recommend": "Polecić",
+    "Recommendto": "Polecam:",
     "Usernamebookmarkedpostsareprivate": "Zakładki użytkownika {{username}} są prywatne.",
     "Usernamehasnobookmarkedposts": "{{username}} nie ma żadnych zakładek",
     "Usernameisnottagged": "{{username}} nie jest oznaczony w żadnym poście.",
@@ -747,6 +762,13 @@
     "year": "rok",
     "years": "lat",
     "yesterday": "Wczoraj"
+  },
+  "topic": {
+    "Topicsall": "Tematy: wszystkie",
+    "Topicsaudio": "Tematy: Audio",
+    "Topicsimages": "Tematy: obrazy",
+    "Topicslivestreams": "Tematy: transmisje na żywo",
+    "Topicsvideos": "Tematy: filmy"
   },
   "types": {
     "Comments": "Komentarze",

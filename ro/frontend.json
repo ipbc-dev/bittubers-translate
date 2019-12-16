@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Tipul de infracțiune",
     "ban": "Interzice",
-    "banmssg": "Interzicerea ca administrator",
+    "banmssg": "Interzicerea utilizatorului (admin)",
     "bannednologinmssg": "nu va mai putea să vă autentifice sau să efectueze nicio acțiune pe site-ul BitTube.",
     "bgpictureintro": "Adăugați o imagine de fundal. Acesta va oferi vizitatorilor de pe profilul tău un sentiment despre ce este profilul tău.",
     "block": "bloc",
@@ -24,7 +24,7 @@
     "message": "Mesaj",
     "nopostshared": "Nimeni nu a împărtășit o postare",
     "nopostssharedyet": "Nu au fost partajate încă",
-    "report": "Raport",
+    "report": "Raportare utilizator",
     "reportdesc": "Introduceți o descriere a raportului",
     "rotate": "Roti:",
     "rotateleft": "Roteste la stanga",
@@ -35,7 +35,7 @@
     "skip": "Ocolire",
     "suggestedresolution": "Rezoluție sugerată 200x200 pixeli. NSFW nu este permis.",
     "tagged": "Tagged",
-    "unbanmssg": "Unban ca administrator",
+    "unbanmssg": "Utilizator nelocuit (admin)",
     "uploadavatar": "Încărcați avatar",
     "uploadbanner": "Încărcați fundalul",
     "verifyaccnt": "verifica-ti contul",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Adăugați emoji",
     "Addsticker": "Adăugați autocolant",
+    "Addto": "Adauga la...",
     "Attachafile": "Ataseaza un fisier",
+    "Done": "Terminat",
     "Livestreams": "fluxuri live",
     "Loadmore": "Incarca mai mult",
     "Members": "Membrii",
@@ -297,6 +299,9 @@
     "learnmore": "Aflați mai multe",
     "startearning": "pentru a începe să câștigi cu AirTime!"
   },
+  "home": {
+    "Homefeednewuser": "Bună, pare că ești nou! Acesta este fluxul dvs. de acasă. Abonându-vă la utilizatori, controlați personal conținutul din cronologia dvs. Începeți să urmați @BitTubeOfficial, astfel încât să nu ratați niciun anunț. Mult noroc!"
+  },
   "login": {
     "createaccount": "Creează un cont",
     "createlinkmonetize": "Creaza-l. Legă-l. Monetizează-l!",
@@ -345,9 +350,14 @@
     "showprivmssg": "Afișați mesaje private"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Toate postările sunt tratate ca NSFW",
     "Dismissed": "respinge",
+    "EnableNSFW": "Activați NSFW",
     "Evaluation": "Evaluare",
+    "SetNSFW": "Setați NSFW",
+    "SetprofileasNSFWadmin": "Setați ca NSFW (admin)",
     "Total": "Total",
+    "UnsetprofileasNSFWadmin": "Deconectați profilul ca NSFW (admin)",
     "Users": "Utilizatori",
     "aboutmoderation": "Despre: Moderare",
     "addmssg": "Adăugați mesaj",
@@ -467,6 +477,9 @@
     "votedyourpost": "a votat postarea ta."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Căutați sau adăugați un nou playlist",
+    "Sortbyalphabeticalorder": "Sortează după ordine alfabetică",
+    "Srotbyrecentactivity": "Sortează după activitatea recentă",
     "cloned": "Playlist clonat.",
     "cloneplaylist": "Lista de redare a clonelor",
     "copytoyourprofile": "Copiați această listă de redare pe propriul profil",
@@ -576,6 +589,8 @@
     "Noonehassharedapost": "Nimeni nu a împărțit încă o postare cu {{username}}.",
     "Noonehassharedapostwithyou": "Nimeni nu a împărțit încă o postare cu tine.",
     "Nopostsfound": "Nu s-au găsit postări",
+    "Recommend": "Recomanda",
+    "Recommendto": "Recomandați:",
     "Usernamebookmarkedpostsareprivate": "Postările marcate de {{username}} sunt private.",
     "Usernamehasnobookmarkedposts": "{{username}} nu are postări marcate.",
     "Usernameisnottagged": "{{username}} nu este etichetat în nicio postare.",
@@ -747,6 +762,13 @@
     "year": "an",
     "years": "ani",
     "yesterday": "Ieri"
+  },
+  "topic": {
+    "Topicsall": "Subiecte: Toate",
+    "Topicsaudio": "Subiecte: audio",
+    "Topicsimages": "Subiecte: imagini",
+    "Topicslivestreams": "Subiecte: Fluxuri live",
+    "Topicsvideos": "Subiecte: videoclipuri"
   },
   "types": {
     "Comments": "Comentarii",

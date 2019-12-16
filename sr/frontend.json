@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Инфрацтион типе",
     "ban": "Бан",
-    "banmssg": "Забрани као администратор",
+    "banmssg": "Корисник забране (администратор)",
     "bannednologinmssg": "више неће бити у могућности да се пријављује или извршава било које радње на БитТубе локацији.",
     "bgpictureintro": "Додајте позадинску слику. Даће посетиоцима на вашем профилу осећај о вашем профилу.",
     "block": "Блокирати",
@@ -24,7 +24,7 @@
     "message": "Порука",
     "nopostshared": "Нико није поделио пост са",
     "nopostssharedyet": "Још није објављен ниједан пост",
-    "report": "Извештај",
+    "report": "Пријави корисника",
     "reportdesc": "Унесите опис извештаја",
     "rotate": "Ротирање:",
     "rotateleft": "Ротирајте лево",
@@ -35,7 +35,7 @@
     "skip": "Прескочи",
     "suggestedresolution": "Предложена резолуција 200к200 пиксела. НСФВ није дозвољено.",
     "tagged": "Таггед",
-    "unbanmssg": "Искључите као администратора",
+    "unbanmssg": "Унбан корисник (админ)",
     "uploadavatar": "Отпреми аватар",
     "uploadbanner": "Пошаљите позадину",
     "verifyaccnt": "Потврдите свој налог",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Додајте емојис",
     "Addsticker": "Додајте налепницу",
+    "Addto": "Додати...",
     "Attachafile": "Приложили датотеку",
+    "Done": "Готово",
     "Livestreams": "Ливестреамс",
     "Loadmore": "Учитај више",
     "Members": "Чланови",
@@ -297,7 +299,9 @@
     "learnmore": "Сазнајте више",
     "startearning": "да почнете да зарађујете са АирТиме-ом!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Здраво, изгледа да сте нови! Ово је ваш феед за дом. Претплату на кориснике лично контролишете садржај на вашој временској линији. Започните слиједећи @БитТубеОффициал тако да нећете пропустити ниједну најаву. Срећно!"
+  },
   "login": {
     "createaccount": "Направи налог",
     "createlinkmonetize": "Креирај га. Повежи га. Уновчите то!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Прикажи приватне поруке"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Сви постови се третирају као НСФВ",
     "Dismissed": "Отпуштено",
+    "EnableNSFW": "Омогући НСФВ",
     "Evaluation": "Процена",
+    "SetNSFW": "Подесите НСФВ",
+    "SetprofileasNSFWadmin": "Подеси као НСФВ (администратор)",
     "Total": "Укупно",
+    "UnsetprofileasNSFWadmin": "Поништи профил као НСФВ (администратор)",
     "Users": "Корисници",
     "aboutmoderation": "О: Умереност",
     "addmssg": "Додај поруку",
@@ -468,6 +477,9 @@
     "votedyourpost": "гласао за вашу пошту."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Претражите или додајте нову листу за репродукцију",
+    "Sortbyalphabeticalorder": "Поредај по абецедном реду",
+    "Srotbyrecentactivity": "Поредај по недавним активностима",
     "cloned": "Плаилист клониран.",
     "cloneplaylist": "Клон плејлиста",
     "copytoyourprofile": "Копирајте ову листу за репродукцију у свој профил",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Нико још није делио пост са {{username}}.",
     "Noonehassharedapostwithyou": "Још нико није поделио пост са вама.",
     "Nopostsfound": "Није пронађен ниједан пост.",
+    "Recommend": "Препоручити",
+    "Recommendto": "Препорука:",
     "Usernamebookmarkedpostsareprivate": "Постови обележених {{username}} су приватни.",
     "Usernamehasnobookmarkedposts": "{{username}} нема ознаке.",
     "Usernameisnottagged": "{{username}} није означен ни у једном посту.",
@@ -748,6 +762,13 @@
     "year": "године",
     "years": "година",
     "yesterday": "Јуче"
+  },
+  "topic": {
+    "Topicsall": "Теме: Све",
+    "Topicsaudio": "Теме: Аудио",
+    "Topicsimages": "Теме: Слике",
+    "Topicslivestreams": "Теме: Преноси уживо",
+    "Topicsvideos": "Теме: Видео снимци"
   },
   "types": {
     "Comments": "Коментари",

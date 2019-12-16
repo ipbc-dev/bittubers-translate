@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Tipo de infracción",
     "ban": "Banear",
-    "banmssg": "Banear como administrador",
+    "banmssg": "Banear usuario (administrador)",
     "bannednologinmssg": "ya no podrá iniciar sesión ni realizar ninguna acción en el sitio de BitTube.",
     "bgpictureintro": "Agrega una imagen de fondo. Le dará a los visitantes de su perfil una idea de lo que trata su perfil.",
     "block": "Bloquear",
     "blockuser": "Bloquear usuario",
     "blockusermssg": "ya no podrá seguirte, enviarte mensajes, comentar, recomendarte o agregarte en ningún grupo. BitTube no permitirá",
-    "blockusermssg2": "sepa que lo bloqueaste. Puedes desbloquearlo/a desde la configuración. Después de bloquear a un usuario, serás redirigido a la página de inicio.",
+    "blockusermssg2": "sepa que lo bloqueaste. Puede desbloquearlo de la configuración. Después de bloquear a un usuario, será redirigido a la página de inicio.",
     "changeavatar": "Cambia tu avatar",
     "changebackground": " Cambiar el fondo",
     "changeyourbackground": "Cambia tu fondo",
@@ -24,7 +24,7 @@
     "message": "Mensaje",
     "nopostshared": "Nadie ha compartido una publicación con",
     "nopostssharedyet": "Aún no se han compartido publicaciones",
-    "report": "Denunciar",
+    "report": "Denunciar usuario",
     "reportdesc": "Ingrese una descripción del informe",
     "rotate": "Girar:",
     "rotateleft": "Girar a la izquierda",
@@ -35,7 +35,7 @@
     "skip": "Omitir",
     "suggestedresolution": "Resolución sugerida 200x200 píxeles. NSFW no permitido.",
     "tagged": "Etiquetado",
-    "unbanmssg": "Desbanear como administrador",
+    "unbanmssg": "Desbanear usuario (admin)",
     "uploadavatar": "Subir avatar",
     "uploadbanner": "Subir fondo",
     "verifyaccnt": "Verifica tu cuenta",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Agregar emojis",
     "Addsticker": "Añadir pegatina",
+    "Addto": "Añadir a...",
     "Attachafile": "Adjuntar un archivo",
+    "Done": "Hecho",
     "Livestreams": "Directos",
     "Loadmore": "Carga más",
     "Members": "Miembros",
@@ -297,6 +299,9 @@
     "learnmore": "Saber más",
     "startearning": "para comenzar a ganar con AirTime!"
   },
+  "home": {
+    "Homefeednewuser": "Hola, parece que eres nuevo! Este es tu muro de inicio. Al suscribirte a los usuarios, controlas personalmente el contenido en tu muro. Comienza siguiendo @BitTubeOfficial para que no perderte ningún anuncio. ¡Buena suerte!"
+  },
   "login": {
     "createaccount": "Crea una cuenta",
     "createlinkmonetize": "Créalo. Vincúlalo. ¡Monetízalo!",
@@ -345,9 +350,14 @@
     "showprivmssg": "Mostrar mensajes privados"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Todas las publicaciones se tratan como NSFW",
     "Dismissed": "Desestimado",
+    "EnableNSFW": "Habilitar NSFW",
     "Evaluation": "Evaluación",
+    "SetNSFW": "Establecer NSFW",
+    "SetprofileasNSFWadmin": "Establecer como NSFW (admin)",
     "Total": "Total",
+    "UnsetprofileasNSFWadmin": "Desactivar perfil como NSFW (admin)",
     "Users": "Los usuarios",
     "aboutmoderation": "Acerca de: moderación",
     "addmssg": "Agregar mensaje",
@@ -467,6 +477,9 @@
     "votedyourpost": "votó en tu publicación."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Buscar o agregar nueva lista de reproducción",
+    "Sortbyalphabeticalorder": "Ordenar por orden alfabético",
+    "Srotbyrecentactivity": "Ordenar por actividad reciente",
     "cloned": "Lista de reproducción clonada.",
     "cloneplaylist": "Lista de reproducción clonada",
     "copytoyourprofile": "Copie esta lista de reproducción a su propio perfil",
@@ -576,6 +589,8 @@
     "Noonehassharedapost": "Nadie ha compartido una publicación con {{username}} todavía.",
     "Noonehassharedapostwithyou": "Nadie ha compartido una publicación contigo todavía.",
     "Nopostsfound": "No se han encontrado publicaciones.",
+    "Recommend": "Recomendar",
+    "Recommendto": "Recomendar a:",
     "Usernamebookmarkedpostsareprivate": "Las publicaciones marcadas de {{username}} son privadas.",
     "Usernamehasnobookmarkedposts": "{{username}} no tiene publicaciones marcadas.",
     "Usernameisnottagged": "{{username}} no está etiquetado en ninguna publicación.",
@@ -747,6 +762,13 @@
     "year": "año",
     "years": "años",
     "yesterday": "Ayer"
+  },
+  "topic": {
+    "Topicsall": "Temas: Todos",
+    "Topicsaudio": "Temas: Audio",
+    "Topicsimages": "Temas: Imágenes",
+    "Topicslivestreams": "Temas: Directos",
+    "Topicsvideos": "Temas: Videos"
   },
   "types": {
     "Comments": "Comentarios",

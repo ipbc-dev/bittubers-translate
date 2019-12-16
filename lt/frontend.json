@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Infuzijos tipas",
     "ban": "Uždrausti",
-    "banmssg": "Uždrausti kaip administratorių",
+    "banmssg": "Uždrausti vartotoją (administratorius)",
     "bannednologinmssg": "nebegalės prisijungti ar atlikti jokių veiksmų „BitTube“ svetainėje.",
     "bgpictureintro": "Pridėkite fono paveikslėlį. Tai suteiks jūsų profilio lankytojams supratimą apie jūsų profilį.",
     "block": "Blokuoti",
@@ -24,7 +24,7 @@
     "message": "Žinutė",
     "nopostshared": "Niekas nebendrino įrašo su",
     "nopostssharedyet": "Kol kas pranešimai nebuvo bendrinami",
-    "report": "Pranešimas",
+    "report": "Pranešti apie vartotoją",
     "reportdesc": "Įveskite ataskaitos aprašą",
     "rotate": "Pasukti:",
     "rotateleft": "Pasukite į kairę",
@@ -35,7 +35,7 @@
     "skip": "Praleisti",
     "suggestedresolution": "Siūloma skiriamoji geba 200x200 taškų. NSFW neleidžiama.",
     "tagged": "Pažymėta",
-    "unbanmssg": "Unban kaip administratorius",
+    "unbanmssg": "Panaikinti naudotoją (administratorius)",
     "uploadavatar": "Įkelkite avataras",
     "uploadbanner": "Įkelti foną",
     "verifyaccnt": "Patvirtinkite savo paskyrą",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Pridėti jaustukus",
     "Addsticker": "Pridėti lipduką",
+    "Addto": "Pridėti prie...",
     "Attachafile": "Pridėkite failą",
+    "Done": "padaryta",
     "Livestreams": "Tiesioginės transliacijos",
     "Loadmore": "Įkelkite daugiau",
     "Members": "Nariai",
@@ -297,7 +299,9 @@
     "learnmore": "Sužinokite daugiau",
     "startearning": "pradėti uždirbti naudojant „AirTime“!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Sveiki, atrodo, kad esi naujas! Tai jūsų namų kanalas. Prenumeruodami vartotojus jūs asmeniškai kontroliuojate savo laiko juostos turinį. Pradėkite stebėdami @BitTubeOfficial, kad nepraleistumėte jokių pranešimų. Sėkmės!"
+  },
   "login": {
     "createaccount": "Sukurti paskyrą",
     "createlinkmonetize": "Sukurkite. Susiekite. Užsidirbk iš to!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Rodyti asmeninius pranešimus"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Visi įrašai yra traktuojami kaip NSFW",
     "Dismissed": "Atleido",
+    "EnableNSFW": "Įgalinti NSFW",
     "Evaluation": "Vertinimas",
+    "SetNSFW": "Nustatykite NSFW",
+    "SetprofileasNSFWadmin": "Nustatyti kaip NSFW (administratorius)",
     "Total": "Iš viso",
+    "UnsetprofileasNSFWadmin": "Anuliuoti profilį kaip NSFW (administratorius)",
     "Users": "Vartotojai",
     "aboutmoderation": "Apie: Prižiūrėjimas",
     "addmssg": "Pridėti pranešimą",
@@ -468,6 +477,9 @@
     "votedyourpost": "balsavo už tavo įrašą."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Ieškokite arba pridėkite naują grojaraštį",
+    "Sortbyalphabeticalorder": "Rūšiuoti pagal abėcėlę",
+    "Srotbyrecentactivity": "Rūšiuoti pagal naujausią veiklą",
     "cloned": "Grojaraštis klonuotas.",
     "cloneplaylist": "Klonų grojaraštis",
     "copytoyourprofile": "Nukopijuokite šį grojaraštį į savo profilį",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Dar niekas nebendrino įrašo su {{username}}.",
     "Noonehassharedapostwithyou": "Dar niekas su jumis nebendravo.",
     "Nopostsfound": "Nerasta jokių įrašų.",
+    "Recommend": "Rekomenduoti",
+    "Recommendto": "Rekomenduoti:",
     "Usernamebookmarkedpostsareprivate": "{{username}} žymėtos žinutės yra privačios.",
     "Usernamehasnobookmarkedposts": "{{username}} neturi pažymėtų įrašų.",
     "Usernameisnottagged": "{{username}} nėra pažymėtas jokiame įraše.",
@@ -748,6 +762,13 @@
     "year": "metų",
     "years": "metų",
     "yesterday": "Vakar"
+  },
+  "topic": {
+    "Topicsall": "Temos: Visos",
+    "Topicsaudio": "Temos: Garsas",
+    "Topicsimages": "Temos: Vaizdai",
+    "Topicslivestreams": "Temos: Tiesioginės transliacijos",
+    "Topicsvideos": "Temos: vaizdo įrašai"
   },
   "types": {
     "Comments": "Komentarai",

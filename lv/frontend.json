@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Pārkāpuma veids",
     "ban": "Aizliegt",
-    "banmssg": "Aizliegt kā administratoram",
+    "banmssg": "Lietotāja aizliegšana (administrators)",
     "bannednologinmssg": "vairs nevarēs pieteikties vai veikt nekādas darbības BitTube vietnē.",
     "bgpictureintro": "Pievienojiet fona attēlu. Tas jūsu profila apmeklētājiem sniegs izpratni par jūsu profila būtību.",
     "block": "Bloķēt",
@@ -24,7 +24,7 @@
     "message": "Ziņa",
     "nopostshared": "Neviens nav kopīgojis ziņu ar",
     "nopostssharedyet": "Pagaidām neviena ziņa nav kopīgota",
-    "report": "Ziņojums",
+    "report": "Ziņot par lietotāju",
     "reportdesc": "Ievadiet pārskata aprakstu",
     "rotate": "Pagriezt:",
     "rotateleft": "Pagriezt pa kreisi",
@@ -35,7 +35,7 @@
     "skip": "Izlaist",
     "suggestedresolution": "Ieteicamā izšķirtspēja 200x200 pikseļi. NSFW nav atļauts.",
     "tagged": "Atzīmēts",
-    "unbanmssg": "Unban kā administrators",
+    "unbanmssg": "Lietotāja atsaukšana (administrators)",
     "uploadavatar": "Augšupielādēt iemiesojumu",
     "uploadbanner": "Augšupielādēt fonu",
     "verifyaccnt": "Apstipriniet savu kontu",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Pievienojiet emocijzīmes",
     "Addsticker": "Pievienojiet uzlīmi",
+    "Addto": "Pievienot...",
     "Attachafile": "Pievienojiet failu",
+    "Done": "Gatavs",
     "Livestreams": "Tiešraides",
     "Loadmore": "Ielādēt vairāk",
     "Members": "Locekļi",
@@ -297,7 +299,9 @@
     "learnmore": "Uzzināt vairāk",
     "startearning": "lai sāktu pelnīt ar AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Sveiki, izskatās, ka esat jauns! Šī ir jūsu mājas barība. Abonējot lietotājus, jūs personīgi kontrolējat sava laika skala saturu. Sāciet, sekojot vietnei @BitTubeOfficial, lai jūs nepalaistu garām nevienu paziņojumu. Veiksmi!"
+  },
   "login": {
     "createaccount": "Izveidot kontu",
     "createlinkmonetize": "Izveidojiet to. Saistiet to. Pelniet to!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Rādīt privātās ziņas"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Visas ziņas tiek uzskatītas par NSFW",
     "Dismissed": "Atlaida",
+    "EnableNSFW": "Iespējot NSFW",
     "Evaluation": "Novērtēšana",
+    "SetNSFW": "Iestatiet NSFW",
+    "SetprofileasNSFWadmin": "Iestatīt kā NSFW (administrators)",
     "Total": "Kopā",
+    "UnsetprofileasNSFWadmin": "Atiestatīt profilu kā NSFW (administrators)",
     "Users": "Lietotāji",
     "aboutmoderation": "Par: moderācija",
     "addmssg": "Pievienojiet ziņojumu",
@@ -468,6 +477,9 @@
     "votedyourpost": "balsoja par jūsu ziņu."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Meklējiet vai pievienojiet jaunu atskaņošanas sarakstu",
+    "Sortbyalphabeticalorder": "Kārtot pēc alfabēta secības",
+    "Srotbyrecentactivity": "Kārtot pēc nesenajām darbībām",
     "cloned": "Atskaņošanas saraksts ir klonēts.",
     "cloneplaylist": "Klonu atskaņošanas saraksts",
     "copytoyourprofile": "Kopējiet šo atskaņošanas sarakstu savā profilā",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Pagaidām neviens nav kopīgojis ziņu ar {{username}}.",
     "Noonehassharedapostwithyou": "Pagaidām neviens ar jums nav kopīgojis ziņu.",
     "Nopostsfound": "Nav atrasta neviena ziņa.",
+    "Recommend": "Iesaku",
+    "Recommendto": "Iesaku:",
     "Usernamebookmarkedpostsareprivate": "{{username}} ar grāmatzīmi ierakstītās ziņas ir privātas.",
     "Usernamehasnobookmarkedposts": "Vietnei {{username}} nav grāmatzīmju.",
     "Usernameisnottagged": "Vietne {{username}} nav atzīmēta nevienā amatā.",
@@ -748,6 +762,13 @@
     "year": "gadā",
     "years": "gados",
     "yesterday": "Vakar"
+  },
+  "topic": {
+    "Topicsall": "Tēmas: Visas",
+    "Topicsaudio": "Tēmas: Audio",
+    "Topicsimages": "Tēmas: Attēli",
+    "Topicslivestreams": "Tēmas: Tiešraides",
+    "Topicsvideos": "Tēmas: Video"
   },
   "types": {
     "Comments": "Komentāri",

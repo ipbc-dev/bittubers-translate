@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Тип нарушения",
     "ban": "запрет",
-    "banmssg": "Бан согласно Администратора",
+    "banmssg": "Бан пользователь (админ)",
     "bannednologinmssg": "will no longer be able to login or perform any actions in the BitTube site.",
     "bgpictureintro": "Добавьте фоновую картинку. Это даст посетителям вашего профиля понимание того, о чем ваш профиль.",
     "block": "Блок",
@@ -24,7 +24,7 @@
     "message": "Сообщение",
     "nopostshared": "Никто не поделился с",
     "nopostssharedyet": "No posts have been shared yet",
-    "report": "Сообщить",
+    "report": "Пожаловаться на пользователя",
     "reportdesc": "Введите описание отчета",
     "rotate": "Поворот:",
     "rotateleft": "Повернуть налево",
@@ -35,7 +35,7 @@
     "skip": "Пропустить",
     "suggestedresolution": "Предлагаемое разрешение 200х200 пикселей. NSFW не допускается.",
     "tagged": "Отмечены",
-    "unbanmssg": "Разблокировка согласно Администратора",
+    "unbanmssg": "Unban пользователь (админ)",
     "uploadavatar": "Загрузить аватар",
     "uploadbanner": "Загрузить фон",
     "verifyaccnt": "Подтвердите ваш аккаунт",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Добавить смайлики",
     "Addsticker": "Добавить стикер",
+    "Addto": "Добавить в...",
     "Attachafile": "Прикрепить файл",
+    "Done": "Выполнено",
     "Livestreams": "прямые трансляции",
     "Loadmore": "Загрузи больше",
     "Members": "Участники",
@@ -297,6 +299,9 @@
     "learnmore": "Учить больше",
     "startearning": "начать зарабатывать с AirTime!"
   },
+  "home": {
+    "Homefeednewuser": "Привет, похоже ты новый! Это ваш домашний канал. Подписываясь на пользователей, вы лично контролируете контент на своей временной шкале. Начните, следуя @BitTubeOfficial, чтобы вы не пропустили ни одного объявления. Удачи!"
+  },
   "login": {
     "createaccount": "Создать аккаунт",
     "createlinkmonetize": "Создайте это. Свяжите это. Монетизировать это!",
@@ -345,9 +350,14 @@
     "showprivmssg": "Показать личные сообщения"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Все сообщения рассматриваются как NSFW",
     "Dismissed": "уволенный",
+    "EnableNSFW": "Включить NSFW",
     "Evaluation": "оценка",
+    "SetNSFW": "Установить NSFW",
+    "SetprofileasNSFWadmin": "Установить как NSFW (администратор)",
     "Total": "Общее количество",
+    "UnsetprofileasNSFWadmin": "Удалить профиль как NSFW (администратор)",
     "Users": "пользователей",
     "aboutmoderation": "О себе: модерация",
     "addmssg": "Добавить сообщение",
@@ -467,6 +477,9 @@
     "votedyourpost": "проголосовал на вашем посту."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Поиск или добавление нового плейлиста",
+    "Sortbyalphabeticalorder": "Сортировать по алфавиту",
+    "Srotbyrecentactivity": "Сортировать по недавней активности",
     "cloned": "Плейлист клонирован.",
     "cloneplaylist": "Клон плейлиста",
     "copytoyourprofile": "Скопируйте этот плейлист в свой профиль",
@@ -576,6 +589,8 @@
     "Noonehassharedapost": "Никто еще не поделился с {{username}} постом.",
     "Noonehassharedapostwithyou": "Никто еще не поделился с вами записью.",
     "Nopostsfound": "Записей не найдено.",
+    "Recommend": "Рекомендовать",
+    "Recommendto": "Рекомендую:",
     "Usernamebookmarkedpostsareprivate": "Закладки {{username}} являются частными.",
     "Usernamehasnobookmarkedposts": "{{username}} не имеет закладок.",
     "Usernameisnottagged": "{{username}} не отмечен ни в одном сообщении.",
@@ -747,6 +762,13 @@
     "year": "год",
     "years": "лет",
     "yesterday": "Вчерашний день"
+  },
+  "topic": {
+    "Topicsall": "Темы: Все",
+    "Topicsaudio": "Темы: Аудио",
+    "Topicsimages": "Темы: Изображения",
+    "Topicslivestreams": "Темы: Живые трансляции",
+    "Topicsvideos": "Темы: Видео"
   },
   "types": {
     "Comments": "Комментарии",

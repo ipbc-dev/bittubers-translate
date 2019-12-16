@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Vrsta infrastrukture",
     "ban": "Prepoved",
-    "banmssg": "Prepovedati kot skrbnik",
+    "banmssg": "Uporabnik prepovedi (administrator)",
     "bannednologinmssg": "ne bo več mogel prijaviti ali izvajati nobenih dejanj na spletnem mestu BitTube.",
     "bgpictureintro": "Dodajte sliko v ozadju. Obiskovalcem v vašem profilu bo dal občutek o tem, kakšen je vaš profil.",
     "block": "Blok",
@@ -24,7 +24,7 @@
     "message": "Sporočilo",
     "nopostshared": "Nihče ni delil objave z",
     "nopostssharedyet": "Nobena objava še ni bila deljena",
-    "report": "Poročilo",
+    "report": "Prijavi uporabnika",
     "reportdesc": "Vnesite opis poročila",
     "rotate": "Zavrtite:",
     "rotateleft": "Zavrtite levo",
@@ -35,7 +35,7 @@
     "skip": "Preskoči",
     "suggestedresolution": "Predlagana ločljivost 200x200 slikovnih pik. NSFW ni dovoljen.",
     "tagged": "Označeno",
-    "unbanmssg": "Unban kot skrbnik",
+    "unbanmssg": "Razveljavi uporabnika (administrator)",
     "uploadavatar": "Naloži avatar",
     "uploadbanner": "Naloži ozadje",
     "verifyaccnt": "potrdi svoj račun",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Dodajte emojije",
     "Addsticker": "Dodajte nalepko",
+    "Addto": "Dodati k...",
     "Attachafile": "Priložite datoteko",
+    "Done": "Končano",
     "Livestreams": "Livestreams",
     "Loadmore": "Naloži več",
     "Members": "Člani",
@@ -297,7 +299,9 @@
     "learnmore": "Nauči se več",
     "startearning": "začeti zaslužiti z AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Živjo, izgleda, da ste novi! To je vaš vir za dom. S prijavo na uporabnike osebno nadzorujete vsebino na svoji časovnici. Začnite z upoštevanjem @BitTubeOfficial, da ne boste zamudili nobenih objav. Vso srečo!"
+  },
   "login": {
     "createaccount": "Ustvari račun",
     "createlinkmonetize": "Ustvari. Povezava. Unovčite!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Pokaži zasebna sporočila"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Vse objave so obravnavane kot NSFW",
     "Dismissed": "Odpuščeno",
+    "EnableNSFW": "Omogoči NSFW",
     "Evaluation": "Vrednotenje",
+    "SetNSFW": "Nastavite NSFW",
+    "SetprofileasNSFWadmin": "Nastavi kot NSFW (administrator)",
     "Total": "Skupaj",
+    "UnsetprofileasNSFWadmin": "Razveljavi profil kot NSFW (administrator)",
     "Users": "Uporabniki",
     "aboutmoderation": "O: Zmernost",
     "addmssg": "Dodaj sporočilo",
@@ -468,6 +477,9 @@
     "votedyourpost": "glasoval o vaši objavi."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Poiščite ali dodajte nov seznam predvajanja",
+    "Sortbyalphabeticalorder": "Razvrstite po abecednem vrstnem redu",
+    "Srotbyrecentactivity": "Razvrsti po nedavni dejavnosti",
     "cloned": "Playlist kloniran.",
     "cloneplaylist": "Klon seznam predvajanja",
     "copytoyourprofile": "Kopirajte ta seznam predvajanja v svoj profil",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Nihče še ni delil objave z {{username}}.",
     "Noonehassharedapostwithyou": "Nihče še ni delil objave z vami.",
     "Nopostsfound": "Ni najdenih objav.",
+    "Recommend": "Priporočamo",
+    "Recommendto": "Priporočamo:",
     "Usernamebookmarkedpostsareprivate": "Objave {{username}} z zaznamki so zasebne.",
     "Usernamehasnobookmarkedposts": "{{username}} nima nobenega zaznamka.",
     "Usernameisnottagged": "{{username}} ni označen v nobeni objavi.",
@@ -748,6 +762,13 @@
     "year": "leto",
     "years": "let",
     "yesterday": "Včeraj"
+  },
+  "topic": {
+    "Topicsall": "Teme: Vsi",
+    "Topicsaudio": "Teme: Avdio",
+    "Topicsimages": "Teme: Slike",
+    "Topicslivestreams": "Teme: Prenosi v živo",
+    "Topicsvideos": "Teme: Videoposnetki"
   },
   "types": {
     "Comments": "Pripombe",

@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Infravörös típus",
     "ban": "Tilalom",
-    "banmssg": "Ban adminisztrátor",
+    "banmssg": "Felhasználó letiltása (admin)",
     "bannednologinmssg": "többé nem lesz képes bejelentkezni vagy elvégezni semmilyen műveletet a BitTube webhelyen.",
     "bgpictureintro": "Adjon hozzá háttérképet. Ez megadja a profilod látogatói számára a profilod ismertetését.",
     "block": "Blokk",
     "blockuser": "Felhasználó letiltása",
     "blockusermssg": "többé nem képes követni, üzenetet küldni, megjegyzéseket fűzni, ajánlani vagy felvenni téged egyetlen csoportba sem. A BitTube nem engedi",
-    "blockusermssg2": "tudod, hogy blokkolta őt. Feloldhatja a beállításokat. Miután letiltott egy felhasználót, akkor átirányítja Önt a Honlapra.",
+    "blockusermssg2": "tudod, hogy blokkolta őt. Feloldhatja a beállításokat. A felhasználó blokkolása után átirányítja Önt a Honlapra.",
     "changeavatar": "Változtasd meg avatárod",
     "changebackground": " Háttér megváltoztatása",
     "changeyourbackground": "Változtasd meg a hátteret",
@@ -24,7 +24,7 @@
     "message": "Üzenet",
     "nopostshared": "Senki sem osztott meg bejegyzést ezzel",
     "nopostssharedyet": "Még egyetlen hozzászólást sem osztottak meg",
-    "report": "Jelentés",
+    "report": "Felhasználó bejelentése",
     "reportdesc": "Írja be a jelentés leírását",
     "rotate": "Forog:",
     "rotateleft": "Forgasd balra",
@@ -35,7 +35,7 @@
     "skip": "Skip",
     "suggestedresolution": "Javasolt felbontás 200x200 pixel. Az NSFW nem engedélyezett.",
     "tagged": "Tagged",
-    "unbanmssg": "Unban mint rendszergazda",
+    "unbanmssg": "Felhasználó visszavonása (admin)",
     "uploadavatar": "Tölts fel avatárt",
     "uploadbanner": "Feltölt háttér",
     "verifyaccnt": "Ellenőrizze fiókját",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Add hangulatjelek",
     "Addsticker": "Add matrica",
+    "Addto": "Hozzáadás a ...",
     "Attachafile": "Fájl csatolása",
+    "Done": "Kész",
     "Livestreams": "élő közvetítést",
     "Loadmore": "Több betöltése",
     "Members": "Belépés",
@@ -297,7 +299,9 @@
     "learnmore": "Tudj meg többet",
     "startearning": "hogy elkezdhessen keresni az AirTime-rel!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Helló, úgy tűnik, hogy új vagy! Ez az otthoni hírcsatorna. Feliratkozva a felhasználókra, személyesen ellenőrizheti az ütemterv tartalmát. Kezdje a @BitTubeOfficial követésével, hogy ne hagyjon ki egyetlen értesítést sem. Sok szerencsét!"
+  },
   "login": {
     "createaccount": "Hozzon létre egy fiókot",
     "createlinkmonetize": "Létrehozni. Kapcsolja össze. Pénzszerzés!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Privát üzenetek megjelenítése"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Az összes hozzászólást NSFW-ként kezeljük",
     "Dismissed": "elutasította",
+    "EnableNSFW": "Az NSFW engedélyezése",
     "Evaluation": "Értékelés",
+    "SetNSFW": "Állítsa be az NSFW beállítást",
+    "SetprofileasNSFWadmin": "Beállítva NSFW (rendszergazda)",
     "Total": "Teljes",
+    "UnsetprofileasNSFWadmin": "Profil megszüntetése mint NSFW (admin)",
     "Users": "felhasználók",
     "aboutmoderation": "Névjegy: moderálás",
     "addmssg": "Új üzenet",
@@ -468,6 +477,9 @@
     "votedyourpost": "a postán szavazott."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Új lejátszási lista keresése vagy hozzáadása",
+    "Sortbyalphabeticalorder": "Rendezés ábécé sorrendben",
+    "Srotbyrecentactivity": "Rendezés a legutóbbi tevékenységek szerint",
     "cloned": "A lejátszási lista klónozott.",
     "cloneplaylist": "Klón lejátszási lista",
     "copytoyourprofile": "Másolja ezt a lejátszási listát a saját profiljába",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Még senki sem osztott meg bejegyzést a (z) {{username}} felhasználóval.",
     "Noonehassharedapostwithyou": "Még senki sem osztozott veled egy hozzászólást.",
     "Nopostsfound": "Nem található üzenet.",
+    "Recommend": "ajánl",
+    "Recommendto": "Ajánlom:",
     "Usernamebookmarkedpostsareprivate": "A {{username}} könyvjelzővel ellátott bejegyzés privát.",
     "Usernamehasnobookmarkedposts": "{{username}} nincs könyvjelzővel ellátott hozzászólás.",
     "Usernameisnottagged": "{{username}} nincs megcímkézve egyetlen bejegyzésben.",
@@ -748,6 +762,13 @@
     "year": "év",
     "years": "évek",
     "yesterday": "Tegnap"
+  },
+  "topic": {
+    "Topicsall": "Témák: Minden",
+    "Topicsaudio": "Témák: Audio",
+    "Topicsimages": "Témák: Képek",
+    "Topicslivestreams": "Témák: Élő közvetítések",
+    "Topicsvideos": "Témák: Videók"
   },
   "types": {
     "Comments": "Hozzászólások",

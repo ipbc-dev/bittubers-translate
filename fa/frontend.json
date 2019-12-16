@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "نوع انقباض",
     "ban": "ممنوع",
-    "banmssg": "منع به عنوان سرپرست",
+    "banmssg": "منع کاربر (مدیر)",
     "bannednologinmssg": "دیگر نمی توانید وارد سایت یا انجام هرگونه فعالیتی در سایت BitTube شوید.",
     "bgpictureintro": "یک تصویر پس زمینه اضافه کنید. این به بازدید کنندگان در نمایه شما این حس را می دهد که نمایه شما در مورد چیست.",
     "block": "مسدود کردن",
@@ -24,7 +24,7 @@
     "message": "پیام",
     "nopostshared": "هیچ کس پستی را با او به اشتراک نگذاشته است",
     "nopostssharedyet": "هنوز هیچ پستی به اشتراک گذاشته نشده است",
-    "report": "گزارش",
+    "report": "گزارش کاربر",
     "reportdesc": "توضیحات گزارش را وارد کنید",
     "rotate": "چرخش:",
     "rotateleft": "چرخش سمت چپ",
@@ -35,7 +35,7 @@
     "skip": "پرش",
     "suggestedresolution": "رزولوشن پیشنهادی 200x200 پیکسل. NSFW مجاز نیست",
     "tagged": "برچسب خورده",
-    "unbanmssg": "Unban به عنوان مدیر",
+    "unbanmssg": "کاربر Unban (مدیر)",
     "uploadavatar": "بارگذاری نماد",
     "uploadbanner": "پیش زمینه بارگذاری شود",
     "verifyaccnt": "حساب کاربری خودراتایید کنید",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "ایموجی ها را اضافه کنید",
     "Addsticker": "برچسب اضافه کنید",
+    "Addto": "اضافه کردن به...",
     "Attachafile": "پیوست یک پرونده",
+    "Done": "انجام شده",
     "Livestreams": "Livestreams",
     "Loadmore": "بارگیری بیشتر",
     "Members": "اعضا",
@@ -297,7 +299,9 @@
     "learnmore": "بیشتر بدانید",
     "startearning": "برای شروع درآمد با AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "سلام ، به نظر می رسد شما تازه هستید! این صفحه اصلی شما است. با عضویت در کاربران ، شما شخصاً محتوا را در جدول زمانی خود کنترل می کنید. با دنبال کردنBitTubeOfficial شروع کنید تا هیچ اطلاعیه‌ای را از دست ندهید. موفق باشید!"
+  },
   "login": {
     "createaccount": "ایجاد یک حساب کاربری",
     "createlinkmonetize": "آن را ایجاد کنید. پیوندش کن از آن درآمد کسب کنید!",
@@ -346,9 +350,14 @@
     "showprivmssg": "نمایش پیامهای خصوصی"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "با همه پست ها به عنوان NSFW رفتار می شود",
     "Dismissed": "رد",
+    "EnableNSFW": "NSFW را فعال کنید",
     "Evaluation": "ارزیابی",
+    "SetNSFW": "NSFW را تنظیم کنید",
+    "SetprofileasNSFWadmin": "تنظیم به عنوان NSFW (مدیر)",
     "Total": "جمع",
+    "UnsetprofileasNSFWadmin": "نمایه را به عنوان NSFW (مدیر) تنظیم کنید",
     "Users": "کاربران",
     "aboutmoderation": "درباره: اعتدال",
     "addmssg": "اضافه کردن پیام",
@@ -468,6 +477,9 @@
     "votedyourpost": "به پست شما رأی داد"
   },
   "playlists": {
+    "Searchoraddnewplaylist": "لیست پخش جدید را جستجو یا اضافه کنید",
+    "Sortbyalphabeticalorder": "مرتب سازی بر اساس حروف الفبا",
+    "Srotbyrecentactivity": "مرتب سازی بر اساس فعالیت اخیر",
     "cloned": "لیست پخش کلون شد.",
     "cloneplaylist": "لیست پخش کلون",
     "copytoyourprofile": "این لیست پخش را در نمایه خودتان کپی کنید",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "هیچ کس هنوز پستی را با {{username}} به اشتراک نگذاشته است.",
     "Noonehassharedapostwithyou": "هنوز کسی پستی را با شما به اشتراک نگذاشته است.",
     "Nopostsfound": "هیچ پستی یافت نشد",
+    "Recommend": "توصیه",
+    "Recommendto": "توصیه به:",
     "Usernamebookmarkedpostsareprivate": "پست های بوک مارک شده {{username}} are خصوصی هستند.",
     "Usernamehasnobookmarkedposts": "{{username}} no هیچ نشانی در سایت ندارد.",
     "Usernameisnottagged": "any {{username}} در هیچ پستی برچسب گذاری نشده است.",
@@ -748,6 +762,13 @@
     "year": "سال",
     "years": "سال ها",
     "yesterday": "دیروز"
+  },
+  "topic": {
+    "Topicsall": "مباحث: همه",
+    "Topicsaudio": "مباحث: صوتی",
+    "Topicsimages": "مباحث: تصاویر",
+    "Topicslivestreams": "مباحث: پخش مستقیم",
+    "Topicsvideos": "مباحث: فیلم ها"
   },
   "types": {
     "Comments": "نظرات",

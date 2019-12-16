@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Тип інфраструктури",
     "ban": "Заборона",
-    "banmssg": "Заборонити як адміністратор",
+    "banmssg": "Заборонити користувача (адміністратора)",
     "bannednologinmssg": "більше не зможе входити або виконувати будь-які дії на сайті BitTube.",
     "bgpictureintro": "Додати фонове зображення. Це дасть відвідувачам у вашому профілі уявлення про те, про що йдеться.",
     "block": "Блок",
@@ -24,7 +24,7 @@
     "message": "повідомлення",
     "nopostshared": "Ніхто не поділився публікацією",
     "nopostssharedyet": "Поки ще не поділилися жодними публікаціями",
-    "report": "Звіт",
+    "report": "Користувач звіту",
     "reportdesc": "Введіть опис звіту",
     "rotate": "Поворот:",
     "rotateleft": "Поверніть ліворуч",
@@ -35,7 +35,7 @@
     "skip": "Пропустити",
     "suggestedresolution": "Рекомендована роздільна здатність 200x200 пікселів. NSFW не дозволено.",
     "tagged": "Позначено тегами",
-    "unbanmssg": "Unban як адміністратор",
+    "unbanmssg": "Unban користувач (адміністратор)",
     "uploadavatar": "Завантажити аватар",
     "uploadbanner": "Завантажити фон",
     "verifyaccnt": "Підтвердіть ваш аккаунт",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Додайте емоджи",
     "Addsticker": "Додати наклейку",
+    "Addto": "Додати до...",
     "Attachafile": "Приєднайте файл",
+    "Done": "Зроблено",
     "Livestreams": "Livestreams",
     "Loadmore": "Завантажити ще",
     "Members": "Члени",
@@ -297,7 +299,9 @@
     "learnmore": "Вивчайте більше",
     "startearning": "щоб почати заробляти на AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Привіт, схоже, що ти новий! Це ваш домашній канал. Підписавшись на користувачів, ви особисто контролюєте вміст на вашій шкалі часу. Почніть, дотримуючись @BitTubeOfficial, щоб ви не пропустили жодних оголошень. Удачі!"
+  },
   "login": {
     "createaccount": "Створити аккаунт",
     "createlinkmonetize": "Створіть його. Пов'яжіть це. Монетизуйте це!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Показати приватні повідомлення"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Усі посади розглядаються як NSFW",
     "Dismissed": "Відхилено",
+    "EnableNSFW": "Увімкнути NSFW",
     "Evaluation": "Оцінка",
+    "SetNSFW": "Встановити NSFW",
+    "SetprofileasNSFWadmin": "Встановити як NSFW (адміністратор)",
     "Total": "Всього",
+    "UnsetprofileasNSFWadmin": "Скасувати профіль як NSFW (адміністратор)",
     "Users": "Користувачі",
     "aboutmoderation": "Про: Помірність",
     "addmssg": "Додати повідомлення",
@@ -468,6 +477,9 @@
     "votedyourpost": "проголосували за ваш пост."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Шукайте або додайте новий список відтворення",
+    "Sortbyalphabeticalorder": "Сортувати за алфавітом",
+    "Srotbyrecentactivity": "Сортувати за нещодавньою активністю",
     "cloned": "Плейлист клонований.",
     "cloneplaylist": "Плейлист клонів",
     "copytoyourprofile": "Скопіюйте цей список відтворення у власний профіль",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Ще ніхто не поділився публікацією з {{username}}.",
     "Noonehassharedapostwithyou": "Ще ніхто не ділився з вами публікацією.",
     "Nopostsfound": "Не знайдено жодної публікації",
+    "Recommend": "Рекомендую",
+    "Recommendto": "Рекомендую:",
     "Usernamebookmarkedpostsareprivate": "Повідомлення закладок {{username}} є приватними.",
     "Usernamehasnobookmarkedposts": "{{username}} не має жодної публікації закладок.",
     "Usernameisnottagged": "{{username}} не позначено жодною публікацією.",
@@ -748,6 +762,13 @@
     "year": "рік",
     "years": "років",
     "yesterday": "Вчора"
+  },
+  "topic": {
+    "Topicsall": "Теми: Усі",
+    "Topicsaudio": "Теми: Аудіо",
+    "Topicsimages": "Теми: Образи",
+    "Topicslivestreams": "Теми: прямі трансляції",
+    "Topicsvideos": "Теми: Відео"
   },
   "types": {
     "Comments": "Коментарі",

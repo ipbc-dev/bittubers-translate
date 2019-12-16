@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Enfeksiyon türü",
     "ban": "yasak",
-    "banmssg": "Yönetici olarak yasak",
+    "banmssg": "Kullanıcıyı yasakla (yönetici)",
     "bannednologinmssg": "BitTube sitesinde oturum açamaz veya herhangi bir işlem yapamaz.",
     "bgpictureintro": "Arka plan resmi ekleyin. Profilinizdeki ziyaretçilere profilinizin ne hakkında olduğu hakkında bir fikir verecektir.",
     "block": "Blok",
     "blockuser": "Kullanıcıyı engelle",
     "blockusermssg": "sizi hiçbir gruba izleyemez, mesaj gönderemez, yorum yapamaz, tavsiye edemez veya ekleyemez. BitTube izin vermiyor",
-    "blockusermssg2": "Onu engellediğini biliyorum. Ayarlardan engelini kaldırabilirsiniz. Bir kullanıcıyı engelledikten sonra, Ana Sayfaya yönlendirileceksiniz.",
+    "blockusermssg2": "Onu engellediğini biliyorum. Ayarlardan engelini kaldırabilirsiniz. Bir kullanıcıyı engelledikten sonra, Giriş Sayfasına yönlendirileceksiniz.",
     "changeavatar": "Avatarını değiştir",
     "changebackground": " Arka planı değiştir",
     "changeyourbackground": "Arkaplanı Değiştir",
@@ -24,7 +24,7 @@
     "message": "İleti",
     "nopostshared": "Kimse ile yayın yayınlamadı",
     "nopostssharedyet": "Henüz hiç yayın paylaşılmadı",
-    "report": "Bildiri",
+    "report": "Kullanıcıyı bildir",
     "reportdesc": "Bir rapor açıklaması girin",
     "rotate": "Döndür:",
     "rotateleft": "Sola dön",
@@ -35,7 +35,7 @@
     "skip": "Atla",
     "suggestedresolution": "Önerilen çözünürlük 200x200 piksel. NSFW izin verilmez.",
     "tagged": "Etiketli",
-    "unbanmssg": "Yönetici olarak yasak",
+    "unbanmssg": "Yasaklı kullanıcı (admin)",
     "uploadavatar": "Avatar yükle",
     "uploadbanner": "Arka planı yükle",
     "verifyaccnt": "Hesabınızı doğrulayın",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Emojiyi ekle",
     "Addsticker": "Çıkartma ekle",
+    "Addto": "A ekle...",
     "Attachafile": "Bir dosya ekle",
+    "Done": "Bitti",
     "Livestreams": "Canlı yayınlar",
     "Loadmore": "Daha fazla yükle",
     "Members": "Üyeler",
@@ -297,7 +299,9 @@
     "learnmore": "Daha fazla bilgi edin",
     "startearning": "AirTime ile kazanmaya başlamak için!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Merhaba, yeni gibisin! Bu, Ev yayınınız. Kullanıcılara abone olarak, zaman çizelgenizdeki içeriği kişisel olarak kontrol edersiniz. @BitTubeOfficial adlı kullanıcıyı takip ederek başlayın, böylece herhangi bir duyuru kaçırmazsınız. İyi şanslar!"
+  },
   "login": {
     "createaccount": "Hesap oluştur",
     "createlinkmonetize": "Oluştur. Bağla. Para kazan!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Özel mesajları göster"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Tüm gönderiler NSFW olarak kabul edilir",
     "Dismissed": "İşten",
+    "EnableNSFW": "NSFW'yi etkinleştir",
     "Evaluation": "Değerlendirme",
+    "SetNSFW": "NSFW'yi ayarla",
+    "SetprofileasNSFWadmin": "NSFW (yönetici) olarak ayarla",
     "Total": "Toplam",
+    "UnsetprofileasNSFWadmin": "NSFW olarak ayarlanmamış profili (admin)",
     "Users": "Kullanıcılar",
     "aboutmoderation": "Hakkında: Moderasyon",
     "addmssg": "Mesaj ekle",
@@ -468,6 +477,9 @@
     "votedyourpost": "yayınınıza oy verdi."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Ara veya yeni şarkı listesi ekle",
+    "Sortbyalphabeticalorder": "Alfabetik sıraya göre sırala",
+    "Srotbyrecentactivity": "Son etkinliğe göre sırala",
     "cloned": "Oynatma listesi klonlandı.",
     "cloneplaylist": "Oynatma Listesini Klonla",
     "copytoyourprofile": "Bu oynatma listesini kendi profiline kopyala",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Henüz hiç kimse {{username}} ile bir yayın paylaşmadı.",
     "Noonehassharedapostwithyou": "Henüz kimse sizinle bir yayın paylaşmadı.",
     "Nopostsfound": "Gönderi bulunamadı.",
+    "Recommend": "Tavsiye etmek",
+    "Recommendto": "Tavsiye:",
     "Usernamebookmarkedpostsareprivate": "{{username}} adlı kullanıcının yer işareti verilen gönderileri özel.",
     "Usernamehasnobookmarkedposts": "{{username}} yer işareti yayınlanmadı.",
     "Usernameisnottagged": "{{username}} hiçbir yayında etiketlenmemiş.",
@@ -748,6 +762,13 @@
     "year": "yıl",
     "years": "yıl",
     "yesterday": "Dün"
+  },
+  "topic": {
+    "Topicsall": "Konular: Tümü",
+    "Topicsaudio": "Konular: Ses",
+    "Topicsimages": "Konular: Görüntüler",
+    "Topicslivestreams": "Konular: Canlı akışlar",
+    "Topicsvideos": "Konular: Videolar"
   },
   "types": {
     "Comments": "Yorumlar",

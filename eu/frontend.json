@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Infrakzio mota",
     "ban": "Debeku",
-    "banmssg": "Debekua administratzaile gisa",
+    "banmssg": "Debekatu erabiltzailea (administratzailea)",
     "bannednologinmssg": "ezingo du BitTube gunean egindako saioa hasi edo egin.",
     "bgpictureintro": "Gehitu atzeko planoko argazkia. Zure profilean dauden bisitariei zure profila zer den jakiteko balioko die.",
     "block": "Bloke",
     "blockuser": "Erabiltzailea blokeatu",
     "blockusermssg": "ezin izango duzu taldean jarraitu, mezua, iruzkina, gomendioa edo gehitzea. BitTube-k ez du utziko",
-    "blockusermssg2": "badakizu berari blokeatu diozula. Beraren ezarpenak desblokeatu ditzakezu. Erabiltzailea blokeatu ondoren, hasierara bideratuko zara.",
+    "blockusermssg2": "badakizu berari blokeatu diozula. Beraren ezarpenak desblokeatu ditzakezu. Erabiltzailea blokeatu ondoren, hasierara zuzenduko zara.",
     "changeavatar": "Aldatu zure avatar",
     "changebackground": " Aldatu atzeko planoa",
     "changeyourbackground": "Aldatu zure aurrekariak",
@@ -24,7 +24,7 @@
     "message": "Mezua",
     "nopostshared": "Inork ez du mezu bat partekatu",
     "nopostssharedyet": "Oraindik ez da mezurik partekatu",
-    "report": "txostena",
+    "report": "Erabiltzailearen berri",
     "reportdesc": "Idatzi txostenaren deskribapena",
     "rotate": "biratu:",
     "rotateleft": "Biratu ezkerrera",
@@ -35,7 +35,7 @@
     "skip": "jauzi",
     "suggestedresolution": "Iradokitako bereizmena 200x200 pixel. NSFW ez da onartzen.",
     "tagged": "Tartea",
-    "unbanmssg": "Administratzaile gisa Unban",
+    "unbanmssg": "Erabiltzaile unban (admin)",
     "uploadavatar": "Kargatu avatar",
     "uploadbanner": "Kargatu atzeko planoa",
     "verifyaccnt": "Egiaztatu kontua",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Gehitu emojiak",
     "Addsticker": "Gehitu eranskailua",
+    "Addto": "Gehitu...",
     "Attachafile": "Fitxategia erantsi",
+    "Done": "Done",
     "Livestreams": "Livestreams",
     "Loadmore": "Kargatu gehiago",
     "Members": "Bazkideek",
@@ -297,7 +299,9 @@
     "learnmore": "Gehiago ikasi",
     "startearning": "AirTime-rekin irabazten hasteko!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Kaixo, itxura berria duzu! Hau zure etxeko jarioa da. Erabiltzaileei harpidetuta, pertsonalki kontrolatzen duzu edukia zure kronologian. Hasi @BitTubeOfficial jarraituz, beraz, ez duzu iragarkirik galduko. Zorte on!"
+  },
   "login": {
     "createaccount": "Kontu bat sortu",
     "createlinkmonetize": "Sortu. Lotu. Diruz irabazi!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Erakutsi mezu pribatuak"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Mezu guztiak NSFW gisa tratatzen dira",
     "Dismissed": "baztertu",
+    "EnableNSFW": "Gaitu NSFW",
     "Evaluation": "ebaluazioa",
+    "SetNSFW": "Ezarri NSFW",
+    "SetprofileasNSFWadmin": "Ezarri NSFW gisa (administratzailea)",
     "Total": "Guztira",
+    "UnsetprofileasNSFWadmin": "Ezarri profila NSFW gisa (admin)",
     "Users": "erabiltzaileak",
     "aboutmoderation": "Buruz: Moderazioa",
     "addmssg": "Mezua gehitu",
@@ -468,6 +477,9 @@
     "votedyourpost": "botoa eman zuen zure mezuan."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Bilatu edo gehitu erreprodukzio-zerrenda berria",
+    "Sortbyalphabeticalorder": "Ordenatu alfabetikoki ordenatuta",
+    "Srotbyrecentactivity": "Saiatu azken jardueraren arabera",
     "cloned": "Erreprodukzio-zerrenda klonatua.",
     "cloneplaylist": "Klonen erreprodukzio zerrenda",
     "copytoyourprofile": "Kopiatu erreprodukzio zerrenda zure profilera",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Oraindik inork ez du mezu bat {{username}}-ekin partekatu.",
     "Noonehassharedapostwithyou": "Oraindik inork ez du mezu bat partekatu zurekin.",
     "Nopostsfound": "Ez da mezuik aurkitu.",
+    "Recommend": "gomendatu",
+    "Recommendto": "Gomendatu:",
     "Usernamebookmarkedpostsareprivate": "{{username}} 'laster-markatutako mezuak pribatuak dira.",
     "Usernamehasnobookmarkedposts": "{{username}}-ek ez du mezuen markarik.",
     "Usernameisnottagged": "{{username}} ez dago etiketarik inolako mezuetan.",
@@ -748,6 +762,13 @@
     "year": "Urte",
     "years": "urte",
     "yesterday": "Atzo"
+  },
+  "topic": {
+    "Topicsall": "Gaiak: Guztiak",
+    "Topicsaudio": "Gaiak: Audio",
+    "Topicsimages": "Gaiak: Irudiak",
+    "Topicslivestreams": "Gaiak: Zuzeneko korronteak",
+    "Topicsvideos": "Gaiak: Bideoak"
   },
   "types": {
     "Comments": "Oharrak",

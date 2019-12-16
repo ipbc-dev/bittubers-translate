@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Överträdelsetyp",
     "ban": "Förbjuda",
-    "banmssg": "Förbud som administratör",
+    "banmssg": "Förbjuda användare (admin)",
     "bannednologinmssg": "kommer inte längre att kunna logga in eller utföra några åtgärder på BitTube-webbplatsen.",
     "bgpictureintro": "Lägg till en bakgrundsbild. Det ger besökare på din profil en känsla av vad din profil handlar om.",
     "block": "Blockera",
@@ -24,7 +24,7 @@
     "message": "Meddelande",
     "nopostshared": "Ingen har delat ett inlägg med",
     "nopostssharedyet": "Inga inlägg har delats än",
-    "report": "Rapportera",
+    "report": "Rapportera användare",
     "reportdesc": "Ange en rapportbeskrivning",
     "rotate": "Rotera:",
     "rotateleft": "Rotera vänster",
@@ -35,7 +35,7 @@
     "skip": "Hoppa",
     "suggestedresolution": "Föreslagen upplösning 200x200 pixlar. NSFW inte tillåtet.",
     "tagged": "Taggade",
-    "unbanmssg": "Oban som administratör",
+    "unbanmssg": "Obanan användare (admin)",
     "uploadavatar": "Ladda upp avatar",
     "uploadbanner": "Ladda upp bakgrund",
     "verifyaccnt": "verifiera ditt konto",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Lägg till emojis",
     "Addsticker": "Lägg till klistermärke",
+    "Addto": "Lägg till...",
     "Attachafile": "Bifoga en fil",
+    "Done": "Gjort",
     "Livestreams": "Livestreams",
     "Loadmore": "Ladda mer",
     "Members": "medlemmar",
@@ -297,7 +299,9 @@
     "learnmore": "Läs mer",
     "startearning": "att börja tjäna med AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Hej, ser ut som du är ny! Det här är ditt hemfoder. Genom att prenumerera på användare kontrollerar du personligen innehållet på din tidslinje. Börja med att följa @BitTubeOfficial så att du inte missar några meddelanden. Lycka till!"
+  },
   "login": {
     "createaccount": "Skapa ett konto",
     "createlinkmonetize": "Skapa det. Länk det. Tjäna pengar på det!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Visa privata meddelanden"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Alla inlägg behandlas som NSFW",
     "Dismissed": "Avskedad",
+    "EnableNSFW": "Aktivera NSFW",
     "Evaluation": "Utvärdering",
+    "SetNSFW": "Ställ in NSFW",
+    "SetprofileasNSFWadmin": "Ange som NSFW (admin)",
     "Total": "Total",
+    "UnsetprofileasNSFWadmin": "Återställ profil som NSFW (admin)",
     "Users": "användare",
     "aboutmoderation": "Om: Moderering",
     "addmssg": "Lägg till meddelande",
@@ -468,6 +477,9 @@
     "votedyourpost": "röstade om ditt inlägg."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Sök eller lägg till ny spellista",
+    "Sortbyalphabeticalorder": "Sortera efter alfabetisk ordning",
+    "Srotbyrecentactivity": "Sortera efter senaste aktivitet",
     "cloned": "Spellistan klonade.",
     "cloneplaylist": "Klon-spellista",
     "copytoyourprofile": "Kopiera den här spellistan till din egen profil",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Ingen har delat ett inlägg med {{username}} än.",
     "Noonehassharedapostwithyou": "Ingen har delat ett inlägg med dig än.",
     "Nopostsfound": "Inga inlägg hittades.",
+    "Recommend": "Rekommendera",
+    "Recommendto": "Rekommendera att:",
     "Usernamebookmarkedpostsareprivate": "{{username}}: s bokmärkta inlägg är privata.",
     "Usernamehasnobookmarkedposts": "{{username}} har inga bokmärkta inlägg.",
     "Usernameisnottagged": "{{username}} är inte taggad i något inlägg.",
@@ -748,6 +762,13 @@
     "year": "år",
     "years": "år",
     "yesterday": "I går"
+  },
+  "topic": {
+    "Topicsall": "Ämnen: Alla",
+    "Topicsaudio": "Ämnen: Ljud",
+    "Topicsimages": "Ämnen: bilder",
+    "Topicslivestreams": "Ämnen: Liveströmmar",
+    "Topicsvideos": "Ämnen: videor"
   },
   "types": {
     "Comments": "kommentarer",

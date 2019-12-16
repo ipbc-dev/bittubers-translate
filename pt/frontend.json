@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Tipo de infração",
     "ban": "Banimento",
-    "banmssg": "Banir como administrador",
+    "banmssg": "Banir usuário (administrador)",
     "bannednologinmssg": "não poderá mais fazer login ou executar nenhuma ação no site do BitTube.",
     "bgpictureintro": "Adicione uma imagem de fundo. Isso dará aos visitantes do seu perfil uma noção do que é o seu perfil.",
     "block": "Quadra",
@@ -24,7 +24,7 @@
     "message": "mensagem",
     "nopostshared": "Ninguém compartilhou uma postagem com",
     "nopostssharedyet": "Nenhuma postagem foi compartilhada ainda",
-    "report": "Relatório",
+    "report": "Reportar usuário",
     "reportdesc": "Digite uma descrição do relatório",
     "rotate": "Rodar:",
     "rotateleft": "Vire à esquerda",
@@ -35,7 +35,7 @@
     "skip": "Pular",
     "suggestedresolution": "Resolução sugerida 200x200 pixels. NSFW não permitido.",
     "tagged": "Tagged",
-    "unbanmssg": "Desbanir como administrador",
+    "unbanmssg": "Usuário não banido (administrador)",
     "uploadavatar": "Carregar avatar",
     "uploadbanner": "Carregar plano de fundo",
     "verifyaccnt": "Verifique sua conta",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Adicionar emojis",
     "Addsticker": "Adicionar adesivo",
+    "Addto": "Adicionar à...",
     "Attachafile": "Anexar um arquivo",
+    "Done": "Feito",
     "Livestreams": "Ao vivo",
     "Loadmore": "Carregue mais",
     "Members": "Membros",
@@ -297,6 +299,9 @@
     "learnmore": "Saber mais",
     "startearning": "para começar a ganhar com o AirTime!"
   },
+  "home": {
+    "Homefeednewuser": "Olá, parece que você é novo! Este é o seu feed inicial. Ao assinar os usuários, você controla pessoalmente o conteúdo da sua linha do tempo. Comece seguindo @BitTubeOfficial para não perder nenhum anúncio. Boa sorte!"
+  },
   "login": {
     "createaccount": "Crie a sua conta aqui",
     "createlinkmonetize": "Crie-o. Ligue-o. Monetize-o!",
@@ -345,9 +350,14 @@
     "showprivmssg": "Mostrar mensagens privadas"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Todas as postagens são tratadas como NSFW",
     "Dismissed": "Demitido",
+    "EnableNSFW": "Ativar NSFW",
     "Evaluation": "Avaliação",
+    "SetNSFW": "Definir NSFW",
+    "SetprofileasNSFWadmin": "Definir como NSFW (administrador)",
     "Total": "Total",
+    "UnsetprofileasNSFWadmin": "Desativar perfil como NSFW (administrador)",
     "Users": "Usuários",
     "aboutmoderation": "Sobre: Moderação",
     "addmssg": "Adicionar mensagem",
@@ -467,6 +477,9 @@
     "votedyourpost": "votou na sua postagem."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Pesquise ou adicione nova lista de reprodução",
+    "Sortbyalphabeticalorder": "Classificar por ordem alfabética",
+    "Srotbyrecentactivity": "Classificar por atividade recente",
     "cloned": "Lista de reprodução clonada.",
     "cloneplaylist": "Clonar lista de reprodução",
     "copytoyourprofile": "Copie esta lista de reprodução para o seu próprio perfil",
@@ -576,6 +589,8 @@
     "Noonehassharedapost": "Ninguém compartilhou uma postagem com {{username}} ainda.",
     "Noonehassharedapostwithyou": "Ninguém compartilhou uma postagem com você ainda.",
     "Nopostsfound": "Nenhuma postagem encontrada.",
+    "Recommend": "Recomendar",
+    "Recommendto": "Recomendar a:",
     "Usernamebookmarkedpostsareprivate": "As postagens favoritas de {{username}} são privadas.",
     "Usernamehasnobookmarkedposts": "{{username}} não tem postagens favoritas.",
     "Usernameisnottagged": "{{username}} não está marcado em nenhuma postagem.",
@@ -747,6 +762,13 @@
     "year": "ano",
     "years": "anos",
     "yesterday": "Ontem"
+  },
+  "topic": {
+    "Topicsall": "Tópicos: Todos",
+    "Topicsaudio": "Tópicos: Áudio",
+    "Topicsimages": "Tópicos: Imagens",
+    "Topicslivestreams": "Tópicos: transmissões ao vivo",
+    "Topicsvideos": "Tópicos: Vídeos"
   },
   "types": {
     "Comments": "Comentários",

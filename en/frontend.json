@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Infraction type",
     "ban": "Ban",
-    "banmssg": "Ban as Administrator",
+    "banmssg": "Ban user (admin)",
     "bannednologinmssg": "will no longer be able to login or perform any actions in the BitTube site.",
     "bgpictureintro": "Add a background picture. It will give visitors on your profile a sense of what your profile is about.",
     "block": "Block",
     "blockuser": "Block user",
     "blockusermssg": "will no longer be able to follow, message, comment, recommend or add you in any group. BitTube won't let",
-    "blockusermssg2": "know you blocked him/her. You can unblock him/her from settings. After block a user, you will be redirected to Homepage.",
+    "blockusermssg2": "know you blocked him/her. You can unblock him/her from settings. After blocking a user, you will be redirected to the Homepage.",
     "changeavatar": "Change your avatar",
     "changebackground": " Change background",
     "changeyourbackground": "Change your Background",
@@ -24,7 +24,7 @@
     "message": "Message",
     "nopostshared": "No one has shared a post with",
     "nopostssharedyet": "No posts have been shared yet",
-    "report": "Report",
+    "report": "Report user",
     "reportdesc": "Enter a report description",
     "rotate": "Rotate:",
     "rotateleft": "Rotate left",
@@ -35,7 +35,7 @@
     "skip": "Skip",
     "suggestedresolution": "Suggested resolution 200x200 pixels. NSFW not allowed.",
     "tagged": "Tagged",
-    "unbanmssg": "Unban as Administrator",
+    "unbanmssg": "Unban user (admin)",
     "uploadavatar": "Upload avatar",
     "uploadbanner": "Upload background",
     "verifyaccnt": "Verify your account",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Add emojis",
     "Addsticker": "Add sticker",
+    "Addto": "Add to...",
     "Attachafile": "Attach a file",
+    "Done": "Done",
     "Livestreams": "Livestreams",
     "Loadmore": "Load More",
     "Members": "Members",
@@ -142,7 +144,7 @@
     "Subscriptions": "Subscriptions",
     "about": "About",
     "addcomment": "Comment",
-    "addtoplaylist": "Add to play list",
+    "addtoplaylist": "Add to playlist",
     "all": "posts",
     "allposts": "All posts",
     "apply": "Apply",
@@ -297,6 +299,9 @@
     "learnmore": "Learn more",
     "startearning": "to start earning with AirTime!"
   },
+  "home": {
+    "Homefeednewuser": "Hi, looks like you're new! This is your Home feed. By subscribing to users, you personally control the content on your timeline. Start by following @BitTubeOfficial so you won't miss any announcements. Good luck!"
+  },
   "login": {
     "createaccount": "Create an account",
     "createlinkmonetize": "Create it. Link it. Monetize it!",
@@ -345,9 +350,14 @@
     "showprivmssg": "Show private messages"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "All posts are treated as NSFW",
     "Dismissed": "Dismissed",
+    "EnableNSFW": "Enable NSFW",
     "Evaluation": "Evaluation",
+    "SetNSFW": "Set NSFW",
+    "SetprofileasNSFWadmin": "Set as NSFW (admin)",
     "Total": "Total",
+    "UnsetprofileasNSFWadmin": "Unset profile as NSFW (admin)",
     "Users": "Users",
     "aboutmoderation": "About: Moderation",
     "addmssg": "Add message",
@@ -467,6 +477,9 @@
     "votedyourpost": "voted on your post."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Search or add new playlist",
+    "Sortbyalphabeticalorder": "Sort by alphabetical order",
+    "Srotbyrecentactivity": "Sort by recent activity",
     "cloned": "Playlist cloned.",
     "cloneplaylist": "Clone Playlist",
     "copytoyourprofile": "Copy this playlist to your own profile",
@@ -576,6 +589,8 @@
     "Noonehassharedapost": "No one has shared a post with {{username}} yet.",
     "Noonehassharedapostwithyou": "No one has shared a post with you yet.",
     "Nopostsfound": "No posts found.",
+    "Recommend": "Recommend",
+    "Recommendto": "Recommend to:",
     "Usernamebookmarkedpostsareprivate": "{{username}}'s bookmarked posts are private.",
     "Usernamehasnobookmarkedposts": "{{username}} has no bookmarked posts.",
     "Usernameisnottagged": "{{username}} is not tagged in any post.",
@@ -747,6 +762,13 @@
     "year": "year",
     "years": "years",
     "yesterday": "Yesterday"
+  },
+  "topic": {
+    "Topicsall": "Topics: All",
+    "Topicsaudio": "Topics: Audio",
+    "Topicsimages": "Topics: Images",
+    "Topicslivestreams": "Topics: Live streams",
+    "Topicsvideos": "Topics: Videos"
   },
   "types": {
     "Comments": "Comments",

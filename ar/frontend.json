@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "نوع المخالفة",
     "ban": "المنع",
-    "banmssg": "حظر كمسؤول",
+    "banmssg": "حظر المستخدم (المشرف)",
     "bannednologinmssg": "لن تتمكن بعد الآن من تسجيل الدخول أو تنفيذ أي إجراءات في موقع BitTube.",
     "bgpictureintro": "أضف صورة خلفية. سيعطي الزائرين في ملف التعريف الخاص بك إحساسًا بما هو ملف التعريف الخاص بك.",
     "block": "منع",
@@ -24,7 +24,7 @@
     "message": "رسالة",
     "nopostshared": "لم يشارك أحد مشاركة مع",
     "nopostssharedyet": "لم تتم مشاركة أي مشاركات حتى الآن",
-    "report": "نقل",
+    "report": "أبلغ عن مستخدم",
     "reportdesc": "أدخل وصف التقرير",
     "rotate": "استدارة:",
     "rotateleft": "استدر يسارا",
@@ -35,7 +35,7 @@
     "skip": "تخطى",
     "suggestedresolution": "الدقة المقترحة 200 × 200 بكسل. NSFW غير مسموح به.",
     "tagged": "معلم",
-    "unbanmssg": "إلغاء الحظر كمسؤول",
+    "unbanmssg": "مستخدم غير محظور (مشرف)",
     "uploadavatar": "تحميل الصورة الرمزية",
     "uploadbanner": "تحميل الخلفية",
     "verifyaccnt": "تحقق من حسابك",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "إضافة الرموز التعبيرية",
     "Addsticker": "إضافة ملصقا",
+    "Addto": "اضف إليه...",
     "Attachafile": "إرفاق ملف",
+    "Done": "فعله",
     "Livestreams": "يعيش تيارات",
     "Loadmore": "تحميل المزيد",
     "Members": "أفراد",
@@ -297,7 +299,9 @@
     "learnmore": "أعرف أكثر",
     "startearning": "لبدء كسب مع AirTime!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "مرحبًا ، يبدو أنك جديد! هذا هو تغذية منزلك. من خلال الاشتراك في المستخدمين ، يمكنك التحكم شخصيا في المحتوى على الجدول الزمني الخاص بك. ابدأ باتباعBitTubeOfficial حتى لا تفوت أي إعلانات. حظا سعيدا!"
+  },
   "login": {
     "createaccount": "انشئ حساب",
     "createlinkmonetize": "اصنعها. ربطه. نقده!",
@@ -346,9 +350,14 @@
     "showprivmssg": "عرض الرسائل الخاصة"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "يتم التعامل مع جميع الوظائف على أنها NSFW",
     "Dismissed": "رفض",
+    "EnableNSFW": "تمكين NSFW",
     "Evaluation": "تقييم",
+    "SetNSFW": "ضبط NSFW",
+    "SetprofileasNSFWadmin": "تعيين NSFW (مشرف)",
     "Total": "مجموع",
+    "UnsetprofileasNSFWadmin": "إلغاء تعيين الملف الشخصي كـ NSFW (مشرف)",
     "Users": "المستخدمين",
     "aboutmoderation": "حول: الاعتدال",
     "addmssg": "اضافة رسالة",
@@ -468,6 +477,9 @@
     "votedyourpost": "صوت على مشاركتك."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "بحث أو إضافة قائمة تشغيل جديدة",
+    "Sortbyalphabeticalorder": "الترتيب حسب الترتيب الأبجدي",
+    "Srotbyrecentactivity": "فرز حسب النشاط الأخير",
     "cloned": "قائمة التشغيل المستنسخة.",
     "cloneplaylist": "استنساخ قائمة التشغيل",
     "copytoyourprofile": "انسخ قائمة التشغيل هذه إلى ملفك الشخصي",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "لم يشارك أي شخص مشاركة مع {{username}} حتى الآن.",
     "Noonehassharedapostwithyou": "لم يشارك أحد مشاركة معك بعد.",
     "Nopostsfound": "لم يتم العثور على أية رسائل.",
+    "Recommend": "يوصي",
+    "Recommendto": "يوصي:",
     "Usernamebookmarkedpostsareprivate": "المشاركات {{username}} المرجعية هي خاصة.",
     "Usernamehasnobookmarkedposts": "{{username}} لا يحتوي على مشاركات مرجعية.",
     "Usernameisnottagged": "{{username}} غير مصنف في أي منشور.",
@@ -748,6 +762,13 @@
     "year": "عام",
     "years": "سنوات",
     "yesterday": "في الامس"
+  },
+  "topic": {
+    "Topicsall": "المواضيع: الكل",
+    "Topicsaudio": "المواضيع: الصوت",
+    "Topicsimages": "المواضيع: الصور",
+    "Topicslivestreams": "المواضيع: تيارات لايف",
+    "Topicsvideos": "المواضيع: فيديو"
   },
   "types": {
     "Comments": "تعليقات",

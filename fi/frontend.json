@@ -2,7 +2,7 @@
   "banner": {
     "Infractiontype": "Infraktiotyyppi",
     "ban": "Kieltää",
-    "banmssg": "Kiellä järjestelmänvalvojana",
+    "banmssg": "Estä käyttäjä (järjestelmänvalvoja)",
     "bannednologinmssg": "ei enää voi kirjautua sisään tai suorittaa mitään toimia BitTube-sivustossa.",
     "bgpictureintro": "Lisää taustakuva. Se antaa profiilisi kävijöille käsityksen profiilisi merkityksestä.",
     "block": "Lohko",
@@ -24,7 +24,7 @@
     "message": "Viesti",
     "nopostshared": "Kukaan ei ole jakanut viestiä käyttäjän kanssa",
     "nopostssharedyet": "Viestejä ei ole vielä jaettu",
-    "report": "raportti",
+    "report": "Ilmoita käyttäjä",
     "reportdesc": "Kirjoita raportin kuvaus",
     "rotate": "Kiertää:",
     "rotateleft": "Käänny vasemmalle",
@@ -35,7 +35,7 @@
     "skip": "Ohita",
     "suggestedresolution": "Ehdotettu tarkkuus 200x200 pikseliä. NSFW ei ole sallittu.",
     "tagged": "merkityt",
-    "unbanmssg": "Poista järjestelmänvalvoja",
+    "unbanmssg": "Kumoa käyttäjän (järjestelmänvalvoja)",
     "uploadavatar": "Lataa avatar",
     "uploadbanner": "Lataa tausta",
     "verifyaccnt": "Vahvista tilisi",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Lisää hymiöt",
     "Addsticker": "Lisää tarra",
+    "Addto": "Lisätä...",
     "Attachafile": "Liitä tiedosto",
+    "Done": "Tehty",
     "Livestreams": "suoratoistot",
     "Loadmore": "Lataa lisää",
     "Members": "Jäsenet",
@@ -297,7 +299,9 @@
     "learnmore": "Lue lisää",
     "startearning": "alkaa ansaita AirTimesta!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Hei, näyttää siltä, että olet uusi! Tämä on kotisi syötteesi. Tilaamalla käyttäjiä, hallitset henkilökohtaisesti aikajanallasi olevaa sisältöä. Aloita seuraamalla @BitTubeOfficialia, jotta et menetä yhtään ilmoitusta. Onnea!"
+  },
   "login": {
     "createaccount": "Luo tili",
     "createlinkmonetize": "Luo se. Yhdistä se. Ansaitse se!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Näytä yksityiset viestit"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Kaikkia viestejä käsitellään NSFW: nä",
     "Dismissed": "hylätty",
+    "EnableNSFW": "Ota NSFW käyttöön",
     "Evaluation": "arviointi",
+    "SetNSFW": "Aseta NSFW",
+    "SetprofileasNSFWadmin": "Aseta NSFW (järjestelmänvalvoja)",
     "Total": "Kaikki yhteensä",
+    "UnsetprofileasNSFWadmin": "Poista profiili NSFW: nä (järjestelmänvalvoja)",
     "Users": "käyttäjät",
     "aboutmoderation": "Tietoja: Valvonta",
     "addmssg": "Lisää viesti",
@@ -468,6 +477,9 @@
     "votedyourpost": "äänesti viestissäsi."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Etsi tai lisää uusi soittolista",
+    "Sortbyalphabeticalorder": "Lajittele aakkosjärjestyksessä",
+    "Srotbyrecentactivity": "Lajittele viimeaikaisen toiminnan perusteella",
     "cloned": "Soittolista kloonattu.",
     "cloneplaylist": "Kloonien soittolista",
     "copytoyourprofile": "Kopioi tämä soittolista omaan profiiliisi",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Kukaan ei ole vielä jakanut viestiä {{username}} kanssa.",
     "Noonehassharedapostwithyou": "Kukaan ei ole vielä jakanut viestiä kanssasi.",
     "Nopostsfound": "Viestejä ei löytynyt.",
+    "Recommend": "Suositella",
+    "Recommendto": "Suosittele:",
     "Usernamebookmarkedpostsareprivate": "{{username}} kirjanmerkkeihin merkityt viestit ovat yksityisiä.",
     "Usernamehasnobookmarkedposts": "{{username}}: lla ei ole kirjanmerkkeihin merkittyjä viestejä.",
     "Usernameisnottagged": "{{username}} ei ole merkitty mihinkään viestiin.",
@@ -748,6 +762,13 @@
     "year": "vuosi",
     "years": "vuotta",
     "yesterday": "Eilen"
+  },
+  "topic": {
+    "Topicsall": "Aiheet: Kaikki",
+    "Topicsaudio": "Aiheet: Ääni",
+    "Topicsimages": "Aiheet: Kuvat",
+    "Topicslivestreams": "Aiheet: Suorat streamit",
+    "Topicsvideos": "Aiheet: Videot"
   },
   "types": {
     "Comments": "Kommentit",

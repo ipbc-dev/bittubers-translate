@@ -2,13 +2,13 @@
   "banner": {
     "Infractiontype": "Inflatsiooni tüüp",
     "ban": "Keela",
-    "banmssg": "Keela administraatorina",
+    "banmssg": "Kasutaja keelamine (administraator)",
     "bannednologinmssg": "ei saa enam BitTube'i saidil sisse logida ega toiminguid teha.",
     "bgpictureintro": "Lisage taustpilt. See annab teie profiili külastajatele aimu, mis teie profiilis on.",
     "block": "Blokeeri",
     "blockuser": "Blokeeri kasutaja",
     "blockusermssg": "ei saa teid enam üheski rühmas jälgida, sõnumeid lisada, kommenteerida, soovitada ega lisada teid. BitTube ei lase",
-    "blockusermssg2": "tean, et sa blokeerisid ta. Saate ta seadetest lahti võtta. Pärast kasutaja blokeerimist suunatakse teid uuesti kodulehele.",
+    "blockusermssg2": "tean, et sa blokeerisid ta. Saate ta seadetest lahti võtta. Pärast kasutaja blokeerimist suunatakse teid kodulehele.",
     "changeavatar": "Muutke oma avatari",
     "changebackground": " Muuda tausta",
     "changeyourbackground": "Muutke oma tausta",
@@ -24,7 +24,7 @@
     "message": "Sõnum",
     "nopostshared": "Keegi pole postitust jaganud",
     "nopostssharedyet": "Ühtegi postitust pole veel jagatud",
-    "report": "Aruanne",
+    "report": "Teata kasutajast",
     "reportdesc": "Sisestage aruande kirjeldus",
     "rotate": "Pööra:",
     "rotateleft": "Pöörake vasakule",
@@ -35,7 +35,7 @@
     "skip": "Vahele jätma",
     "suggestedresolution": "Soovitatav eraldusvõime 200x200 pikslit. NSFW pole lubatud.",
     "tagged": "Sildistatud",
-    "unbanmssg": "Unban administraatorina",
+    "unbanmssg": "Tühista kasutaja (administraator)",
     "uploadavatar": "Laadige üles avatari",
     "uploadbanner": "Laadige taust üles",
     "verifyaccnt": "Kinnita oma kasutaja",
@@ -129,7 +129,9 @@
   "generics": {
     "Addemojis": "Lisage emotikone",
     "Addsticker": "Lisage kleebis",
+    "Addto": "Lisa...",
     "Attachafile": "Manustage fail",
+    "Done": "Valmis",
     "Livestreams": "Otseülekanded",
     "Loadmore": "Lae rohkem",
     "Members": "Liikmed",
@@ -297,7 +299,9 @@
     "learnmore": "Lisateave",
     "startearning": "AirTime'iga teenima hakata!"
   },
-  "home": {},
+  "home": {
+    "Homefeednewuser": "Tere, tundub, et olete uus! See on teie koduvoog. Kasutajate tellimisega kontrollite isiklikult oma ajaskaala sisu. Alustage @BitTubeOfficiali jälgimisega, nii et te ei jätaks ühtegi teadet maha. Edu!"
+  },
   "login": {
     "createaccount": "Kontot looma",
     "createlinkmonetize": "Loo see. Lingi see. Rahastage see!",
@@ -346,9 +350,14 @@
     "showprivmssg": "Kuva privaatsõnumid"
   },
   "moderation": {
+    "AllpostsaretreatedasNSFW": "Kõiki postitusi käsitletakse kui NSFW-d",
     "Dismissed": "Vallandati",
+    "EnableNSFW": "Luba NSFW",
     "Evaluation": "Hindamine",
+    "SetNSFW": "Määrake NSFW",
+    "SetprofileasNSFWadmin": "Määra NSFW (administraator)",
     "Total": "Kokku",
+    "UnsetprofileasNSFWadmin": "Unset profiili kui NSFW (admin)",
     "Users": "Kasutajad",
     "aboutmoderation": "Umbes: modereerimine",
     "addmssg": "Lisage sõnum",
@@ -468,6 +477,9 @@
     "votedyourpost": "hääletas teie postituse üle."
   },
   "playlists": {
+    "Searchoraddnewplaylist": "Uue esitusloendi otsimine või lisamine",
+    "Sortbyalphabeticalorder": "Sorteeri tähestikulises järjekorras",
+    "Srotbyrecentactivity": "Sorteeri hiljutise tegevuse järgi",
     "cloned": "Esitusloend klooniti.",
     "cloneplaylist": "Kloonide esitusloend",
     "copytoyourprofile": "Kopeerige see esitusloend oma profiilile",
@@ -577,6 +589,8 @@
     "Noonehassharedapost": "Keegi pole veel {{username}} postitust jaganud.",
     "Noonehassharedapostwithyou": "Keegi pole teiega veel postitust jaganud.",
     "Nopostsfound": "Ühtegi postitust ei leitud.",
+    "Recommend": "Soovitage",
+    "Recommendto": "Soovitage:",
     "Usernamebookmarkedpostsareprivate": "{{username}} järjehoidjaga postitused on privaatsed.",
     "Usernamehasnobookmarkedposts": "{{username}} pole järjehoidjatega postitusi.",
     "Usernameisnottagged": "Ühtegi postitusse pole {{username}} märgitud.",
@@ -748,6 +762,13 @@
     "year": "aastal",
     "years": "aastatel",
     "yesterday": "Eile"
+  },
+  "topic": {
+    "Topicsall": "Teemad: Kõik",
+    "Topicsaudio": "Teemad: Audio",
+    "Topicsimages": "Teemad: Pildid",
+    "Topicslivestreams": "Teemad: Otseülekanded",
+    "Topicsvideos": "Teemad: videod"
   },
   "types": {
     "Comments": "Kommentaarid",
