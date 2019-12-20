@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Infrakzio mota",
+    "Reportpost": "Txostena",
+    "Viewprofile": "Ikusi profila",
     "ban": "Debeku",
     "banmssg": "Debekatu erabiltzailea (administratzailea)",
     "bannednologinmssg": "ezingo du BitTube gunean egindako saioa hasi edo egin.",
@@ -24,8 +26,10 @@
     "message": "Mezua",
     "nopostshared": "Inork ez du mezu bat partekatu",
     "nopostssharedyet": "Oraindik ez da mezurik partekatu",
-    "report": "Erabiltzailearen berri",
-    "reportdesc": "Idatzi txostenaren deskribapena",
+    "report": "txostena",
+    "reportdesc": "Idatzi txostenaren deskribapena.",
+    "reportdesctimestamp": "Idatzi txostenaren deskribapena. Sartu kronograma egokiak badira.",
+    "reportuser": "Erabiltzailearen berri",
     "rotate": "biratu:",
     "rotateleft": "Biratu ezkerrera",
     "rotateright": "Biratu eskuinera",
@@ -130,6 +134,7 @@
     "Addemojis": "Gehitu emojiak",
     "Addsticker": "Gehitu eranskailua",
     "Addto": "Gehitu...",
+    "All": "guztiak",
     "Attachafile": "Fitxategia erantsi",
     "Done": "Done",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Mezu guztiak",
     "Moderation": "Moderazioa",
+    "Moderationpolicy": "Moderazio politika",
     "New": "New",
     "about": "About",
     "airtimeext": "Airtime luzapena",
@@ -427,7 +433,7 @@
     "managedocuments": "Dokumentuak kudeatu",
     "membershipxp": "Bazkidetza eta XP",
     "mixed": "mistoa",
-    "moderation": "Moderazioa",
+    "moderation": "moderazioaren",
     "mydocs": "Nire dokumentuak",
     "myreferrals": "Nire aipamenak",
     "new": "New",
@@ -446,6 +452,10 @@
     "whatisbt": "Zer da BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Harpidetuta dagoeneko @{{username}}",
+    "Couldnotsubscribeto": "Ezin da @{{username}} (e) k harpidetu",
+    "Subscribedto": "@{{username}} (E) k harpidetuta",
+    "Unsubscribed": "Harpidetu @{{username}} etatik",
     "addedyoutoagroup": " talde batera gehitu zaitu.",
     "addedyoutofavourites": " gogokoetara gehitu zaitu.",
     "bookmarkedyourpost": "Laster markatu duzu zure mezua.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Jakinarazpenak kendu dira.",
     "openpost": "Mezu irekia",
     "recommended": " gomendagarria",
+    "recommendedusernametoyou": "gomendagarria da @{{username}}.",
     "repliedyourcomment": " zure iruzkinei erantzun dio.",
     "sentyoudonation": " dohaintza bat bidali dizu.",
     "sentyouprivatemessage": " mezu pribatua bidali dizu.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Orain, gure sistemak SMS bat bidaliko dizu",
     "youareverified": "Egiaztatu zara",
     "yourblocked": "Zure blokeatutako kideak",
-    "yourpass": "Zure pasahitza ..."
+    "yourpass": "Zure pasahitza ...",
+    "youtuberelink": "Errore bat gertatu da estekatutako YouTube kanalaren jabetza balioztatzerakoan. Zure YouTube kargak bidaltzen jarraitzeko, berriro estekatu kanala. Eskerrik asko."
   },
   "timeago": {
     "1hourago": "Duela 1 ordu",

@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Тип на нарушението",
+    "Reportpost": "Докладване на публикация",
+    "Viewprofile": "Виж профил",
     "ban": "забрана",
     "banmssg": "Забрани потребител (администратор)",
     "bannednologinmssg": "вече няма да може да влиза или да извършва каквито и да било действия в сайта на BitTube.",
@@ -24,8 +26,10 @@
     "message": "съобщение",
     "nopostshared": "Никой не е споделил публикация с",
     "nopostssharedyet": "Все още не са споделени публикации",
-    "report": "Докладване на потребител",
-    "reportdesc": "Въведете описание на рапорта",
+    "report": "доклад",
+    "reportdesc": "Въведете описание на отчета.",
+    "reportdesctimestamp": "Въведете описание на отчета. Включете времеви отметки, ако е уместно.",
+    "reportuser": "Докладване на потребител",
     "rotate": "Завъртане:",
     "rotateleft": "Завърти наляво",
     "rotateright": "Завъртете надясно",
@@ -130,6 +134,7 @@
     "Addemojis": "Добавете емоджи",
     "Addsticker": "Добавете стикер",
     "Addto": "Добави към...",
+    "All": "всичко",
     "Attachafile": "Прикачете файл",
     "Done": "Свършен",
     "Livestreams": "предаванията",
@@ -405,7 +410,8 @@
   },
   "navigation": {
     "All posts": "Всички публикации",
-    "Moderation": "Модерация",
+    "Moderation": "умереност",
+    "Moderationpolicy": "Политика за модериране",
     "New": "нов",
     "about": "относно",
     "airtimeext": "Разширение за брузъра  AirTime",
@@ -427,7 +433,7 @@
     "managedocuments": "Управление на документи",
     "membershipxp": "Членство и XP",
     "mixed": "смесен",
-    "moderation": "модерация",
+    "moderation": "умереност",
     "mydocs": "Моите документи",
     "myreferrals": "Моите реферали",
     "new": "нов",
@@ -446,6 +452,10 @@
     "whatisbt": "Какво е BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Вече сте абонирани за @{{username}}",
+    "Couldnotsubscribeto": "Не можа да се абонирам за @{{username}}",
+    "Subscribedto": "Абонамент за @ {{username}}",
+    "Unsubscribed": "Отписване от @{{username}}",
     "addedyoutoagroup": " добави ви към група.",
     "addedyoutofavourites": " добави ви към любими.",
     "bookmarkedyourpost": "постави в отметки.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Известията са премахнати.",
     "openpost": "Отворена публикация",
     "recommended": " препоръчани",
+    "recommendedusernametoyou": "препоръчвам @{{username}} на вас.",
     "repliedyourcomment": " отговори на вашия коментар.",
     "sentyoudonation": " ви изпрати дарение.",
     "sentyouprivatemessage": " ви изпрати лично съобщение.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Сега нашата система ще ви изпрати SMS на",
     "youareverified": "Вие сте проверени",
     "yourblocked": "Вашите блокирани членове",
-    "yourpass": "Твоята парола..."
+    "yourpass": "Твоята парола...",
+    "youtuberelink": "Възникна грешка при валидирането на собствеността върху свързания канал в YouTube. За да продължите да публикувате качванията си в YouTube, свържете отново канала си. Благодаря ти."
   },
   "timeago": {
     "1hourago": "преди 1 час",

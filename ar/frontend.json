@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "نوع المخالفة",
+    "Reportpost": "الإبلاغ عن وظيفة",
+    "Viewprofile": "عرض الصفحة الشخصية",
     "ban": "المنع",
     "banmssg": "حظر المستخدم (المشرف)",
     "bannednologinmssg": "لن تتمكن بعد الآن من تسجيل الدخول أو تنفيذ أي إجراءات في موقع BitTube.",
@@ -24,8 +26,10 @@
     "message": "رسالة",
     "nopostshared": "لم يشارك أحد مشاركة مع",
     "nopostssharedyet": "لم تتم مشاركة أي مشاركات حتى الآن",
-    "report": "أبلغ عن مستخدم",
-    "reportdesc": "أدخل وصف التقرير",
+    "report": "أبلغ عن",
+    "reportdesc": "أدخل وصف التقرير.",
+    "reportdesctimestamp": "أدخل وصف التقرير. تشمل الطوابع الزمنية إذا كانت ذات صلة.",
+    "reportuser": "أبلغ عن مستخدم",
     "rotate": "استدارة:",
     "rotateleft": "استدر يسارا",
     "rotateright": "تدوير الحق",
@@ -130,6 +134,7 @@
     "Addemojis": "إضافة الرموز التعبيرية",
     "Addsticker": "إضافة ملصقا",
     "Addto": "اضف إليه...",
+    "All": "الكل",
     "Attachafile": "إرفاق ملف",
     "Done": "فعله",
     "Livestreams": "يعيش تيارات",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "جميع المشاركات",
     "Moderation": "الاعتدال",
+    "Moderationpolicy": "سياسة الاعتدال",
     "New": "الجديد",
     "about": "حول",
     "airtimeext": "تمديد البث",
@@ -446,6 +452,10 @@
     "whatisbt": "ما هو موقع BitTubers.com؟"
   },
   "notify": {
+    "Alreadysubscribed": "مشترك بالفعل في @{{username}}",
+    "Couldnotsubscribeto": "لا يمكن الاشتراك في @{{username}}",
+    "Subscribedto": "الاشتراك في @{{username}}",
+    "Unsubscribed": "غير مشترك من @{{username}}",
     "addedyoutoagroup": " أضافك إلى مجموعة.",
     "addedyoutofavourites": " أضافك إلى المفضلة.",
     "bookmarkedyourpost": "إشارة مرجعية وظيفة الخاص بك.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "تمت إزالة الإشعارات.",
     "openpost": "وظيفة مفتوحة",
     "recommended": " موصى به",
+    "recommendedusernametoyou": "أوصى @{{username}} لك.",
     "repliedyourcomment": " رد على تعليقك.",
     "sentyoudonation": " أرسل لك التبرع.",
     "sentyouprivatemessage": " أرسل لك رسالة خاصة.",
@@ -731,7 +742,8 @@
     "willsendyousms": "سيقوم نظامنا الآن بإرسال رسالة نصية قصيرة إليك",
     "youareverified": "أنت تم التحقق منها",
     "yourblocked": "الأعضاء المحظورين",
-    "yourpass": "كلمة السر خاصتك..."
+    "yourpass": "كلمة السر خاصتك...",
+    "youtuberelink": "حدث خطأ أثناء التحقق من ملكية قناة YouTube المرتبطة. لمتابعة نشر تحميلات YouTube ، أعد ربط قناتك. شكرا لك."
   },
   "timeago": {
     "1hourago": "منذ 1 ساعة",

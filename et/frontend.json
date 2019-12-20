@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Inflatsiooni tüüp",
+    "Reportpost": "Teata postitusest",
+    "Viewprofile": "Näita profiili",
     "ban": "Keela",
     "banmssg": "Kasutaja keelamine (administraator)",
     "bannednologinmssg": "ei saa enam BitTube'i saidil sisse logida ega toiminguid teha.",
@@ -24,8 +26,10 @@
     "message": "Sõnum",
     "nopostshared": "Keegi pole postitust jaganud",
     "nopostssharedyet": "Ühtegi postitust pole veel jagatud",
-    "report": "Teata kasutajast",
-    "reportdesc": "Sisestage aruande kirjeldus",
+    "report": "Aruanne",
+    "reportdesc": "Sisestage aruande kirjeldus.",
+    "reportdesctimestamp": "Sisestage aruande kirjeldus. Lisage ajatempleid, kui see on asjakohane.",
+    "reportuser": "Teata kasutajast",
     "rotate": "Pööra:",
     "rotateleft": "Pöörake vasakule",
     "rotateright": "Pöörake paremale",
@@ -130,6 +134,7 @@
     "Addemojis": "Lisage emotikone",
     "Addsticker": "Lisage kleebis",
     "Addto": "Lisa...",
+    "All": "Kõik",
     "Attachafile": "Manustage fail",
     "Done": "Valmis",
     "Livestreams": "Otseülekanded",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Kõik postitused",
     "Moderation": "Mõõdukus",
+    "Moderationpolicy": "Modereerimispoliitika",
     "New": "Uus",
     "about": "Umbes",
     "airtimeext": "Eetriaja pikendamine",
@@ -427,7 +433,7 @@
     "managedocuments": "Hallake dokumente",
     "membershipxp": "Liikmelisus ja XP",
     "mixed": "Segatud",
-    "moderation": "Mõõdukus",
+    "moderation": "modereerimine",
     "mydocs": "Minu dokumendid",
     "myreferrals": "Minu soovitused",
     "new": "Uus",
@@ -446,6 +452,10 @@
     "whatisbt": "Mis on BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Juba tellinud saidi @{{username}}",
+    "Couldnotsubscribeto": "@{{username}} Ei saanud tellida",
+    "Subscribedto": "Tellinud saidile @{{username}}",
+    "Unsubscribed": "Tühistas tellimuse saidilt @{{username}}",
     "addedyoutoagroup": " lisas teid gruppi.",
     "addedyoutofavourites": " lisas teid lemmikute hulka.",
     "bookmarkedyourpost": "lisasid teie postituse järjehoidjatesse.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Märguanded eemaldatud.",
     "openpost": "Ava postitus",
     "recommended": " soovitatav",
+    "recommendedusernametoyou": "soovitas teile @{{username}}.",
     "repliedyourcomment": " vastas teie kommentaarile.",
     "sentyoudonation": " saatis teile annetuse.",
     "sentyouprivatemessage": " on teile privaatsõnumi saatnud.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Meie süsteem saadab teile nüüd SMS-i",
     "youareverified": "Olete kinnitatud",
     "yourblocked": "Teie blokeeritud liikmed",
-    "yourpass": "Teie parool ..."
+    "yourpass": "Teie parool ...",
+    "youtuberelink": "Lingitud YouTube'i kanali omandiõiguse kinnitamisel on tehtud viga. YouTube'i üleslaadimiste postitamise jätkamiseks linkige oma kanal uuesti. Aitäh."
   },
   "timeago": {
     "1hourago": "1 tund tagasi",

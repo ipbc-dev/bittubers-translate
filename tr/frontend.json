@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Enfeksiyon türü",
+    "Reportpost": "Gönderiyi rapor et",
+    "Viewprofile": "Profili Görüntüle",
     "ban": "yasak",
     "banmssg": "Kullanıcıyı yasakla (yönetici)",
     "bannednologinmssg": "BitTube sitesinde oturum açamaz veya herhangi bir işlem yapamaz.",
@@ -24,8 +26,10 @@
     "message": "İleti",
     "nopostshared": "Kimse ile yayın yayınlamadı",
     "nopostssharedyet": "Henüz hiç yayın paylaşılmadı",
-    "report": "Kullanıcıyı bildir",
-    "reportdesc": "Bir rapor açıklaması girin",
+    "report": "Rapor",
+    "reportdesc": "Bir rapor açıklaması girin.",
+    "reportdesctimestamp": "Bir rapor açıklaması girin. Uygunsa, zaman damgalarını ekleyin.",
+    "reportuser": "Kullanıcıyı bildir",
     "rotate": "Döndür:",
     "rotateleft": "Sola dön",
     "rotateright": "Sağa döndür",
@@ -130,6 +134,7 @@
     "Addemojis": "Emojiyi ekle",
     "Addsticker": "Çıkartma ekle",
     "Addto": "A ekle...",
+    "All": "Herşey",
     "Attachafile": "Bir dosya ekle",
     "Done": "Bitti",
     "Livestreams": "Canlı yayınlar",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Tüm gönderiler",
     "Moderation": "ılımlılık",
+    "Moderationpolicy": "Denetim politikası",
     "New": "Yeni",
     "about": "hakkında",
     "airtimeext": "Yayın süresi uzatma",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubersçcom nedir?"
   },
   "notify": {
+    "Alreadysubscribed": "@{{username}} Aboneliğine zaten abone oldunuz",
+    "Couldnotsubscribeto": "@{{username}} Abone olunamadı",
+    "Subscribedto": "@{{username}} Abone",
+    "Unsubscribed": "@{{username}} Aboneliğinden çık",
     "addedyoutoagroup": " sizi bir gruba ekledi.",
     "addedyoutofavourites": " sizi sık kullanılanlara ekledi.",
     "bookmarkedyourpost": "yayınınıza yer işareti koydu.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Bildirimler kaldırıldı.",
     "openpost": "Yayını aç",
     "recommended": " önerilen",
+    "recommendedusernametoyou": "size @{{username}} önerilir.",
     "repliedyourcomment": " yorumuna cevap verdi.",
     "sentyoudonation": " sana bağış gönderdi.",
     "sentyouprivatemessage": " sana özel bir mesaj gönderdi.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Sistemimiz şimdi size bir SMS gönderecek",
     "youareverified": "Doğrulandınız",
     "yourblocked": "Engellenen üyeleriniz",
-    "yourpass": "Şifreniz..."
+    "yourpass": "Şifreniz...",
+    "youtuberelink": "Bağlantılı YouTube kanalının sahipliğini doğrularken bir hata oluştu. YouTube yüklemelerinizi göndermeye devam etmek için kanalınızı yeniden bağlayın. Teşekkür ederim."
   },
   "timeago": {
     "1hourago": "1 saat önce",

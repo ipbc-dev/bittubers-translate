@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Тип нарушения",
+    "Reportpost": "Пожаловаться на сообщение",
+    "Viewprofile": "Просмотреть профиль",
     "ban": "запрет",
     "banmssg": "Бан пользователь (админ)",
     "bannednologinmssg": "will no longer be able to login or perform any actions in the BitTube site.",
@@ -24,8 +26,10 @@
     "message": "Сообщение",
     "nopostshared": "Никто не поделился с",
     "nopostssharedyet": "No posts have been shared yet",
-    "report": "Пожаловаться на пользователя",
-    "reportdesc": "Введите описание отчета",
+    "report": "отчет",
+    "reportdesc": "Введите описание отчета.",
+    "reportdesctimestamp": "Введите описание отчета. Включите метки времени, если это уместно.",
+    "reportuser": "Пожаловаться на пользователя",
     "rotate": "Поворот:",
     "rotateleft": "Повернуть налево",
     "rotateright": "Повернуть вправо",
@@ -130,6 +134,7 @@
     "Addemojis": "Добавить смайлики",
     "Addsticker": "Добавить стикер",
     "Addto": "Добавить в...",
+    "All": "Все",
     "Attachafile": "Прикрепить файл",
     "Done": "Выполнено",
     "Livestreams": "прямые трансляции",
@@ -405,7 +410,8 @@
   },
   "navigation": {
     "All posts": "Все сообщения",
-    "Moderation": "На модерации",
+    "Moderation": "Умеренность",
+    "Moderationpolicy": "Политика модерации",
     "New": "новый",
     "about": "О Нас",
     "airtimeext": "Airtime расширение",
@@ -427,7 +433,7 @@
     "managedocuments": "Управлять документами",
     "membershipxp": "Уровни & XP",
     "mixed": "Смешанный",
-    "moderation": "Модерация",
+    "moderation": "Умеренность",
     "mydocs": "Мои документы",
     "myreferrals": "Мои рефералы",
     "new": "Новое",
@@ -446,6 +452,10 @@
     "whatisbt": "Что такое BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Уже подписаны на @{{username}}",
+    "Couldnotsubscribeto": "Не удалось подписаться на @{{username}}",
+    "Subscribedto": "Подписан на @{{username}}",
+    "Unsubscribed": "Отписаться от @{{username}}",
     "addedyoutoagroup": " добавил вас в группу.",
     "addedyoutofavourites": " добавил вас в избранное.",
     "bookmarkedyourpost": "добавил в закладки ваш пост.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Уведомления удалены.",
     "openpost": "Открыть пост",
     "recommended": " рекомендуемые",
+    "recommendedusernametoyou": "рекомендовал @{{username}} вам.",
     "repliedyourcomment": " ответил на ваш комментарий.",
     "sentyoudonation": " отправил вам пожертвование.",
     "sentyouprivatemessage": " отправил вам личное сообщение.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Наша система теперь отправит вам SMS на",
     "youareverified": "Вы подтверждены",
     "yourblocked": "Ваши заблокированные участники",
-    "yourpass": "Ваш пароль..."
+    "yourpass": "Ваш пароль...",
+    "youtuberelink": "Произошла ошибка при подтверждении права собственности на связанный канал YouTube. Чтобы продолжить публикацию своих загрузок на YouTube, повторно свяжите ваш канал. Спасибо."
   },
   "timeago": {
     "1hourago": "1 час назад",

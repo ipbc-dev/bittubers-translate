@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Pārkāpuma veids",
+    "Reportpost": "Ziņot par ziņu",
+    "Viewprofile": "Skatīt profilu",
     "ban": "Aizliegt",
     "banmssg": "Lietotāja aizliegšana (administrators)",
     "bannednologinmssg": "vairs nevarēs pieteikties vai veikt nekādas darbības BitTube vietnē.",
@@ -24,8 +26,10 @@
     "message": "Ziņa",
     "nopostshared": "Neviens nav kopīgojis ziņu ar",
     "nopostssharedyet": "Pagaidām neviena ziņa nav kopīgota",
-    "report": "Ziņot par lietotāju",
-    "reportdesc": "Ievadiet pārskata aprakstu",
+    "report": "Ziņojums",
+    "reportdesc": "Ievadiet pārskata aprakstu.",
+    "reportdesctimestamp": "Ievadiet pārskata aprakstu. Iekļaujiet laika zīmogus, ja tie ir atbilstoši.",
+    "reportuser": "Ziņot par lietotāju",
     "rotate": "Pagriezt:",
     "rotateleft": "Pagriezt pa kreisi",
     "rotateright": "Pagriezt pa labi",
@@ -130,6 +134,7 @@
     "Addemojis": "Pievienojiet emocijzīmes",
     "Addsticker": "Pievienojiet uzlīmi",
     "Addto": "Pievienot...",
+    "All": "Visi",
     "Attachafile": "Pievienojiet failu",
     "Done": "Gatavs",
     "Livestreams": "Tiešraides",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Visas ziņas",
     "Moderation": "Mērenība",
+    "Moderationpolicy": "Mērenības politika",
     "New": "Jauns",
     "about": "Par",
     "airtimeext": "Ētera laika pagarinājums",
@@ -427,7 +433,7 @@
     "managedocuments": "Pārvaldiet dokumentus",
     "membershipxp": "Dalība un XP",
     "mixed": "Sajaukts",
-    "moderation": "Mērenība",
+    "moderation": "mērenība",
     "mydocs": "Mani dokumenti",
     "myreferrals": "Mani ieteikumi",
     "new": "Jauns",
@@ -446,6 +452,10 @@
     "whatisbt": "Kas ir BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Jau ir abonējis vietni @{{username}}",
+    "Couldnotsubscribeto": "Nevarēja abonēt vietni @{{username}}",
+    "Subscribedto": "Abonēja vietni @{{username}}",
+    "Unsubscribed": "Abonēt @{{username}}",
     "addedyoutoagroup": " pievienoja jūs grupai.",
     "addedyoutofavourites": " pievienoja jūs izlasei.",
     "bookmarkedyourpost": "atzīmēja jūsu ziņu ar grāmatzīmi.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Paziņojumi noņemti.",
     "openpost": "Atvērt pastu",
     "recommended": " ieteicams",
+    "recommendedusernametoyou": "ieteica jums @{{username}}.",
     "repliedyourcomment": " atbildēja uz jūsu komentāru.",
     "sentyoudonation": " nosūtīja jums ziedojumu.",
     "sentyouprivatemessage": " ir nosūtījis jums privātu ziņojumu.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Tagad mūsu sistēma jums nosūtīs īsziņu",
     "youareverified": "Jūs esat verificēts",
     "yourblocked": "Jūsu bloķētie dalībnieki",
-    "yourpass": "Tava parole..."
+    "yourpass": "Tava parole...",
+    "youtuberelink": "Pārbaudot saistītā YouTube kanāla īpašumtiesības, radās kļūda. Lai turpinātu YouTube augšupielādi, atkārtoti izveidojiet saiti ar savu kanālu. Paldies."
   },
   "timeago": {
     "1hourago": "Pirms stundas",

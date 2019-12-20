@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Överträdelsetyp",
+    "Reportpost": "Rapportera inlägg",
+    "Viewprofile": "Visa profil",
     "ban": "Förbjuda",
     "banmssg": "Förbjuda användare (admin)",
     "bannednologinmssg": "kommer inte längre att kunna logga in eller utföra några åtgärder på BitTube-webbplatsen.",
@@ -24,8 +26,10 @@
     "message": "Meddelande",
     "nopostshared": "Ingen har delat ett inlägg med",
     "nopostssharedyet": "Inga inlägg har delats än",
-    "report": "Rapportera användare",
-    "reportdesc": "Ange en rapportbeskrivning",
+    "report": "Rapportera",
+    "reportdesc": "Ange en rapportbeskrivning.",
+    "reportdesctimestamp": "Ange en rapportbeskrivning. Inkludera tidsstämplar om relevant.",
+    "reportuser": "Rapportera användare",
     "rotate": "Rotera:",
     "rotateleft": "Rotera vänster",
     "rotateright": "Vrid höger",
@@ -130,6 +134,7 @@
     "Addemojis": "Lägg till emojis",
     "Addsticker": "Lägg till klistermärke",
     "Addto": "Lägg till...",
+    "All": "Allt",
     "Attachafile": "Bifoga en fil",
     "Done": "Gjort",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Alla inlägg",
     "Moderation": "Måtta",
+    "Moderationpolicy": "Moderationspolitik",
     "New": "Ny",
     "about": "Handla om",
     "airtimeext": "Förlängning av lufttid",
@@ -427,7 +433,7 @@
     "managedocuments": "Hantera dokument",
     "membershipxp": "Medlemskap & XP",
     "mixed": "Blandad",
-    "moderation": "Måtta",
+    "moderation": "måtta",
     "mydocs": "Mina dokument",
     "myreferrals": "Mina hänvisningar",
     "new": "Ny",
@@ -446,6 +452,10 @@
     "whatisbt": "Vad är BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Prenumererar redan på @{{username}}",
+    "Couldnotsubscribeto": "Det gick inte att prenumerera på @{{username}}",
+    "Subscribedto": "Prenumererar på @{{username}}",
+    "Unsubscribed": "Avsluts från @{{username}}",
     "addedyoutoagroup": " lade dig till en grupp.",
     "addedyoutofavourites": " lade dig till favoriter.",
     "bookmarkedyourpost": "bokmärkt ditt inlägg.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Meddelanden har tagits bort.",
     "openpost": "Öppen post",
     "recommended": " rekommenderad",
+    "recommendedusernametoyou": "rekommenderade @{{username}} till dig.",
     "repliedyourcomment": " svarade på din kommentar.",
     "sentyoudonation": " skickade dig en donation.",
     "sentyouprivatemessage": " har skickat ett privat meddelande till dig.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Vårt system kommer nu att skicka ett SMS till dig",
     "youareverified": "Du är verifierad",
     "yourblocked": "Dina blockerade medlemmar",
-    "yourpass": "Ditt lösenord..."
+    "yourpass": "Ditt lösenord...",
+    "youtuberelink": "Det har inträffat ett fel med valideringen av ägandet till den länkade YouTube-kanalen. Om du vill fortsätta posta dina YouTube-uppladdningar länkar du igenom din kanal. Tack."
   },
   "timeago": {
     "1hourago": "1 timme sedan",

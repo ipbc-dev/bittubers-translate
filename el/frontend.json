@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Τύπος παραβίασης",
+    "Reportpost": "Αναφορά δημοσίευσης",
+    "Viewprofile": "Εμφάνιση προφίλ",
     "ban": "Απαγόρευση",
     "banmssg": "Απαγόρευση χρήστη (admin)",
     "bannednologinmssg": "δεν θα είναι πλέον σε θέση να συνδεθεί ή να εκτελέσει οποιεσδήποτε ενέργειες στον ιστότοπο BitTube.",
@@ -24,8 +26,10 @@
     "message": "Μήνυμα",
     "nopostshared": "Κανείς δεν μοιράστηκε μια ανάρτηση με",
     "nopostssharedyet": "Δεν έχουν ακόμη μοιραστεί αναρτήσεις",
-    "report": "Αναφορά χρήστη",
-    "reportdesc": "Καταχωρίστε μια περιγραφή αναφοράς",
+    "report": "Κανω ΑΝΑΦΟΡΑ",
+    "reportdesc": "Καταχωρίστε μια περιγραφή αναφοράς.",
+    "reportdesctimestamp": "Καταχωρίστε μια περιγραφή αναφοράς. Συμπεριλάβετε timestamps αν είναι σχετικές.",
+    "reportuser": "Αναφορά χρήστη",
     "rotate": "Γυρίζω:",
     "rotateleft": "Περιστροφή αριστερά",
     "rotateright": "Περιστροφή δεξιά",
@@ -130,6 +134,7 @@
     "Addemojis": "Προσθέστε emojis",
     "Addsticker": "Προσθήκη αυτοκόλλητου",
     "Addto": "Προσθήκη στο ...",
+    "All": "Ολα",
     "Attachafile": "Επισύναψε ένα αρχείο",
     "Done": "Ολοκληρώθηκε",
     "Livestreams": "Κτηνοτροφία",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Όλες οι δημοσιεύσεις",
     "Moderation": "Μετριοπάθεια",
+    "Moderationpolicy": "Πολιτική μετριοπάθειας",
     "New": "Νέος",
     "about": "Σχετικά με",
     "airtimeext": "Διάρκεια εκπομπής",
@@ -427,7 +433,7 @@
     "managedocuments": "Διαχείριση εγγράφων",
     "membershipxp": "Συμμετοχή & XP",
     "mixed": "Μικτός",
-    "moderation": "Μετριοπάθεια",
+    "moderation": "μετριοπάθεια",
     "mydocs": "Τα αρχεία μου",
     "myreferrals": "Οι παραπομπές μου",
     "new": "Νέος",
@@ -446,6 +452,10 @@
     "whatisbt": "Τι είναι το BitTubers.com;"
   },
   "notify": {
+    "Alreadysubscribed": "Ήδη έχετε εγγραφεί στο @{{username}}",
+    "Couldnotsubscribeto": "Δεν ήταν δυνατή η εγγραφή σε @{{username}}",
+    "Subscribedto": "Εγγραφή στο @{{username}}",
+    "Unsubscribed": "Κατάργηση εγγραφής από @{{username}}",
     "addedyoutoagroup": " σας πρόσθεσε σε μια ομάδα.",
     "addedyoutofavourites": " σας πρόσθεσε στα αγαπημένα.",
     "bookmarkedyourpost": "το σελιδοδείκτη σας.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Οι ειδοποιήσεις έχουν καταργηθεί.",
     "openpost": "Ανοικτή θέση",
     "recommended": " συνιστάται",
+    "recommendedusernametoyou": "σας συνιστούσα @{{username}}.",
     "repliedyourcomment": " απάντησε στο σχόλιό σας.",
     "sentyoudonation": " σας έστειλε μια δωρεά.",
     "sentyouprivatemessage": " σας έχει στείλει ένα προσωπικό μήνυμα.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Το σύστημά μας θα σας στείλει πλέον ένα SMS",
     "youareverified": "Έχετε επαληθεύσει",
     "yourblocked": "Τα αποκλεισμένα μέλη σας",
-    "yourpass": "Ο κωδικός σας..."
+    "yourpass": "Ο κωδικός σας...",
+    "youtuberelink": "Παρουσιάστηκε σφάλμα κατά την επικύρωση της ιδιοκτησίας του συνδεδεμένου καναλιού YouTube. Για να συνεχίσετε να δημοσιεύετε τις μεταφορτώσεις στο YouTube, επανασυνδέστε το κανάλι σας. Σας ευχαριστώ."
   },
   "timeago": {
     "1hourago": "Πριν από 1 ώρα",

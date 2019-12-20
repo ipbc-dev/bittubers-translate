@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Typ infrastruktury",
+    "Reportpost": "Nahlásit příspěvek",
+    "Viewprofile": "Prohlédnout profil",
     "ban": "Zákaz",
     "banmssg": "Zakázat uživatele (admin)",
     "bannednologinmssg": "se již nebudou moci přihlásit nebo provádět žádné akce na webu BitTube.",
@@ -24,8 +26,10 @@
     "message": "Zpráva",
     "nopostshared": "Nikdo s nikým nesdílí příspěvek",
     "nopostssharedyet": "Zatím nebyly sdíleny žádné příspěvky",
-    "report": "Nahlásit uživatele",
-    "reportdesc": "Zadejte popis zprávy",
+    "report": "Zpráva",
+    "reportdesc": "Zadejte popis zprávy.",
+    "reportdesctimestamp": "Zadejte popis zprávy. Pokud je to vhodné, uveďte časová razítka.",
+    "reportuser": "Nahlásit uživatele",
     "rotate": "Točit se:",
     "rotateleft": "Otočit doleva",
     "rotateright": "Otočit doprava",
@@ -130,6 +134,7 @@
     "Addemojis": "Přidejte emodži",
     "Addsticker": "Přidat nálepku",
     "Addto": "Přidat do...",
+    "All": "Všechno",
     "Attachafile": "Připojte soubor",
     "Done": "Hotovo",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Všechny příspěvky",
     "Moderation": "Umírněnost",
+    "Moderationpolicy": "Politika moderování",
     "New": "Nový",
     "about": "O",
     "airtimeext": "Prodloužení vysílacího času",
@@ -427,7 +433,7 @@
     "managedocuments": "Správa dokumentů",
     "membershipxp": "Členství a XP",
     "mixed": "Smíšený",
-    "moderation": "Umírněnost",
+    "moderation": "umírněnost",
     "mydocs": "Moje dokumenty",
     "myreferrals": "Moje doporučení",
     "new": "Nový",
@@ -446,6 +452,10 @@
     "whatisbt": "Co je BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Již jste přihlášeni k odběru @{{username}}",
+    "Couldnotsubscribeto": "Nelze se přihlásit k odběru @{{username}}",
+    "Subscribedto": "Přihlásit se k odběru @{{username}}",
+    "Unsubscribed": "Odhlášeno od @{{username}}",
     "addedyoutoagroup": " vás přidal do skupiny.",
     "addedyoutofavourites": " vás přidal do oblíbených.",
     "bookmarkedyourpost": "Váš příspěvek byl označen záložkou.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Oznámení byla odstraněna.",
     "openpost": "Otevřít příspěvek",
     "recommended": " doporučeno",
+    "recommendedusernametoyou": "vám doporučil @{{username}}.",
     "repliedyourcomment": " odpověděl na váš komentář.",
     "sentyoudonation": " poslal ti dar.",
     "sentyouprivatemessage": " Uživatel vám poslal soukromou zprávu.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Náš systém vám nyní pošle zprávu SMS",
     "youareverified": "Jste ověřeni",
     "yourblocked": "Vaši blokovaní členové",
-    "yourpass": "Vaše heslo..."
+    "yourpass": "Vaše heslo...",
+    "youtuberelink": "Při ověřování vlastnictví propojeného kanálu YouTube došlo k chybě. Chcete-li pokračovat v odesílání videí na YouTube, znovu propojte svůj kanál. Děkuji."
   },
   "timeago": {
     "1hourago": "před 1 hodinou",

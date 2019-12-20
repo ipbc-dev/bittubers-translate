@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Vrsta infracrvene veze",
+    "Reportpost": "Izvještaj o postu",
+    "Viewprofile": "Pogledaj profil",
     "ban": "Zabrana",
     "banmssg": "Korisnik zabrane (administrator)",
     "bannednologinmssg": "se više neće moći prijavljivati ili obavljati bilo kakve radnje na web mjestu BitTube.",
@@ -24,8 +26,10 @@
     "message": "Poruka",
     "nopostshared": "Nitko nije dijelio post sa",
     "nopostssharedyet": "Još nema dijeljenja postova",
-    "report": "Prijavi korisnika",
-    "reportdesc": "Unesite opis izvještaja",
+    "report": "izvješće",
+    "reportdesc": "Unesite opis izvještaja.",
+    "reportdesctimestamp": "Unesite opis izvještaja. Uključite vremenske oznake ako je to relevantno.",
+    "reportuser": "Prijavi korisnika",
     "rotate": "Rotirati:",
     "rotateleft": "Zakrenite lijevo",
     "rotateright": "Zakrenite udesno",
@@ -130,6 +134,7 @@
     "Addemojis": "Dodajte emojije",
     "Addsticker": "Dodajte naljepnicu",
     "Addto": "Dodaj u...",
+    "All": "svi",
     "Attachafile": "Priložite datoteku",
     "Done": "Sastavljeno",
     "Livestreams": "strujanja uživo",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Svi postovi",
     "Moderation": "Umjerenost",
+    "Moderationpolicy": "Politika moderiranja",
     "New": "Novi",
     "about": "Oko",
     "airtimeext": "Produženje zračnog vremena",
@@ -427,7 +433,7 @@
     "managedocuments": "Upravljanje dokumentima",
     "membershipxp": "Članstvo i XP",
     "mixed": "mješovit",
-    "moderation": "Umjerenost",
+    "moderation": "umjerenost",
     "mydocs": "Moji dokumenti",
     "myreferrals": "Moje preporuke",
     "new": "Novi",
@@ -446,6 +452,10 @@
     "whatisbt": "Što je BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Već ste pretplaćeni na @{{username}}",
+    "Couldnotsubscribeto": "Ne mogu se pretplatiti na @{{username}}",
+    "Subscribedto": "Pretplaćeni na @{{username}}",
+    "Unsubscribed": "Otkazana pretplata na @{{username}}",
     "addedyoutoagroup": " dodao vas u grupu.",
     "addedyoutofavourites": " dodala vas u favorite.",
     "bookmarkedyourpost": "označio svoj post.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Obavijesti su uklonjene.",
     "openpost": "Otvori post",
     "recommended": " preporuča",
+    "recommendedusernametoyou": "preporučeno @{{username}} vama.",
     "repliedyourcomment": " odgovorio na tvoj komentar.",
     "sentyoudonation": " poslao vam je donaciju.",
     "sentyouprivatemessage": " poslao vam je privatnu poruku.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Naš će vam sustav sada poslati SMS poruke",
     "youareverified": "Potvrđeni ste",
     "yourblocked": "Vaši blokirani članovi",
-    "yourpass": "Tvoja lozinka..."
+    "yourpass": "Tvoja lozinka...",
+    "youtuberelink": "Došlo je do pogreške prilikom provjere vlasništva nad povezanim YouTube kanalom. Da biste nastavili objavljivati svoje YouTube prijenose, ponovno povežite svoj kanal. Hvala vam."
   },
   "timeago": {
     "1hourago": "prije 1 sat",

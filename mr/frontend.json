@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "उल्लंघन प्रकार",
+    "Reportpost": "रिपोर्ट पोस्ट",
+    "Viewprofile": "प्रोफाइल पहा",
     "ban": "बंदी",
     "banmssg": "वापरकर्त्यास प्रतिबंधित करा (प्रशासक)",
     "bannednologinmssg": "यापुढे BitTube साइटमध्ये लॉगिन करण्यात किंवा कोणतीही क्रिया करण्यास सक्षम राहणार नाही.",
@@ -24,8 +26,10 @@
     "message": "संदेश",
     "nopostshared": "कोणाबरोबरही पोस्ट सामायिक केलेले नाही",
     "nopostssharedyet": "अद्याप कोणतीही पोस्ट सामायिक केलेली नाहीत",
-    "report": "वापरकर्त्याची तक्रार करा",
-    "reportdesc": "अहवालाचे वर्णन प्रविष्ट करा",
+    "report": "अहवाल द्या",
+    "reportdesc": "अहवालाचे वर्णन प्रविष्ट करा.",
+    "reportdesctimestamp": "अहवालाचे वर्णन प्रविष्ट करा. समर्पक असल्यास टाइमस्टॅम्प समाविष्ट करा.",
+    "reportuser": "वापरकर्त्याची तक्रार करा",
     "rotate": "फिरवा:",
     "rotateleft": "डावीकडे फिरवा",
     "rotateright": "उजवीकडे फिरवा",
@@ -130,6 +134,7 @@
     "Addemojis": "इमोजिस जोडा",
     "Addsticker": "स्टिकर जोडा",
     "Addto": "जोडू...",
+    "All": "सर्व",
     "Attachafile": "एक फाईल संलग्न करा",
     "Done": "पूर्ण झाले",
     "Livestreams": "थेट प्रवाह",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "सर्व पोस्ट",
     "Moderation": "नियंत्रण",
+    "Moderationpolicy": "नियंत्रण धोरण",
     "New": "नवीन",
     "about": "बद्दल",
     "airtimeext": "एअरटाइम विस्तार",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubers.com म्हणजे काय?"
   },
   "notify": {
+    "Alreadysubscribed": "आधीपासूनच @{{username}} to ची सदस्यता घेतली आहे",
+    "Couldnotsubscribeto": "@{{username}} To ची सदस्यता घेऊ शकत नाही",
+    "Subscribedto": "@ {{username}} To वर सदस्यता घेतली",
+    "Unsubscribed": "@{{username}} From कडील सदस्यता रद्द केली",
     "addedyoutoagroup": " आपल्याला एका गटामध्ये जोडले",
     "addedyoutofavourites": " आपल्याला आवडीमध्ये जोडले",
     "bookmarkedyourpost": "आपले पोस्ट बुकमार्क केले",
@@ -466,6 +476,7 @@
     "notificationsremoved": "सूचना काढल्या.",
     "openpost": "ओपन पोस्ट",
     "recommended": " शिफारस केली",
+    "recommendedusernametoyou": "आपल्यास शिफारस केली @{{username}}.",
     "repliedyourcomment": " आपल्या टिप्पणीला प्रत्युत्तर दिले",
     "sentyoudonation": " आपल्याला देणगी पाठविली",
     "sentyouprivatemessage": " आपल्याला एक खाजगी संदेश पाठविला आहे.",
@@ -731,7 +742,8 @@
     "willsendyousms": "आमची सिस्टम आता आपल्याला एक एसएमएस पाठवेल",
     "youareverified": "आपण सत्यापित आहात",
     "yourblocked": "आपले अवरोधित सदस्य",
-    "yourpass": "आपला संकेतशब्द ..."
+    "yourpass": "आपला संकेतशब्द ...",
+    "youtuberelink": "दुवा साधलेल्या YouTube चॅनेलची मालकी सत्यापित करताना त्रुटी आली आहे. आपल्या YouTube अपलोड पोस्ट करणे सुरू ठेवण्यासाठी आपल्या चॅनेलचा पुन्हा दुवा साधा. धन्यवाद."
   },
   "timeago": {
     "1hourago": "1 तासापूर्वी",

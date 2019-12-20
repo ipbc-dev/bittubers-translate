@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Typ priestupku",
+    "Reportpost": "Nahlásiť príspevok",
+    "Viewprofile": "Prezrieť profil",
     "ban": "zákaz",
     "banmssg": "Zakázať používateľovi (admin)",
     "bannednologinmssg": "sa už nebudú môcť prihlásiť alebo vykonávať žiadne akcie na webe BitTube.",
@@ -24,8 +26,10 @@
     "message": "správa",
     "nopostshared": "Nikto nezdieľa príspevok",
     "nopostssharedyet": "Zatiaľ sa nezdieľajú žiadne príspevky",
-    "report": "Nahlásiť používateľa",
-    "reportdesc": "Zadajte popis správy",
+    "report": "správa",
+    "reportdesc": "Zadajte popis správy.",
+    "reportdesctimestamp": "Zadajte popis správy. Ak je to relevantné, uveďte časové pečiatky.",
+    "reportuser": "Nahlásiť používateľa",
     "rotate": "Točiť sa:",
     "rotateleft": "Otočiť doľava",
     "rotateright": "Otočte doprava",
@@ -130,6 +134,7 @@
     "Addemojis": "Pridajte ikonu emodži",
     "Addsticker": "Pridajte nálepku",
     "Addto": "Pridať k...",
+    "All": "všetko",
     "Attachafile": "Priložiť súbor",
     "Done": "hotový",
     "Livestreams": "livestream",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Všetky príspevky",
     "Moderation": "umiernenosť",
+    "Moderationpolicy": "Politika moderovania",
     "New": "Nový",
     "about": "o",
     "airtimeext": "Predĺženie vysielacieho času",
@@ -446,6 +452,10 @@
     "whatisbt": "Čo je to BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Už ste sa prihlásili na odber @{{username}}",
+    "Couldnotsubscribeto": "Nepodarilo sa prihlásiť na odber @{{username}}",
+    "Subscribedto": "Prihlásiť sa na odber @{{username}}",
+    "Unsubscribed": "Zrušené prihlásenie na odber @{{username}}",
     "addedyoutoagroup": " vás pridal do skupiny.",
     "addedyoutofavourites": " vás pridal do obľúbených.",
     "bookmarkedyourpost": "Váš príspevok bol označený záložkou.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Upozornenia boli odstránené.",
     "openpost": "Otvoriť príspevok",
     "recommended": " odporúča",
+    "recommendedusernametoyou": "vám @{{username}} odporučil.",
     "repliedyourcomment": " odpovedal na váš komentár.",
     "sentyoudonation": " poslal ti dar.",
     "sentyouprivatemessage": " Používateľ vám poslal súkromnú správu.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Náš systém vám teraz pošle správu SMS",
     "youareverified": "Ste overení",
     "yourblocked": "Vaši blokovaní členovia",
-    "yourpass": "Tvoje heslo..."
+    "yourpass": "Tvoje heslo...",
+    "youtuberelink": "Pri overovaní vlastníctva prepojeného kanála YouTube sa vyskytla chyba. Ak chcete pokračovať v uverejňovaní odovzdaných videí na YouTube, znova prepojte svoj kanál. Ďakujem."
   },
   "timeago": {
     "1hourago": "pred 1 hodinou",

@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Rodzaj naruszenia",
+    "Reportpost": "Zgłoś post",
+    "Viewprofile": "Zobacz profil",
     "ban": "Zakaz",
     "banmssg": "Zablokuj użytkownika (administratora)",
     "bannednologinmssg": "nie będzie już mógł się logować ani wykonywać żadnych działań na stronie BitTube.",
@@ -24,8 +26,10 @@
     "message": "Wiadomość",
     "nopostshared": "Nikt nie udostępnił wpisu",
     "nopostssharedyet": "Nie udostępniono jeszcze żadnych postów",
-    "report": "Zgłoś użytkownika",
-    "reportdesc": "Wprowadź opis raportu",
+    "report": "Raport",
+    "reportdesc": "Wprowadź opis raportu.",
+    "reportdesctimestamp": "Wprowadź opis raportu. Uwzględnij znaczniki czasu, jeśli są istotne.",
+    "reportuser": "Zgłoś użytkownika",
     "rotate": "Obracać się:",
     "rotateleft": "Obrót w lewo",
     "rotateright": "Obróć w prawo",
@@ -130,6 +134,7 @@
     "Addemojis": "Dodaj emoji",
     "Addsticker": "Dodaj naklejkę",
     "Addto": "Dodać do...",
+    "All": "Wszystko",
     "Attachafile": "Dołączyć plik",
     "Done": "Gotowy",
     "Livestreams": "Transmisja na żywo",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Wszystkie posty",
     "Moderation": "Umiar",
+    "Moderationpolicy": "Polityka moderacji",
     "New": "Nowy",
     "about": "O",
     "airtimeext": "Przedłużenie czasu antenowego",
@@ -427,7 +433,7 @@
     "managedocuments": "Zarządzaj dokumentami",
     "membershipxp": "Członkostwo i XP",
     "mixed": "Mieszany",
-    "moderation": "Umiar",
+    "moderation": "umiar",
     "mydocs": "Moje dokumenty",
     "myreferrals": "Moje polecenia",
     "new": "Nowy",
@@ -446,6 +452,10 @@
     "whatisbt": "Co to jest BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Zasubskrybowałem już @{{username}}",
+    "Couldnotsubscribeto": "Nie można zasubskrybować @{{username}}",
+    "Subscribedto": "Subskrybowane @{{username}}",
+    "Unsubscribed": "Anulowano subskrypcję @{{username}}",
     "addedyoutoagroup": " dodał Cię do grupy.",
     "addedyoutofavourites": " dodał cię do ulubionych.",
     "bookmarkedyourpost": "dodałeś do zakładek swój post.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Powiadomienia zostały usunięte.",
     "openpost": "Otwórz post",
     "recommended": " Zalecana",
+    "recommendedusernametoyou": "polecam Ci @{{username}}.",
     "repliedyourcomment": " odpowiedział na twój komentarz.",
     "sentyoudonation": " wysłałem ci darowiznę.",
     "sentyouprivatemessage": " wysłał ci prywatną wiadomość.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Nasz system wyśle Ci teraz SMS-a",
     "youareverified": "Jesteś zweryfikowany",
     "yourblocked": "Twoi zablokowani członkowie",
-    "yourpass": "Twoje hasło..."
+    "yourpass": "Twoje hasło...",
+    "youtuberelink": "Wystąpił błąd podczas sprawdzania własności połączonego kanału YouTube. Aby kontynuować publikowanie przesłanych filmów z YouTube, ponownie połącz swój kanał. Dziękuję Ci."
   },
   "timeago": {
     "1hourago": "1 godzinę temu",

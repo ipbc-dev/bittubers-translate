@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Infraction type",
+    "Reportpost": "Report post",
+    "Viewprofile": "View profile",
     "ban": "Ban",
     "banmssg": "Ban user (admin)",
     "bannednologinmssg": "will no longer be able to login or perform any actions in the BitTube site.",
@@ -24,8 +26,10 @@
     "message": "Message",
     "nopostshared": "No one has shared a post with",
     "nopostssharedyet": "No posts have been shared yet",
-    "report": "Report user",
-    "reportdesc": "Enter a report description",
+    "report": "Report",
+    "reportdesc": "Enter a report description.",
+    "reportdesctimestamp": "Enter a report description. Include timestamps if pertinent.",
+    "reportuser": "Report user",
     "rotate": "Rotate:",
     "rotateleft": "Rotate left",
     "rotateright": "Rotate right",
@@ -130,6 +134,7 @@
     "Addemojis": "Add emojis",
     "Addsticker": "Add sticker",
     "Addto": "Add to...",
+    "All": "All",
     "Attachafile": "Attach a file",
     "Done": "Done",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "All posts",
     "Moderation": "Moderation",
+    "Moderationpolicy": "Moderation policy",
     "New": "New",
     "about": "About",
     "airtimeext": "Airtime extension",
@@ -427,7 +433,7 @@
     "managedocuments": "Manage documents",
     "membershipxp": "Membership & XP",
     "mixed": "Mixed",
-    "moderation": "Moderation",
+    "moderation": "moderation",
     "mydocs": "My documents",
     "myreferrals": "My referrals",
     "new": "New",
@@ -446,6 +452,10 @@
     "whatisbt": "What is BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Already subscribed to @{{username}}",
+    "Couldnotsubscribeto": "Could not subscribe to @{{username}}",
+    "Subscribedto": "Subscribed to @{{username}}",
+    "Unsubscribed": "Unsubscribed from @{{username}}",
     "addedyoutoagroup": " added you to a group.",
     "addedyoutofavourites": " added you to favourites.",
     "bookmarkedyourpost": "bookmarked your post.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Notifications removed.",
     "openpost": "Open post",
     "recommended": " recommended ",
+    "recommendedusernametoyou": "recommended @{{username}} to you.",
     "repliedyourcomment": " replied to your comment.",
     "sentyoudonation": " sent you a donation.",
     "sentyouprivatemessage": " has sent you a private message.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Our system will now send you a SMS on",
     "youareverified": "You are verified",
     "yourblocked": "Your blocked members",
-    "yourpass": "Your password..."
+    "yourpass": "Your password...",
+    "youtuberelink": "There has been an error with validating the ownership of the linked YouTube channel. To continue posting your YouTube uploads re-link your channel. Thank you."
   },
   "timeago": {
     "1hourago": "1 hour ago",

@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "ประเภทการรบกวน",
+    "Reportpost": "โพสต์รายงาน",
+    "Viewprofile": "ดูประวัติ",
     "ban": "ห้าม",
     "banmssg": "แบนผู้ใช้ (ผู้ดูแลระบบ)",
     "bannednologinmssg": "จะไม่สามารถลงชื่อเข้าใช้หรือดำเนินการใด ๆ ในไซต์ BitTube อีกต่อไป",
@@ -24,8 +26,10 @@
     "message": "ข่าวสาร",
     "nopostshared": "ไม่มีใครแบ่งปันโพสต์ด้วย",
     "nopostssharedyet": "ยังไม่มีการแชร์โพสต์",
-    "report": "รายงานผู้ใช้",
+    "report": "รายงาน",
     "reportdesc": "ป้อนคำอธิบายรายงาน",
+    "reportdesctimestamp": "ป้อนคำอธิบายรายงาน รวมการประทับเวลาถ้าเกี่ยวข้อง",
+    "reportuser": "รายงานผู้ใช้",
     "rotate": "หมุน:",
     "rotateleft": "หมุนซ้าย",
     "rotateright": "หมุนไปทางขวา",
@@ -130,6 +134,7 @@
     "Addemojis": "เพิ่มอิโมจิ",
     "Addsticker": "เพิ่มสติกเกอร์",
     "Addto": "เพิ่ม...",
+    "All": "ทั้งหมด",
     "Attachafile": "แนบเอกสาร",
     "Done": "เสร็จสิ้น",
     "Livestreams": "livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "โพสต์ทั้งหมด",
     "Moderation": "ปริมาณที่พอเหมาะ",
+    "Moderationpolicy": "นโยบายการกลั่นกรอง",
     "New": "ใหม่",
     "about": "เกี่ยวกับ",
     "airtimeext": "ส่วนขยายเวลาออกอากาศ",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubers.com คืออะไร"
   },
   "notify": {
+    "Alreadysubscribed": "สมัครรับข้อมูลจาก @{{username}} แล้ว",
+    "Couldnotsubscribeto": "ไม่สามารถสมัครรับ @{{username}}",
+    "Subscribedto": "สมัครรับข้อมูล @{{username}}",
+    "Unsubscribed": "ยกเลิกการสมัครจาก @{{username}}",
     "addedyoutoagroup": " เพิ่มคุณในกลุ่ม",
     "addedyoutofavourites": " เพิ่มคุณในรายการโปรด",
     "bookmarkedyourpost": "คั่นหน้าโพสต์ของคุณ",
@@ -466,6 +476,7 @@
     "notificationsremoved": "ลบการแจ้งเตือนแล้ว",
     "openpost": "เปิดโพสต์",
     "recommended": " แนะนำ",
+    "recommendedusernametoyou": "แนะนำ @{{username}} ให้กับคุณ",
     "repliedyourcomment": " ตอบความคิดเห็นของคุณ",
     "sentyoudonation": " ส่งเงินบริจาคให้คุณ",
     "sentyouprivatemessage": " ได้ส่งข้อความส่วนตัวถึงคุณ",
@@ -731,7 +742,8 @@
     "willsendyousms": "ระบบของเราจะส่ง SMS ให้คุณ",
     "youareverified": "คุณได้รับการยืนยันแล้ว",
     "yourblocked": "สมาชิกที่ถูกบล็อกของคุณ",
-    "yourpass": "รหัสผ่านของคุณ..."
+    "yourpass": "รหัสผ่านของคุณ...",
+    "youtuberelink": "มีข้อผิดพลาดในการตรวจสอบความเป็นเจ้าของช่อง YouTube ที่เชื่อมโยง หากต้องการโพสต์การอัปโหลด YouTube ของคุณให้เชื่อมโยงช่องของคุณอีกครั้ง ขอขอบคุณ."
   },
   "timeago": {
     "1hourago": "1 ชั่วโมงที่แล้ว",

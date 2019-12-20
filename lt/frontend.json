@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Infuzijos tipas",
+    "Reportpost": "Pranešti apie įrašą",
+    "Viewprofile": "Peržiūrėti vartotojo profilį",
     "ban": "Uždrausti",
     "banmssg": "Uždrausti vartotoją (administratorius)",
     "bannednologinmssg": "nebegalės prisijungti ar atlikti jokių veiksmų „BitTube“ svetainėje.",
@@ -24,8 +26,10 @@
     "message": "Žinutė",
     "nopostshared": "Niekas nebendrino įrašo su",
     "nopostssharedyet": "Kol kas pranešimai nebuvo bendrinami",
-    "report": "Pranešti apie vartotoją",
-    "reportdesc": "Įveskite ataskaitos aprašą",
+    "report": "Pranešimas",
+    "reportdesc": "Įveskite ataskaitos aprašą.",
+    "reportdesctimestamp": "Įveskite ataskaitos aprašą. Jei reikia, įtraukite laiko žymes.",
+    "reportuser": "Pranešti apie vartotoją",
     "rotate": "Pasukti:",
     "rotateleft": "Pasukite į kairę",
     "rotateright": "Pasukite į dešinę",
@@ -130,6 +134,7 @@
     "Addemojis": "Pridėti jaustukus",
     "Addsticker": "Pridėti lipduką",
     "Addto": "Pridėti prie...",
+    "All": "Visi",
     "Attachafile": "Pridėkite failą",
     "Done": "padaryta",
     "Livestreams": "Tiesioginės transliacijos",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Visi įrašai",
     "Moderation": "Nuosaikumas",
+    "Moderationpolicy": "Prižiūrėjimo politika",
     "New": "Nauja",
     "about": "Apie",
     "airtimeext": "Airtime pratęsimas",
@@ -427,7 +433,7 @@
     "managedocuments": "Tvarkykite dokumentus",
     "membershipxp": "Narystė ir XP",
     "mixed": "Mišrus",
-    "moderation": "Nuosaikumas",
+    "moderation": "saikingai",
     "mydocs": "Mano dokumentai",
     "myreferrals": "Mano siuntimai",
     "new": "Nauja",
@@ -446,6 +452,10 @@
     "whatisbt": "Kas yra BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Jau prenumeruojate @{{username}}",
+    "Couldnotsubscribeto": "Nepavyko užsiprenumeruoti @{{username}}",
+    "Subscribedto": "Prenumeravo @{{username}}",
+    "Unsubscribed": "Atšauktas @{{username}} prenumerata",
     "addedyoutoagroup": " įtraukė jus į grupę.",
     "addedyoutofavourites": " pridėjo jus prie parankinių.",
     "bookmarkedyourpost": "pažymėjo jūsų įrašą.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Pranešimai pašalinti.",
     "openpost": "Atidaryti įrašą",
     "recommended": " Rekomenduojamas",
+    "recommendedusernametoyou": "rekomendavo @{{username}}.",
     "repliedyourcomment": " atsakė į tavo komentarą.",
     "sentyoudonation": " atsiuntė jums auką.",
     "sentyouprivatemessage": " atsiuntė jums asmeninę žinutę.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Dabar mūsų sistema atsiųs jums SMS",
     "youareverified": "Esate patikrintas",
     "yourblocked": "Jūsų užblokuoti nariai",
-    "yourpass": "Jūsų slaptažodis..."
+    "yourpass": "Jūsų slaptažodis...",
+    "youtuberelink": "Patvirtinant susieto „YouTube“ kanalo nuosavybės teises įvyko klaida. Norėdami tęsti „YouTube“ įkėlimų skelbimą, iš naujo susiekite savo kanalą. Ačiū."
   },
   "timeago": {
     "1hourago": "Prieš 1 valandą",

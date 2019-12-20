@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "ఇన్ఫ్రాక్షన్ రకం",
+    "Reportpost": "రిపోర్ట్ పోస్ట్",
+    "Viewprofile": "ప్రొఫైల్ చూడు",
     "ban": "బాన్",
     "banmssg": "వినియోగదారుని నిషేధించండి (నిర్వాహకుడు)",
     "bannednologinmssg": "ఇకపై బిట్‌ట్యూబ్ సైట్‌లో లాగిన్ అవ్వలేరు లేదా ఎటువంటి చర్యలను చేయలేరు.",
@@ -24,8 +26,10 @@
     "message": "సందేశం",
     "nopostshared": "దీనితో ఎవరూ పోస్ట్ షేర్ చేయలేదు",
     "nopostssharedyet": "ఇంకా పోస్ట్‌లు భాగస్వామ్యం చేయబడలేదు",
-    "report": "వినియోగదారుని నివేదించండి",
-    "reportdesc": "నివేదిక వివరణను నమోదు చేయండి",
+    "report": "నివేదిక",
+    "reportdesc": "నివేదిక వివరణను నమోదు చేయండి.",
+    "reportdesctimestamp": "నివేదిక వివరణను నమోదు చేయండి. సంబంధితంగా ఉంటే టైమ్‌స్టాంప్‌లను చేర్చండి.",
+    "reportuser": "వినియోగదారుని నివేదించండి",
     "rotate": "రొటేట్:",
     "rotateleft": "ఎడమవైపు తిప్పండి",
     "rotateright": "కుడివైపు తిప్పండి",
@@ -130,6 +134,7 @@
     "Addemojis": "ఎమోజీలను జోడించండి",
     "Addsticker": "స్టిక్కర్ జోడించండి",
     "Addto": "జోడించండి...",
+    "All": "అన్ని",
     "Attachafile": "ఫైల్‌ను అటాచ్ చేయండి",
     "Done": "పూర్తి",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "అన్ని పోస్ట్లు",
     "Moderation": "మోడరేషన్",
+    "Moderationpolicy": "నియంత్రణ విధానం",
     "New": "న్యూ",
     "about": "గురించి",
     "airtimeext": "ప్రసార పొడిగింపు",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubers.com అంటే ఏమిటి?"
   },
   "notify": {
+    "Alreadysubscribed": "ఇప్పటికే @{{username}} to కు సభ్యత్వాన్ని పొందారు",
+    "Couldnotsubscribeto": "@{{username}} To కు సభ్యత్వాన్ని పొందలేరు",
+    "Subscribedto": "@{{username}} Sub కు సభ్యత్వాన్ని పొందారు",
+    "Unsubscribed": "@{{username}} from నుండి చందాను తొలగించారు",
     "addedyoutoagroup": " మిమ్మల్ని సమూహానికి చేర్చారు.",
     "addedyoutofavourites": " మీకు ఇష్టమైన వాటికి జోడించబడింది.",
     "bookmarkedyourpost": "మీ పోస్ట్‌ను బుక్‌మార్క్ చేశారు.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "నోటిఫికేషన్‌లు తొలగించబడ్డాయి.",
     "openpost": "ఓపెన్ పోస్ట్",
     "recommended": " సిఫార్సు",
+    "recommendedusernametoyou": "మీకు @{{username}} సిఫార్సు చేయబడింది.",
     "repliedyourcomment": " మీ వ్యాఖ్యకు బదులిచ్చారు.",
     "sentyoudonation": " మీకు విరాళం పంపారు.",
     "sentyouprivatemessage": " మీకు ప్రైవేట్ సందేశం పంపింది.",
@@ -731,7 +742,8 @@
     "willsendyousms": "మా సిస్టమ్ ఇప్పుడు మీకు SMS పంపుతుంది",
     "youareverified": "మీరు ధృవీకరించబడ్డారు",
     "yourblocked": "మీ బ్లాక్ చేసిన సభ్యులు",
-    "yourpass": "మీ పాస్వర్డు..."
+    "yourpass": "మీ పాస్వర్డు...",
+    "youtuberelink": "లింక్ చేయబడిన YouTube ఛానెల్ యొక్క యాజమాన్యాన్ని ధృవీకరించడంలో లోపం ఉంది. మీ YouTube అప్‌లోడ్‌లను పోస్ట్ చేయడాన్ని కొనసాగించడానికి మీ ఛానెల్‌ను తిరిగి లింక్ చేయండి. ధన్యవాదాలు."
   },
   "timeago": {
     "1hourago": "1 గంట క్రితం",

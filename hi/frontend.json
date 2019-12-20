@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "अर्क प्रकार",
+    "Reportpost": "रिपोर्ट पोस्ट",
+    "Viewprofile": "प्रोफाइल देखिये",
     "ban": "प्रतिबंध",
     "banmssg": "उपयोगकर्ता (प्रतिबंध)",
     "bannednologinmssg": "अब BitTube साइट में किसी भी क्रिया को लॉगिन करने या करने में सक्षम नहीं होगा।",
@@ -24,8 +26,10 @@
     "message": "संदेश",
     "nopostshared": "किसी ने भी एक पोस्ट साझा नहीं की है",
     "nopostssharedyet": "अभी तक कोई पोस्ट साझा नहीं की गई है",
-    "report": "उपयोगकर्ता को रिपोर्ट करें",
-    "reportdesc": "एक रिपोर्ट विवरण दर्ज करें",
+    "report": "रिपोर्ट",
+    "reportdesc": "एक रिपोर्ट विवरण दर्ज करें।",
+    "reportdesctimestamp": "एक रिपोर्ट विवरण दर्ज करें। यदि उचित हो तो टाइमस्टैम्प शामिल करें।",
+    "reportuser": "उपयोगकर्ता को रिपोर्ट करें",
     "rotate": "रोटेट करें:",
     "rotateleft": "बायीं ओर घुमाओ",
     "rotateright": "दाएं घुमाएं",
@@ -130,6 +134,7 @@
     "Addemojis": "इमोजीस जोड़ें",
     "Addsticker": "स्टिकर जोड़ें",
     "Addto": "में जोड़े...",
+    "All": "सब",
     "Attachafile": "एक फ़ाइल जोडो",
     "Done": "किया हुआ",
     "Livestreams": "लाइव स्ट्रीम",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "सभी पद",
     "Moderation": "संयम",
+    "Moderationpolicy": "मॉडरेशन पॉलिसी",
     "New": "नया",
     "about": "के बारे में",
     "airtimeext": "एयरटाइम विस्तार",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubers.com क्या है?"
   },
   "notify": {
+    "Alreadysubscribed": "पहले ही @{{username}} की सदस्यता ली",
+    "Couldnotsubscribeto": "@{{username}} की सदस्यता नहीं ले सका",
+    "Subscribedto": "निम्न पर सब्सक्राइब किया गया है @{{username}}",
+    "Unsubscribed": "@{{username}} से सदस्यता समाप्त",
     "addedyoutoagroup": " आपको एक समूह में जोड़ा।",
     "addedyoutofavourites": " आपको पसंदीदा में जोड़ा",
     "bookmarkedyourpost": "अपने पोस्ट को बुकमार्क कर लिया।",
@@ -466,6 +476,7 @@
     "notificationsremoved": "अधिसूचनाएं निकाली गईं।",
     "openpost": "खुली पोस्ट",
     "recommended": " की सिफारिश की",
+    "recommendedusernametoyou": "आपको @{{username}} की सिफारिश की गई है।",
     "repliedyourcomment": " आपकी टिप्पणी का जवाब दिया।",
     "sentyoudonation": " आपको एक दान भेजा।",
     "sentyouprivatemessage": " ने आपको एक निजी संदेश भेजा है।",
@@ -731,7 +742,8 @@
     "willsendyousms": "हमारा सिस्टम अब आपको एक एसएमएस भेजेगा",
     "youareverified": "आप सत्यापित हैं",
     "yourblocked": "आपके अवरुद्ध सदस्य",
-    "yourpass": "आपका पासवर्ड..."
+    "yourpass": "आपका पासवर्ड...",
+    "youtuberelink": "लिंक किए गए YouTube चैनल के स्वामित्व को मान्य करने में त्रुटि हुई है। अपने YouTube अपलोड को जारी रखने के लिए अपने चैनल को पुनः लिंक करें। धन्यवाद।"
   },
   "timeago": {
     "1hourago": "1 घंटे पहले",

@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Jenis pelanggaran",
+    "Reportpost": "Laporkan pos",
+    "Viewprofile": "Tampilkan profil",
     "ban": "Melarang",
     "banmssg": "Larang pengguna (admin)",
     "bannednologinmssg": "tidak lagi dapat masuk atau melakukan tindakan apa pun di situs BitTube.",
@@ -24,8 +26,10 @@
     "message": "Pesan",
     "nopostshared": "Tidak ada yang membagikan pos",
     "nopostssharedyet": "Belum ada tulisan yang dibagikan",
-    "report": "Laporan pengguna",
-    "reportdesc": "Masukkan deskripsi laporan",
+    "report": "Melaporkan",
+    "reportdesc": "Masukkan deskripsi laporan.",
+    "reportdesctimestamp": "Masukkan deskripsi laporan. Sertakan stempel waktu jika terkait.",
+    "reportuser": "Laporan pengguna",
     "rotate": "Memutar:",
     "rotateleft": "Putar ke kiri",
     "rotateright": "Putar ke kanan",
@@ -130,6 +134,7 @@
     "Addemojis": "Tambahkan emoji",
     "Addsticker": "Tambahkan stiker",
     "Addto": "Tambahkan...",
+    "All": "Semua",
     "Attachafile": "Lampirkan file",
     "Done": "Selesai",
     "Livestreams": "Streaming langsung",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Semua posting",
     "Moderation": "Moderasi",
+    "Moderationpolicy": "Kebijakan moderasi",
     "New": "Baru",
     "about": "Tentang",
     "airtimeext": "Ekstensi airtime",
@@ -427,7 +433,7 @@
     "managedocuments": "Kelola dokumen",
     "membershipxp": "Keanggotaan & XP",
     "mixed": "Campuran",
-    "moderation": "Moderasi",
+    "moderation": "moderasi",
     "mydocs": "Dokumen-dokumen saya",
     "myreferrals": "Referensi saya",
     "new": "Baru",
@@ -446,6 +452,10 @@
     "whatisbt": "Apa itu BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Sudah berlangganan @{{username}}",
+    "Couldnotsubscribeto": "Tidak dapat berlangganan ke @{{username}}",
+    "Subscribedto": "Berlangganan ke @{{username}}",
+    "Unsubscribed": "Berhenti berlangganan dari @{{username}}",
     "addedyoutoagroup": " menambahkan Anda ke grup.",
     "addedyoutofavourites": " menambahkan Anda ke favorit.",
     "bookmarkedyourpost": "menandai pos Anda.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Pemberitahuan dihapus.",
     "openpost": "Buka pos",
     "recommended": " direkomendasikan",
+    "recommendedusernametoyou": "merekomendasikan @{{username}} kepada Anda.",
     "repliedyourcomment": " membalas komentar Anda.",
     "sentyoudonation": " mengirimi Anda sumbangan.",
     "sentyouprivatemessage": " telah mengirimi Anda pesan pribadi.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Sistem kami sekarang akan mengirimi Anda SMS",
     "youareverified": "Anda sudah diverifikasi",
     "yourblocked": "Anggota Anda yang diblokir",
-    "yourpass": "Kata sandi Anda..."
+    "yourpass": "Kata sandi Anda...",
+    "youtuberelink": "Terjadi kesalahan saat memvalidasi kepemilikan saluran YouTube yang ditautkan. Untuk terus memposting unggahan YouTube Anda, tautkan kembali saluran Anda. Terima kasih."
   },
   "timeago": {
     "1hourago": "1 jam yang lalu",

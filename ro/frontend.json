@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Tipul de infracțiune",
+    "Reportpost": "Raport post",
+    "Viewprofile": "Vezi profil",
     "ban": "Interzice",
     "banmssg": "Interzicerea utilizatorului (admin)",
     "bannednologinmssg": "nu va mai putea să vă autentifice sau să efectueze nicio acțiune pe site-ul BitTube.",
@@ -24,8 +26,10 @@
     "message": "Mesaj",
     "nopostshared": "Nimeni nu a împărtășit o postare",
     "nopostssharedyet": "Nu au fost partajate încă",
-    "report": "Raportare utilizator",
-    "reportdesc": "Introduceți o descriere a raportului",
+    "report": "Raport",
+    "reportdesc": "Introduceți o descriere a raportului.",
+    "reportdesctimestamp": "Introduceți o descriere a raportului. Includeți mărci de timp dacă este relevant.",
+    "reportuser": "Raportare utilizator",
     "rotate": "Roti:",
     "rotateleft": "Roteste la stanga",
     "rotateright": "Invarte spre dreapta",
@@ -130,6 +134,7 @@
     "Addemojis": "Adăugați emoji",
     "Addsticker": "Adăugați autocolant",
     "Addto": "Adauga la...",
+    "All": "Toate",
     "Attachafile": "Ataseaza un fisier",
     "Done": "Terminat",
     "Livestreams": "fluxuri live",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Toate postările",
     "Moderation": "Moderare",
+    "Moderationpolicy": "Politica de moderare",
     "New": "Nou",
     "about": "Despre",
     "airtimeext": "Extensie pe timp de tură",
@@ -427,7 +433,7 @@
     "managedocuments": "Gestionați documentele",
     "membershipxp": "Calitatea de membru și XP",
     "mixed": "Amestecat",
-    "moderation": "Moderare",
+    "moderation": "moderare",
     "mydocs": "Documentele mele",
     "myreferrals": "Recomandările mele",
     "new": "Nou",
@@ -446,6 +452,10 @@
     "whatisbt": "Ce este BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Ați abonat deja la @{{username}}",
+    "Couldnotsubscribeto": "Nu s-a putut abona la @{{username}}",
+    "Subscribedto": "Abonat la @{{username}}",
+    "Unsubscribed": "Neabonat de la @{{username}}",
     "addedyoutoagroup": " te-a adăugat într-un grup.",
     "addedyoutofavourites": " v-a adăugat la favorite.",
     "bookmarkedyourpost": "v-a marcat mesajul.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Notificările au fost eliminate.",
     "openpost": "Post deschis",
     "recommended": " recomandat",
+    "recommendedusernametoyou": "v-a recomandat @{{username}}.",
     "repliedyourcomment": " a răspuns la comentariul tău.",
     "sentyoudonation": " ti-a trimis o donatie.",
     "sentyouprivatemessage": " v-a trimis un mesaj privat.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Sistemul nostru vă va trimite acum un SMS",
     "youareverified": "Sunteți verificat",
     "yourblocked": "Membrii dvs. blocați",
-    "yourpass": "Parola ta..."
+    "yourpass": "Parola ta...",
+    "youtuberelink": "A apărut o eroare la validarea proprietății canalului YouTube conectat. Pentru a continua postarea încărcărilor YouTube, re-conectați-vă canalul. Mulțumesc."
   },
   "timeago": {
     "1hourago": "1 oră în urmă",

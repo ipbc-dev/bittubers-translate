@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "违规类型",
+    "Reportpost": "报告发布",
+    "Viewprofile": "查看资料",
     "ban": "禁止",
     "banmssg": "禁止用户（管理员）",
     "bannednologinmssg": "将不再能够在BitTube网站上登录或执行任何操作。",
@@ -24,8 +26,10 @@
     "message": "信息",
     "nopostshared": "没有人分享过一个帖子",
     "nopostssharedyet": "尚未分享任何信息",
-    "report": "报告用户",
-    "reportdesc": "输入报告说明",
+    "report": "报告",
+    "reportdesc": "输入报告说明。",
+    "reportdesctimestamp": "输入报告说明。包括时间戳记（如果相关）。",
+    "reportuser": "报告用户",
     "rotate": "旋转：",
     "rotateleft": "向左旋转",
     "rotateright": "右旋",
@@ -130,6 +134,7 @@
     "Addemojis": "添加表情符号",
     "Addsticker": "添加贴纸",
     "Addto": "添加...",
+    "All": "所有",
     "Attachafile": "附加档案",
     "Done": "完成了",
     "Livestreams": "直播",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "所有帖子",
     "Moderation": "适度",
+    "Moderationpolicy": "审核政策",
     "New": "新",
     "about": "关于",
     "airtimeext": "通话时间延长",
@@ -446,6 +452,10 @@
     "whatisbt": "什么是BitTubers.com？"
   },
   "notify": {
+    "Alreadysubscribed": "已订阅@{{username}}",
+    "Couldnotsubscribeto": "无法订阅 @{{username}}",
+    "Subscribedto": "已订阅 @{{username}}",
+    "Unsubscribed": "取消订阅@{{username}}",
     "addedyoutoagroup": " 已将您添加到群组中。",
     "addedyoutofavourites": " 将您添加到收藏夹。",
     "bookmarkedyourpost": "为您的帖子添加了书签。",
@@ -466,6 +476,7 @@
     "notificationsremoved": "通知已删除。",
     "openpost": "公开帖子",
     "recommended": " 推荐的",
+    "recommendedusernametoyou": "向您推荐了@{{username}}。",
     "repliedyourcomment": " 回复了您的评论。",
     "sentyoudonation": " 给您捐款了",
     "sentyouprivatemessage": " 向您发送了一条私人消息。",
@@ -731,7 +742,8 @@
     "willsendyousms": "现在，我们的系统会向您发送一条短信",
     "youareverified": "您已通过验证",
     "yourblocked": "您被封锁的成员",
-    "yourpass": "你的密码..."
+    "yourpass": "你的密码...",
+    "youtuberelink": "验证链接的YouTube频道的所有权时出错。要继续发布您的YouTube上传内容，请重新链接您的频道。谢谢。"
   },
   "timeago": {
     "1hourago": "1小时前",

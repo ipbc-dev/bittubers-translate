@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Тип інфраструктури",
+    "Reportpost": "Повідомлення",
+    "Viewprofile": "Перегляд профілю",
     "ban": "Заборона",
     "banmssg": "Заборонити користувача (адміністратора)",
     "bannednologinmssg": "більше не зможе входити або виконувати будь-які дії на сайті BitTube.",
@@ -24,8 +26,10 @@
     "message": "повідомлення",
     "nopostshared": "Ніхто не поділився публікацією",
     "nopostssharedyet": "Поки ще не поділилися жодними публікаціями",
-    "report": "Користувач звіту",
-    "reportdesc": "Введіть опис звіту",
+    "report": "Звіт",
+    "reportdesc": "Введіть опис звіту.",
+    "reportdesctimestamp": "Введіть опис звіту. Додайте часові позначки, якщо це доречно.",
+    "reportuser": "Користувач звіту",
     "rotate": "Поворот:",
     "rotateleft": "Поверніть ліворуч",
     "rotateright": "Поворот праворуч",
@@ -130,6 +134,7 @@
     "Addemojis": "Додайте емоджи",
     "Addsticker": "Додати наклейку",
     "Addto": "Додати до...",
+    "All": "Усі",
     "Attachafile": "Приєднайте файл",
     "Done": "Зроблено",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Усі повідомлення",
     "Moderation": "Помірність",
+    "Moderationpolicy": "Політика модерації",
     "New": "Нові",
     "about": "Про",
     "airtimeext": "Подовження ефірного часу",
@@ -427,7 +433,7 @@
     "managedocuments": "Управління документами",
     "membershipxp": "Членство та XP",
     "mixed": "Змішаний",
-    "moderation": "Помірність",
+    "moderation": "помірність",
     "mydocs": "Мої документи",
     "myreferrals": "Мої реферали",
     "new": "Нові",
@@ -446,6 +452,10 @@
     "whatisbt": "Що таке BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Уже підписалися на @{{username}}",
+    "Couldnotsubscribeto": "Не вдалося підписатися на @{{username}}",
+    "Subscribedto": "Підписалися на @{{username}}",
+    "Unsubscribed": "Скасували підписку на @{{username}}",
     "addedyoutoagroup": " додав вас до групи.",
     "addedyoutofavourites": " додав вас до вибраного.",
     "bookmarkedyourpost": "закладку вашого допису.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Сповіщення видалено.",
     "openpost": "Відкрити допис",
     "recommended": " рекомендується",
+    "recommendedusernametoyou": "рекомендується @{{username}} вам.",
     "repliedyourcomment": " відповів на ваш коментар.",
     "sentyoudonation": " надіслав вам пожертву.",
     "sentyouprivatemessage": " надіслав вам приватне повідомлення.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Тепер наша система надішле вам SMS на",
     "youareverified": "Ви перевірені",
     "yourblocked": "Ваші заблоковані учасники",
-    "yourpass": "Ваш пароль..."
+    "yourpass": "Ваш пароль...",
+    "youtuberelink": "Під час перевірки права власності на пов’язаний канал YouTube сталася помилка. Щоб продовжити публікацію завантажень на YouTube, перев’яжіть свій канал. Дякую."
   },
   "timeago": {
     "1hourago": "1 годину тому",

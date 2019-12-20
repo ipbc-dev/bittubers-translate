@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Infravörös típus",
+    "Reportpost": "Bejegyzés jelentése",
+    "Viewprofile": "Profil megtekintése",
     "ban": "Tilalom",
     "banmssg": "Felhasználó letiltása (admin)",
     "bannednologinmssg": "többé nem lesz képes bejelentkezni vagy elvégezni semmilyen műveletet a BitTube webhelyen.",
@@ -24,8 +26,10 @@
     "message": "Üzenet",
     "nopostshared": "Senki sem osztott meg bejegyzést ezzel",
     "nopostssharedyet": "Még egyetlen hozzászólást sem osztottak meg",
-    "report": "Felhasználó bejelentése",
-    "reportdesc": "Írja be a jelentés leírását",
+    "report": "Jelentés",
+    "reportdesc": "Írja be a jelentés leírását.",
+    "reportdesctimestamp": "Írja be a jelentés leírását. Adjon meg időbélyegzőket, ha vannak ilyenek.",
+    "reportuser": "Felhasználó bejelentése",
     "rotate": "Forog:",
     "rotateleft": "Forgasd balra",
     "rotateright": "Forgasd jobbra",
@@ -130,6 +134,7 @@
     "Addemojis": "Add hangulatjelek",
     "Addsticker": "Add matrica",
     "Addto": "Hozzáadás a ...",
+    "All": "Minden",
     "Attachafile": "Fájl csatolása",
     "Done": "Kész",
     "Livestreams": "élő közvetítést",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Összes üzenet",
     "Moderation": "mérséklet",
+    "Moderationpolicy": "Moderációs politika",
     "New": "Új",
     "about": "Ról ről",
     "airtimeext": "Működési idő kiterjesztés",
@@ -446,6 +452,10 @@
     "whatisbt": "Mi a BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Már feliratkozott a @{{username}} oldalra",
+    "Couldnotsubscribeto": "Nem tudtam feliratkozni a következőre: @{{username}}",
+    "Subscribedto": "Feliratkozás a következőre: @{{username}}",
+    "Unsubscribed": "Leiratkozás a következőről: @{{username}}",
     "addedyoutoagroup": " felvette egy csoportba.",
     "addedyoutofavourites": " felvette a kedvencei közé.",
     "bookmarkedyourpost": "megjelölte a bejegyzését.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Az értesítések eltávolítva.",
     "openpost": "Nyitott üzenet",
     "recommended": " ajánlott",
+    "recommendedusernametoyou": "ajánlotta neked @{{username}}.",
     "repliedyourcomment": " válaszolt a megjegyzésedre.",
     "sentyoudonation": " adományt küldött neked.",
     "sentyouprivatemessage": " privát üzenetet küldött neked.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Rendszerünk most SMS-t küld Önnek",
     "youareverified": "Ön ellenőrizve van",
     "yourblocked": "Letiltott tagjai",
-    "yourpass": "A jelszavad..."
+    "yourpass": "A jelszavad...",
+    "youtuberelink": "Hiba történt a kapcsolt YouTube-csatorna tulajdonjogának érvényesítésekor. A YouTube-feltöltéseid folytatásához kapcsolja össze újra csatornáját. Köszönöm."
   },
   "timeago": {
     "1hourago": "1 órával ezelőtt",

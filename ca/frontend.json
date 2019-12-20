@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Tipus d’infracció",
+    "Reportpost": "Reportatge",
+    "Viewprofile": "Veure el perfil",
     "ban": "Prohibició",
     "banmssg": "Prohibir l'usuari (administrador)",
     "bannednologinmssg": "ja no podreu iniciar la sessió ni realitzar accions al lloc de BitTube.",
@@ -24,8 +26,10 @@
     "message": "Missatge",
     "nopostshared": "Ningú no ha compartit cap publicació amb ella",
     "nopostssharedyet": "Encara no s'ha compartit cap publicació",
-    "report": "Informe d'usuari",
-    "reportdesc": "Introduïu una descripció de l’informe",
+    "report": "Informe",
+    "reportdesc": "Introduïu una descripció de l’informe.",
+    "reportdesctimestamp": "Introduïu una descripció de l’informe. Incloure els segells de temps si és pertinent.",
+    "reportuser": "Informe d'usuari",
     "rotate": "Gira:",
     "rotateleft": "Gira cap a l’esquerra",
     "rotateright": "Gira cap a la dreta",
@@ -130,6 +134,7 @@
     "Addemojis": "Afegiu els emojis",
     "Addsticker": "Afegiu un adhesiu",
     "Addto": "Afegir a...",
+    "All": "Tots",
     "Attachafile": "Adjunteu un fitxer",
     "Done": "Fet",
     "Livestreams": "Transmissió en directe",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Totes les publicacions",
     "Moderation": "Moderació",
+    "Moderationpolicy": "Política de moderació",
     "New": "Nou",
     "about": "Sobre",
     "airtimeext": "Extensió en temps lliure",
@@ -427,7 +433,7 @@
     "managedocuments": "Gestiona els documents",
     "membershipxp": "Membre i XP",
     "mixed": "Mixta",
-    "moderation": "Moderació",
+    "moderation": "moderació",
     "mydocs": "Els meus documents",
     "myreferrals": "Les meves referències",
     "new": "Nou",
@@ -446,6 +452,10 @@
     "whatisbt": "Què és BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Ja està subscrit a @{{username}}",
+    "Couldnotsubscribeto": "No s'ha pogut subscriure a @{{username}}",
+    "Subscribedto": "Subscrit a @{{username}}",
+    "Unsubscribed": "No subscrit de @{{username}}",
     "addedyoutoagroup": " t'ha afegit a un grup.",
     "addedyoutofavourites": " et va afegir a favorits.",
     "bookmarkedyourpost": "Ha marcat una adreça a la teva publicació.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "S'han eliminat les notificacions.",
     "openpost": "Publicació oberta",
     "recommended": " recomanat",
+    "recommendedusernametoyou": "recomanable @{{username}}.",
     "repliedyourcomment": " va respondre al vostre comentari.",
     "sentyoudonation": " li va enviar una donació.",
     "sentyouprivatemessage": " t'ha enviat un missatge privat.",
@@ -731,7 +742,8 @@
     "willsendyousms": "El nostre sistema ara us enviarà un SMS",
     "youareverified": "Heu verificat",
     "yourblocked": "Els vostres membres bloquejats",
-    "yourpass": "La teva contrasenya..."
+    "yourpass": "La teva contrasenya...",
+    "youtuberelink": "S'ha produït un error en validar la propietat del canal de YouTube enllaçat. Per continuar publicant les càrregues de YouTube, torneu a enllaçar el vostre canal. Gràcies."
   },
   "timeago": {
     "1hourago": "Fa 1 hora",

@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Type d'infraction",
+    "Reportpost": "Signaler l'article",
+    "Viewprofile": "Voir le profil",
     "ban": "Interdire",
     "banmssg": "Interdire l'utilisateur (administrateur)",
     "bannednologinmssg": "ne sera plus en mesure de se connecter ou d'effectuer aucune action sur le site BitTube.",
@@ -24,8 +26,10 @@
     "message": "Message",
     "nopostshared": "Personne n'a partagé un post avec",
     "nopostssharedyet": "Aucun message n'a encore été partagé",
-    "report": "Dénoncer un utilisateur",
-    "reportdesc": "Entrez une description du rapport",
+    "report": "rapport",
+    "reportdesc": "Saisissez une description de rapport.",
+    "reportdesctimestamp": "Saisissez une description de rapport. Inclure des horodatages si pertinents.",
+    "reportuser": "Dénoncer un utilisateur",
     "rotate": "Tourner:",
     "rotateleft": "Tourne à gauche",
     "rotateright": "Tourner à droite",
@@ -130,6 +134,7 @@
     "Addemojis": "Ajouter des emojis",
     "Addsticker": "Ajouter un autocollant",
     "Addto": "Ajouter à...",
+    "All": "Tout",
     "Attachafile": "Joindre un fichier",
     "Done": "Terminé",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Tous les messages",
     "Moderation": "Modération",
+    "Moderationpolicy": "Politique de modération",
     "New": "Nouveau",
     "about": "À propos",
     "airtimeext": "Prolongation du temps d'antenne",
@@ -427,7 +433,7 @@
     "managedocuments": "Gérer les documents",
     "membershipxp": "Adhésion et XP",
     "mixed": "Mixte",
-    "moderation": "Modération",
+    "moderation": "modération",
     "mydocs": "Mes documents",
     "myreferrals": "Mes recommandations",
     "new": "Nouveau",
@@ -446,6 +452,10 @@
     "whatisbt": "Qu'est-ce que BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Déjà abonné à @{{username}}",
+    "Couldnotsubscribeto": "Impossible de s'abonner à @{{username}}",
+    "Subscribedto": "Abonné à @{{username}}",
+    "Unsubscribed": "Désabonné de @{{username}}",
     "addedyoutoagroup": " vous a ajouté à un groupe.",
     "addedyoutofavourites": " vous a ajouté aux favoris.",
     "bookmarkedyourpost": "mis en favori votre message.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Notifications supprimées.",
     "openpost": "Poste ouvert",
     "recommended": " conseillé",
+    "recommendedusernametoyou": "recommandé @{{username}}.",
     "repliedyourcomment": " répondu à votre commentaire.",
     "sentyoudonation": " vous a envoyé un don.",
     "sentyouprivatemessage": " vous a envoyé un message privé.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Notre système va maintenant vous envoyer un SMS sur",
     "youareverified": "Vous êtes vérifié",
     "yourblocked": "Vos membres bloqués",
-    "yourpass": "Votre mot de passe..."
+    "yourpass": "Votre mot de passe...",
+    "youtuberelink": "Une erreur s'est produite lors de la validation de la propriété de la chaîne YouTube associée. Pour continuer à publier vos mises en ligne YouTube, reconnectez votre chaîne. Merci."
   },
   "timeago": {
     "1hourago": "Il ya 1 heure",

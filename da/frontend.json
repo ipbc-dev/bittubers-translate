@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Overtrædelsestype",
+    "Reportpost": "Rapporter indlæg",
+    "Viewprofile": "Se profil",
     "ban": "Forbyde",
     "banmssg": "Forbud bruger (admin)",
     "bannednologinmssg": "vil ikke længere være i stand til at logge ind eller udføre handlinger på BitTube-webstedet.",
@@ -24,8 +26,10 @@
     "message": "Besked",
     "nopostshared": "Ingen har delt et indlæg med",
     "nopostssharedyet": "Der er ikke delt nogen indlæg endnu",
-    "report": "Rapporter bruger",
-    "reportdesc": "Indtast en rapportbeskrivelse",
+    "report": "Rapport",
+    "reportdesc": "Indtast en rapportbeskrivelse.",
+    "reportdesctimestamp": "Indtast en rapportbeskrivelse. Medtag tidsstempler, hvis relevant.",
+    "reportuser": "Rapporter bruger",
     "rotate": "Rotere:",
     "rotateleft": "Drej til venstre",
     "rotateright": "Drej til højre",
@@ -130,6 +134,7 @@
     "Addemojis": "Tilføj emojis",
     "Addsticker": "Tilføj klistermærke",
     "Addto": "Tilføj til...",
+    "All": "Alle",
     "Attachafile": "Vedhæft en fil",
     "Done": "Færdig",
     "Livestreams": "livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Alle indlæg",
     "Moderation": "Moderation",
+    "Moderationpolicy": "Moderationspolitik",
     "New": "Ny",
     "about": "Om",
     "airtimeext": "Udvidelse af lufttid",
@@ -427,7 +433,7 @@
     "managedocuments": "Administrer dokumenter",
     "membershipxp": "Medlemskab & XP",
     "mixed": "Blandet",
-    "moderation": "Moderation",
+    "moderation": "moderation",
     "mydocs": "Mine dokumenter",
     "myreferrals": "Mine henvisninger",
     "new": "Ny",
@@ -446,6 +452,10 @@
     "whatisbt": "Hvad er BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Allerede abonneret på @{{username}}",
+    "Couldnotsubscribeto": "Kunne ikke abonnere på @{{username}}",
+    "Subscribedto": "Abonner på @{{username}}",
+    "Unsubscribed": "Frameldt @{{username}}",
     "addedyoutoagroup": " føjede dig til en gruppe.",
     "addedyoutofavourites": " føjede dig til favoritter.",
     "bookmarkedyourpost": "bogmærkede dit indlæg.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Underretninger fjernet.",
     "openpost": "Åben post",
     "recommended": " anbefalede",
+    "recommendedusernametoyou": "anbefalede @{{username}} til dig.",
     "repliedyourcomment": " svarede på din kommentar.",
     "sentyoudonation": " sendte dig en donation.",
     "sentyouprivatemessage": " har sendt dig en privat besked.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Vores system sender dig nu en SMS",
     "youareverified": "Du er bekræftet",
     "yourblocked": "Dine blokerede medlemmer",
-    "yourpass": "Dit kodeord..."
+    "yourpass": "Dit kodeord...",
+    "youtuberelink": "Der har været en fejl med validering af ejerskabet af den tilknyttede YouTube-kanal. For at fortsætte med at indsende dine YouTube-uploads linkes din kanal igen. Tak skal du have."
   },
   "timeago": {
     "1hourago": "1 time siden",

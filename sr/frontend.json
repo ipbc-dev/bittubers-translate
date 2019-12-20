@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Инфрацтион типе",
+    "Reportpost": "Репорт пост",
+    "Viewprofile": "Погледај профил",
     "ban": "Бан",
     "banmssg": "Корисник забране (администратор)",
     "bannednologinmssg": "више неће бити у могућности да се пријављује или извршава било које радње на БитТубе локацији.",
@@ -24,8 +26,10 @@
     "message": "Порука",
     "nopostshared": "Нико није поделио пост са",
     "nopostssharedyet": "Још није објављен ниједан пост",
-    "report": "Пријави корисника",
-    "reportdesc": "Унесите опис извештаја",
+    "report": "Извештај",
+    "reportdesc": "Унесите опис извештаја.",
+    "reportdesctimestamp": "Унесите опис извештаја. Укључите временске жигове ако је потребно.",
+    "reportuser": "Пријави корисника",
     "rotate": "Ротирање:",
     "rotateleft": "Ротирајте лево",
     "rotateright": "Ротирајте десно",
@@ -130,6 +134,7 @@
     "Addemojis": "Додајте емојис",
     "Addsticker": "Додајте налепницу",
     "Addto": "Додати...",
+    "All": "Све",
     "Attachafile": "Приложили датотеку",
     "Done": "Готово",
     "Livestreams": "Ливестреамс",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Све поруке",
     "Moderation": "Умереност",
+    "Moderationpolicy": "Политика модерирања",
     "New": "Ново",
     "about": "О томе",
     "airtimeext": "Продужење ваздушног времена",
@@ -427,7 +433,7 @@
     "managedocuments": "Управљање документима",
     "membershipxp": "Чланство и КСП",
     "mixed": "Помешан",
-    "moderation": "Умереност",
+    "moderation": "умјереност",
     "mydocs": "Моји документи",
     "myreferrals": "Моје препоруке",
     "new": "Ново",
@@ -446,6 +452,10 @@
     "whatisbt": "Шта је БитТуберс.цом?"
   },
   "notify": {
+    "Alreadysubscribed": "Већ сте претплаћени на @{{username}}",
+    "Couldnotsubscribeto": "Не могу се претплатити на @{{username}}",
+    "Subscribedto": "Претплаћени на @{{username}}",
+    "Unsubscribed": "Отказана је претплата од @{{username}}",
     "addedyoutoagroup": " додао вас је у групу.",
     "addedyoutofavourites": " додала вас у фаворите.",
     "bookmarkedyourpost": "обележило обележило ваш пост.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Обавештења су уклоњена.",
     "openpost": "Отвори пост",
     "recommended": " препоручује се",
+    "recommendedusernametoyou": "препоручено @{{username}} вама.",
     "repliedyourcomment": " одговорио на твој коментар.",
     "sentyoudonation": " послао вам је донацију.",
     "sentyouprivatemessage": " послао вам је приватну поруку.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Наш систем ће вам сада послати СМС на",
     "youareverified": "Ви сте верификовани",
     "yourblocked": "Блокирани чланови",
-    "yourpass": "Твоја лозинка..."
+    "yourpass": "Твоја лозинка...",
+    "youtuberelink": "Дошло је до грешке приликом потврђивања власништва над повезаним ИоуТубе каналом. Да бисте наставили са објављивањем ИоуТубе преноса, поново повежите свој канал. Хвала вам."
   },
   "timeago": {
     "1hourago": "пре 1 сат",

@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "نوع انقباض",
+    "Reportpost": "گزارش ارسال",
+    "Viewprofile": "مشاهده نمایه",
     "ban": "ممنوع",
     "banmssg": "منع کاربر (مدیر)",
     "bannednologinmssg": "دیگر نمی توانید وارد سایت یا انجام هرگونه فعالیتی در سایت BitTube شوید.",
@@ -24,8 +26,10 @@
     "message": "پیام",
     "nopostshared": "هیچ کس پستی را با او به اشتراک نگذاشته است",
     "nopostssharedyet": "هنوز هیچ پستی به اشتراک گذاشته نشده است",
-    "report": "گزارش کاربر",
-    "reportdesc": "توضیحات گزارش را وارد کنید",
+    "report": "گزارش",
+    "reportdesc": "توضیحات گزارش را وارد کنید.",
+    "reportdesctimestamp": "توضیحات گزارش را وارد کنید. در صورت مربوط بودن ، نشانگرهای زمانی را درج کنید.",
+    "reportuser": "گزارش کاربر",
     "rotate": "چرخش:",
     "rotateleft": "چرخش سمت چپ",
     "rotateright": "به طرف راست بچرخان",
@@ -130,6 +134,7 @@
     "Addemojis": "ایموجی ها را اضافه کنید",
     "Addsticker": "برچسب اضافه کنید",
     "Addto": "اضافه کردن به...",
+    "All": "همه",
     "Attachafile": "پیوست یک پرونده",
     "Done": "انجام شده",
     "Livestreams": "Livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "همه پست ها",
     "Moderation": "اعتدال",
+    "Moderationpolicy": "سیاست تعدیل",
     "New": "جدید",
     "about": "در باره",
     "airtimeext": "پسوند زمان پخش",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubers.com چیست؟"
   },
   "notify": {
+    "Alreadysubscribed": "قبلاً در @{{username}} subs مشترک شده اید",
+    "Couldnotsubscribeto": "نمی توان در @{{username}} مشترک شد",
+    "Subscribedto": "مشترک @{{username}}",
+    "Unsubscribed": "لغو اشتراک از @{{username}}",
     "addedyoutoagroup": " شما را به یک گروه اضافه کرد.",
     "addedyoutofavourites": " شما را به موارد دلخواه اضافه کرد.",
     "bookmarkedyourpost": "پست شما را علامت گذاری کرد",
@@ -466,6 +476,7 @@
     "notificationsremoved": "اعلان ها حذف شدند.",
     "openpost": "پست را باز کنید",
     "recommended": " توصیه شده",
+    "recommendedusernametoyou": "recommended @{{username}} به شما توصیه می شود.",
     "repliedyourcomment": " پاسخ به نظر شما",
     "sentyoudonation": " برای شما کمک مالی ارسال کرد",
     "sentyouprivatemessage": " برای شما پیام خصوصی ارسال کرده است",
@@ -731,7 +742,8 @@
     "willsendyousms": "سیستم ما اکنون برای شما پیامکی ارسال می کند",
     "youareverified": "شما تأیید شده اید",
     "yourblocked": "اعضای مسدود شده شما",
-    "yourpass": "رمز عبور شما..."
+    "yourpass": "رمز عبور شما...",
+    "youtuberelink": "هنگام اعتبار دادن به مالکیت کانال YouTube مرتبط شده خطایی رخ داده است. برای ادامه ارسال بارهای YouTube ، کانال خود را مجدداً پیوند دهید. متشکرم."
   },
   "timeago": {
     "1hourago": "1 ساعت قبل",

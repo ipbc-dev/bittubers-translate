@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Loại vi phạm",
+    "Reportpost": "Báo cáo về bài đăng",
+    "Viewprofile": "Xem hồ sơ",
     "ban": "Lệnh cấm",
     "banmssg": "Cấm người dùng (quản trị viên)",
     "bannednologinmssg": "sẽ không còn có thể đăng nhập hoặc thực hiện bất kỳ hành động nào trong trang BitTube.",
@@ -24,8 +26,10 @@
     "message": "Thông điệp",
     "nopostshared": "Không ai đã chia sẻ một bài viết với",
     "nopostssharedyet": "Chưa có bài viết nào được chia sẻ",
-    "report": "Báo cáo người dùng",
-    "reportdesc": "Nhập mô tả báo cáo",
+    "report": "Bài báo cáo",
+    "reportdesc": "Nhập mô tả báo cáo.",
+    "reportdesctimestamp": "Nhập mô tả báo cáo. Bao gồm dấu thời gian nếu thích hợp.",
+    "reportuser": "Báo cáo người dùng",
     "rotate": "Quay:",
     "rotateleft": "Xoay trái",
     "rotateright": "Xoay phải",
@@ -130,6 +134,7 @@
     "Addemojis": "Thêm biểu tượng cảm xúc",
     "Addsticker": "Thêm nhãn dán",
     "Addto": "Thêm vào...",
+    "All": "Tất cả các",
     "Attachafile": "Đính kèm một tập tin",
     "Done": "Làm xong",
     "Livestreams": "Phát sóng trực tiếp",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Tất cả những bài viết",
     "Moderation": "Điều độ",
+    "Moderationpolicy": "Chính sách kiểm duyệt",
     "New": "Mới",
     "about": "Trong khoảng",
     "airtimeext": "Gia hạn thời gian phát sóng",
@@ -427,7 +433,7 @@
     "managedocuments": "Quản lý tài liệu",
     "membershipxp": "Thành viên & XP",
     "mixed": "Hỗn hợp",
-    "moderation": "Điều độ",
+    "moderation": "điều độ",
     "mydocs": "Tai liệu của tôi",
     "myreferrals": "Giới thiệu của tôi",
     "new": "Mới",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubers.com là gì?"
   },
   "notify": {
+    "Alreadysubscribed": "Đã đăng ký @{{username}}",
+    "Couldnotsubscribeto": "Không thể đăng ký @{{username}}",
+    "Subscribedto": "Đăng ký @{{username}}",
+    "Unsubscribed": "Hủy đăng ký từ @{{username}}",
     "addedyoutoagroup": " đã thêm bạn vào một nhóm.",
     "addedyoutofavourites": " đã thêm bạn vào mục yêu thích.",
     "bookmarkedyourpost": "đánh dấu bài viết của bạn.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Thông báo loại bỏ.",
     "openpost": "Mở bài",
     "recommended": " đề nghị",
+    "recommendedusernametoyou": "đề xuất @{{username}} cho bạn.",
     "repliedyourcomment": " trả lời bình luận của bạn",
     "sentyoudonation": " đã gửi cho bạn một đóng góp.",
     "sentyouprivatemessage": " đã gửi cho bạn một tin nhắn riêng.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Hệ thống của chúng tôi sẽ gửi cho bạn một SMS trên",
     "youareverified": "Bạn đã được xác minh",
     "yourblocked": "Thành viên bị chặn của bạn",
-    "yourpass": "Mật khẩu của bạn..."
+    "yourpass": "Mật khẩu của bạn...",
+    "youtuberelink": "Đã xảy ra lỗi khi xác thực quyền sở hữu kênh YouTube được liên kết. Để tiếp tục đăng tải lên YouTube, hãy liên kết lại kênh của bạn. Cảm ơn bạn."
   },
   "timeago": {
     "1hourago": "1 giờ trước",

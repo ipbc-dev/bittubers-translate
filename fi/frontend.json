@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Infraktiotyyppi",
+    "Reportpost": "Ilmoita viesti",
+    "Viewprofile": "Näytä profiili",
     "ban": "Kieltää",
     "banmssg": "Estä käyttäjä (järjestelmänvalvoja)",
     "bannednologinmssg": "ei enää voi kirjautua sisään tai suorittaa mitään toimia BitTube-sivustossa.",
@@ -24,8 +26,10 @@
     "message": "Viesti",
     "nopostshared": "Kukaan ei ole jakanut viestiä käyttäjän kanssa",
     "nopostssharedyet": "Viestejä ei ole vielä jaettu",
-    "report": "Ilmoita käyttäjä",
-    "reportdesc": "Kirjoita raportin kuvaus",
+    "report": "raportti",
+    "reportdesc": "Kirjoita raportin kuvaus.",
+    "reportdesctimestamp": "Kirjoita raportin kuvaus. Sisällytä aikaleimat, jos ne ovat merkityksellisiä.",
+    "reportuser": "Ilmoita käyttäjä",
     "rotate": "Kiertää:",
     "rotateleft": "Käänny vasemmalle",
     "rotateright": "Kierrä oikealle",
@@ -130,6 +134,7 @@
     "Addemojis": "Lisää hymiöt",
     "Addsticker": "Lisää tarra",
     "Addto": "Lisätä...",
+    "All": "Kaikki",
     "Attachafile": "Liitä tiedosto",
     "Done": "Tehty",
     "Livestreams": "suoratoistot",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Kaikki viestit",
     "Moderation": "maltillisuus",
+    "Moderationpolicy": "Valvontakäytäntö",
     "New": "Uusi",
     "about": "Noin",
     "airtimeext": "Airtime jatko",
@@ -446,6 +452,10 @@
     "whatisbt": "Mikä on BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Tilattu jo @{{username}}",
+    "Couldnotsubscribeto": "@{{username}} Ei voinut tilata",
+    "Subscribedto": "Tilattu @{{username}}",
+    "Unsubscribed": "Tilaaja @{{username}}",
     "addedyoutoagroup": " lisäsi sinut ryhmään.",
     "addedyoutofavourites": " lisäsi sinut suosikkeihin.",
     "bookmarkedyourpost": "lisäsi viestiisi kirjanmerkkejä.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Ilmoitukset poistettu.",
     "openpost": "Avaa viesti",
     "recommended": " suositeltava",
+    "recommendedusernametoyou": "suositteli @{{username}} sinulle.",
     "repliedyourcomment": " vastasi kommenttiin.",
     "sentyoudonation": " lähetti sinulle lahjoituksen.",
     "sentyouprivatemessage": " on lähettänyt sinulle yksityisen viestin.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Järjestelmämme lähettää sinulle nyt tekstiviestin",
     "youareverified": "Sinut on vahvistettu",
     "yourblocked": "Estetyt jäsenet",
-    "yourpass": "Salasanasi..."
+    "yourpass": "Salasanasi...",
+    "youtuberelink": "Linkitetyn YouTube-kanavan omistajuuden vahvistamisessa on tapahtunut virhe. Linkitä kanavasi jatkaaksesi YouTube-latauksesi lähettämistä. Kiitos."
   },
   "timeago": {
     "1hourago": "1 tunti sitten",

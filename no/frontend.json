@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Brudd type",
+    "Reportpost": "Rapporter innlegg",
+    "Viewprofile": "Vis profil",
     "ban": "Forby",
     "banmssg": "Forbud bruker (admin)",
     "bannednologinmssg": "vil ikke lenger kunne logge på eller utføre noen handlinger på BitTube-nettstedet.",
@@ -24,8 +26,10 @@
     "message": "Budskap",
     "nopostshared": "Ingen har delt et innlegg med",
     "nopostssharedyet": "Ingen innlegg har blitt delt ennå",
-    "report": "Rapporter bruker",
-    "reportdesc": "Skriv inn en rapportbeskrivelse",
+    "report": "Rapportere",
+    "reportdesc": "Legg inn en rapportbeskrivelse.",
+    "reportdesctimestamp": "Legg inn en rapportbeskrivelse. Ta med tidsstempler hvis relevant.",
+    "reportuser": "Rapporter bruker",
     "rotate": "Rotere:",
     "rotateleft": "Rotér mot venstre",
     "rotateright": "Roter til høyre",
@@ -130,6 +134,7 @@
     "Addemojis": "Legg til emojis",
     "Addsticker": "Legg klistremerke",
     "Addto": "Legge til...",
+    "All": "Alle",
     "Attachafile": "Legg ved en fil",
     "Done": "Ferdig",
     "Livestreams": "direkteoverføringer",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Alle innlegg",
     "Moderation": "moderasjon",
+    "Moderationpolicy": "Moderasjonspolitikk",
     "New": "Ny",
     "about": "Handle om",
     "airtimeext": "Forlengelse av lufttid",
@@ -446,6 +452,10 @@
     "whatisbt": "Hva er BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Har du allerede abonnert på @{{username}}",
+    "Couldnotsubscribeto": "Kunne ikke abonnere på @{{username}}",
+    "Subscribedto": "Abonner på @{{username}}",
+    "Unsubscribed": "Avmeldt fra @{{username}}",
     "addedyoutoagroup": " la deg til en gruppe.",
     "addedyoutofavourites": " la deg til favoritter.",
     "bookmarkedyourpost": "bokmerke innlegget ditt.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Varsler fjernet.",
     "openpost": "Åpent innlegg",
     "recommended": " anbefales",
+    "recommendedusernametoyou": "anbefalte @{{username}} til deg.",
     "repliedyourcomment": " svarte på kommentaren din.",
     "sentyoudonation": " sendte deg en donasjon.",
     "sentyouprivatemessage": " har sendt deg en privat melding.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Systemet vårt vil nå sende deg en SMS på",
     "youareverified": "Du er bekreftet",
     "yourblocked": "Dine blokkerte medlemmer",
-    "yourpass": "Ditt passord..."
+    "yourpass": "Ditt passord...",
+    "youtuberelink": "Det har oppstått en feil med validering av eierskapet til den koblede YouTube-kanalen. For å fortsette å legge ut YouTube-opplastningene kobler du kanalen din på nytt. Takk skal du ha."
   },
   "timeago": {
     "1hourago": "1 time siden",

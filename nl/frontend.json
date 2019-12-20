@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "Type overtreding",
+    "Reportpost": "Post melden",
+    "Viewprofile": "Bekijk profiel",
     "ban": "ban",
     "banmssg": "Gebruiker verbieden (admin)",
     "bannednologinmssg": "kunnen niet langer inloggen of acties uitvoeren op de BitTube-site.",
@@ -24,8 +26,10 @@
     "message": "Bericht",
     "nopostshared": "Niemand heeft een bericht met gedeeld",
     "nopostssharedyet": "Er zijn nog geen berichten gedeeld",
-    "report": "Rapporteer gebruiker",
-    "reportdesc": "Voer een rapportbeschrijving in",
+    "report": "Verslag doen van",
+    "reportdesc": "Voer een rapportbeschrijving in.",
+    "reportdesctimestamp": "Voer een rapportbeschrijving in. Neem indien nodig tijdstempels op.",
+    "reportuser": "Rapporteer gebruiker",
     "rotate": "Draaien:",
     "rotateleft": "Draai naar links",
     "rotateright": "Draai naar rechts",
@@ -130,6 +134,7 @@
     "Addemojis": "Voeg emoji's toe",
     "Addsticker": "Sticker toevoegen",
     "Addto": "Toevoegen aan...",
+    "All": "Alle",
     "Attachafile": "Voeg een bestand toe",
     "Done": "Gedaan",
     "Livestreams": "livestreams",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "Alle berichten",
     "Moderation": "Met mate",
+    "Moderationpolicy": "Moderatiebeleid",
     "New": "nieuwe",
     "about": "Wat betreft",
     "airtimeext": "Airtime-extensie",
@@ -427,7 +433,7 @@
     "managedocuments": "Beheer documenten",
     "membershipxp": "Lidmaatschap & XP",
     "mixed": "Gemengd",
-    "moderation": "Met mate",
+    "moderation": "met mate",
     "mydocs": "Mijn Documenten",
     "myreferrals": "Mijn verwijzingen",
     "new": "nieuwe",
@@ -446,6 +452,10 @@
     "whatisbt": "Wat is BitTubers.com?"
   },
   "notify": {
+    "Alreadysubscribed": "Al geabonneerd op @{{username}}",
+    "Couldnotsubscribeto": "Kan zich niet abonneren op @{{username}}",
+    "Subscribedto": "Geabonneerd op @{{username}}",
+    "Unsubscribed": "Afgemeld voor @{{username}}",
     "addedyoutoagroup": " heeft je toegevoegd aan een groep.",
     "addedyoutofavourites": " heeft je toegevoegd aan favorieten.",
     "bookmarkedyourpost": "bladwijzer uw bericht.",
@@ -466,6 +476,7 @@
     "notificationsremoved": "Meldingen verwijderd.",
     "openpost": "Open bericht",
     "recommended": " aanbevolen",
+    "recommendedusernametoyou": "aanbevolen @{{username}} aan u.",
     "repliedyourcomment": " heeft gereageerd op je reactie.",
     "sentyoudonation": " heeft u een donatie gestuurd.",
     "sentyouprivatemessage": " heeft u een privébericht gestuurd.",
@@ -731,7 +742,8 @@
     "willsendyousms": "Ons systeem stuurt u nu een sms op",
     "youareverified": "U bent geverifieerd",
     "yourblocked": "Je geblokkeerde leden",
-    "yourpass": "Uw wachtwoord..."
+    "yourpass": "Uw wachtwoord...",
+    "youtuberelink": "Er is een fout opgetreden bij het valideren van het eigendom van het gekoppelde YouTube-kanaal. Koppel je kanaal opnieuw om je YouTube-uploads te blijven plaatsen. Dank je."
   },
   "timeago": {
     "1hourago": "1 uur geleden",

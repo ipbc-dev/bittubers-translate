@@ -1,6 +1,8 @@
 {
   "banner": {
     "Infractiontype": "違反の種類",
+    "Reportpost": "レポート投稿",
+    "Viewprofile": "プロフィールを見る",
     "ban": "禁止",
     "banmssg": "ユーザーの禁止（管理者）",
     "bannednologinmssg": "BitTubeサイトでログインまたはアクションを実行できなくなります。",
@@ -24,8 +26,10 @@
     "message": "メッセージ",
     "nopostshared": "誰も投稿を共有していません",
     "nopostssharedyet": "投稿はまだ共有されていません",
-    "report": "レポートユーザー",
-    "reportdesc": "レポートの説明を入力してください",
+    "report": "報告する",
+    "reportdesc": "レポートの説明を入力します。",
+    "reportdesctimestamp": "レポートの説明を入力します。該当する場合はタイムスタンプを含めます。",
+    "reportuser": "レポートユーザー",
     "rotate": "回転：",
     "rotateleft": "左に回転",
     "rotateright": "右に回る",
@@ -130,6 +134,7 @@
     "Addemojis": "絵文字を追加",
     "Addsticker": "ステッカーを追加",
     "Addto": "追加...",
+    "All": "すべて",
     "Attachafile": "ファイルを添付する",
     "Done": "完了",
     "Livestreams": "ライブストリーム",
@@ -406,6 +411,7 @@
   "navigation": {
     "All posts": "すべての投稿",
     "Moderation": "節度",
+    "Moderationpolicy": "モデレートポリシー",
     "New": "新しい",
     "about": "約",
     "airtimeext": "放送時間延長",
@@ -446,6 +452,10 @@
     "whatisbt": "BitTubers.comとは何ですか？"
   },
   "notify": {
+    "Alreadysubscribed": "すでに@{{username}} に登録しています",
+    "Couldnotsubscribeto": "@{{username}} に登録できませんでした",
+    "Subscribedto": "@{{username}} を購読しました",
+    "Unsubscribed": "@{{username}}から退会しました",
     "addedyoutoagroup": " グループにあなたを追加しました。",
     "addedyoutofavourites": " お気に入りに追加しました。",
     "bookmarkedyourpost": "投稿をブックマークしました。",
@@ -466,6 +476,7 @@
     "notificationsremoved": "通知が削除されました。",
     "openpost": "投稿を開く",
     "recommended": " お勧め",
+    "recommendedusernametoyou": "@{{username}}をお勧めします。",
     "repliedyourcomment": " あなたのコメントに返信しました。",
     "sentyoudonation": " あなたに寄付を送りました。",
     "sentyouprivatemessage": " からプライベートメッセージが送信されました。",
@@ -731,7 +742,8 @@
     "willsendyousms": "システムからSMSが送信されます",
     "youareverified": "確認済み",
     "yourblocked": "ブロックされたメンバー",
-    "yourpass": "あなたのパスワード..."
+    "yourpass": "あなたのパスワード...",
+    "youtuberelink": "リンクされたYouTubeチャンネルの所有権の検証中にエラーが発生しました。 YouTubeアップロードの投稿を続けるには、チャンネルを再リンクしてください。ありがとうございました。"
   },
   "timeago": {
     "1hourago": "1時間前",
