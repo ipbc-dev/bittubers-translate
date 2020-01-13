@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Svi postovi",
+    "Images": "slike",
     "Moderation": "Umjerenost",
     "Moderationpolicy": "Politika moderiranja",
     "New": "Novi",
+    "Videos": "Video",
     "about": "Oko",
     "airtimeext": "Produženje zračnog vremena",
     "airtimehist": "AirTime: kratka povijest",

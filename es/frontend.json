@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Todas las publicaciones",
+    "Images": "Imágenes",
     "Moderation": "Moderación",
     "Moderationpolicy": "Política de moderación",
     "New": "Nuevo",
+    "Videos": "Videos",
     "about": "Acerca de",
     "airtimeext": "Extensión de tiempo aire",
     "airtimehist": "AirTime: una breve historia",

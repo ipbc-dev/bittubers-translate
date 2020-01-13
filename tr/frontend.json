@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Tüm gönderiler",
+    "Images": "Görüntüler",
     "Moderation": "ılımlılık",
     "Moderationpolicy": "Denetim politikası",
     "New": "Yeni",
+    "Videos": "Videolar",
     "about": "hakkında",
     "airtimeext": "Yayın süresi uzatma",
     "airtimehist": "AirTime: kısa bir tarihçe",

@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "എല്ലാ പോസ്റ്റുകളും",
+    "Images": "ചിത്രങ്ങൾ",
     "Moderation": "മോഡറേഷൻ",
     "Moderationpolicy": "മോഡറേഷൻ നയം",
     "New": "പുതിയത്",
+    "Videos": "വീഡിയോകൾ",
     "about": "കുറിച്ച്",
     "airtimeext": "പ്രക്ഷേപണ വിപുലീകരണം",
     "airtimehist": "എയർടൈം: ഒരു ഹ്രസ്വ ചരിത്രം",

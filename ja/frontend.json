@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "すべての投稿",
+    "Images": "画像",
     "Moderation": "節度",
     "Moderationpolicy": "モデレートポリシー",
     "New": "新しい",
+    "Videos": "動画",
     "about": "約",
     "airtimeext": "放送時間延長",
     "airtimehist": "AirTime：短い歴史",

@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Alle indlæg",
+    "Images": "Billeder",
     "Moderation": "Moderation",
     "Moderationpolicy": "Moderationspolitik",
     "New": "Ny",
+    "Videos": "Videoer",
     "about": "Om",
     "airtimeext": "Udvidelse af lufttid",
     "airtimehist": "AirTime: en kort historie",

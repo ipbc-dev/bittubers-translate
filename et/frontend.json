@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Kõik postitused",
+    "Images": "Pildid",
     "Moderation": "Mõõdukus",
     "Moderationpolicy": "Modereerimispoliitika",
     "New": "Uus",
+    "Videos": "Videod",
     "about": "Umbes",
     "airtimeext": "Eetriaja pikendamine",
     "airtimehist": "AirTime: lühike ajalugu",

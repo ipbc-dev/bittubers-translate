@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "ყველა შეტყობინება",
+    "Images": "სურათები",
     "Moderation": "ზომიერება",
     "Moderationpolicy": "ზომიერების პოლიტიკა",
     "New": "ახალი",
+    "Videos": "ვიდეოებს",
     "about": "შესახებ",
     "airtimeext": "საეთერო დროის გახანგრძლივება",
     "airtimehist": "AirTime: მოკლე ისტორია",

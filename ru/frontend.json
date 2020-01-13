@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Все сообщения",
+    "Images": "Картинки",
     "Moderation": "Умеренность",
     "Moderationpolicy": "Политика модерации",
     "New": "новый",
+    "Videos": "Видео",
     "about": "О Нас",
     "airtimeext": "Airtime расширение",
     "airtimehist": "AirTime: краткая история",

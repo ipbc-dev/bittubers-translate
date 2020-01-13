@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Visas ziņas",
+    "Images": "Attēli",
     "Moderation": "Mērenība",
     "Moderationpolicy": "Mērenības politika",
     "New": "Jauns",
+    "Videos": "Video",
     "about": "Par",
     "airtimeext": "Ētera laika pagarinājums",
     "airtimehist": "AirTime: īsa vēsture",

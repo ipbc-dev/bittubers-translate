@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Усі повідомлення",
+    "Images": "Зображення",
     "Moderation": "Помірність",
     "Moderationpolicy": "Політика модерації",
     "New": "Нові",
+    "Videos": "Відео",
     "about": "Про",
     "airtimeext": "Подовження ефірного часу",
     "airtimehist": "AirTime: коротка історія",

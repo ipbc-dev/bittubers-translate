@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "সমস্ত পোস্ট",
+    "Images": "চিত্র",
     "Moderation": "সংযম",
     "Moderationpolicy": "সংযোজন নীতি",
     "New": "নতুন",
+    "Videos": "ভিডিও",
     "about": "সম্পর্কিত",
     "airtimeext": "এয়ারটাইম এক্সটেনশন",
     "airtimehist": "এয়ারটাইম: একটি সংক্ষিপ্ত ইতিহাস",

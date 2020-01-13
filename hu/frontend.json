@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Összes üzenet",
+    "Images": "képek",
     "Moderation": "mérséklet",
     "Moderationpolicy": "Moderációs politika",
     "New": "Új",
+    "Videos": "Videók",
     "about": "Ról ről",
     "airtimeext": "Működési idő kiterjesztés",
     "airtimehist": "AirTime: rövid történelem",

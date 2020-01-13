@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "सभी पद",
+    "Images": "इमेजिस",
     "Moderation": "संयम",
     "Moderationpolicy": "मॉडरेशन पॉलिसी",
     "New": "नया",
+    "Videos": "वीडियो",
     "about": "के बारे में",
     "airtimeext": "एयरटाइम विस्तार",
     "airtimehist": "एयरटाइम: एक छोटा इतिहास",

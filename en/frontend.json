@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "All posts",
+    "Images": "Images",
     "Moderation": "Moderation",
     "Moderationpolicy": "Moderation policy",
     "New": "New",
+    "Videos": "Videos",
     "about": "About",
     "airtimeext": "Airtime extension",
     "airtimehist": "AirTime: a short history",

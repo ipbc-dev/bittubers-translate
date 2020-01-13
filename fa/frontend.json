@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "همه پست ها",
+    "Images": "تصاویر",
     "Moderation": "اعتدال",
     "Moderationpolicy": "سیاست تعدیل",
     "New": "جدید",
+    "Videos": "فیلم های",
     "about": "در باره",
     "airtimeext": "پسوند زمان پخش",
     "airtimehist": "AirTime: یک تاریخچه کوتاه",

@@ -410,9 +410,11 @@
   },
   "navigation": {
     "All posts": "Kaikki viestit",
+    "Images": "kuvat",
     "Moderation": "maltillisuus",
     "Moderationpolicy": "Valvontakäytäntö",
     "New": "Uusi",
+    "Videos": "Videot",
     "about": "Noin",
     "airtimeext": "Airtime jatko",
     "airtimehist": "AirTime: lyhyt historia",
