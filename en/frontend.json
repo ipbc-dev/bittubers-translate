@@ -230,7 +230,7 @@
     "replytocomment": "Reply to comment",
     "revision": "Revision",
     "save": "Save",
-    "searchbt": "Search BitTubers.com",
+    "searchbt": "Search in 'BitTube.tv'",
     "select": "Select",
     "settings": "Settings",
     "share": "Share",
@@ -451,7 +451,7 @@
     "users": "Users",
     "videos": "Videos",
     "welcome": "Welcome",
-    "whatisbt": "What is BitTubers.com?"
+    "whatisbt": "What is 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Already subscribed to @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "connection",
     "connections": "Connections",
     "followers": "Followers",
-    "followersyoumightknow": "followers you might know",
+    "followersyoumightknow": "subscribers you might know",
     "followeryoumightknow": "follower you might know",
     "followings": "followings",
     "joined": "Joined",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Recommended - Videos",
     "refsystem": "Referral system",
     "selectacnnttypeis": "Select your account type, currently it's",
-    "selecthome": "Select your default home page when login in to BitTubers.com.",
+    "selecthome": "Select your default home page when login in to 'BitTube.tv'",
     "selectnotysettings": " Select your notification settings",
-    "selecttheme": "Select your BitTubers.com default theme.",
+    "selecttheme": "Select your 'BitTube.tv' default theme.",
     "settings": "Settings",
     "showaudience": "Show audience",
     "showconnections": "Show connections",

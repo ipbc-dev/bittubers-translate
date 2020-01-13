@@ -230,7 +230,7 @@
     "replytocomment": "Responder ao comentario",
     "revision": "Revisión",
     "save": "Gardar",
-    "searchbt": "Busca en BitTubers.com",
+    "searchbt": "Busca en \"BitTube.tv\"",
     "select": "Seleccione",
     "settings": "Configuración",
     "share": "Compartir",
@@ -451,7 +451,7 @@
     "users": "Usuarios",
     "videos": "Vídeos",
     "welcome": "Benvido",
-    "whatisbt": "Que é BitTubers.com?"
+    "whatisbt": "Que é 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Xa subscribiuse a @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "conexión",
     "connections": "Conexións",
     "followers": "Seguidores",
-    "followersyoumightknow": "seguidores que poida coñecer",
+    "followersyoumightknow": "subscritores que poida coñecer",
     "followeryoumightknow": "seguidor que pode saber",
     "followings": "seguimentos",
     "joined": "Uniuse",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Recomendable - Vídeos",
     "refsystem": "Sistema de derivación",
     "selectacnnttypeis": "Selecciona o teu tipo de conta, actualmente é",
-    "selecthome": "Seleccione a súa páxina de inicio predeterminada ao iniciar sesión en BitTubers.com.",
+    "selecthome": "Seleccione a súa páxina de inicio predeterminada cando inicie sesión en \"BitTube.tv\"",
     "selectnotysettings": " Seleccione a súa configuración de notificación",
-    "selecttheme": "Seleccione o tema predeterminado de BitTubers.com.",
+    "selecttheme": "Seleccione o tema predeterminado de \"BitTube.tv\".",
     "settings": "Configuración",
     "showaudience": "Espectáculo de audiencia",
     "showconnections": "Amosa conexións",

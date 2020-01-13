@@ -230,7 +230,7 @@
     "replytocomment": "వ్యాఖ్యకు ప్రత్యుత్తరం ఇవ్వండి",
     "revision": "పునర్విమర్శ",
     "save": "సేవ్",
-    "searchbt": "BitTubers.com లో శోధించండి",
+    "searchbt": "'BitTube.tv' లో శోధించండి",
     "select": "ఎంచుకోండి",
     "settings": "సెట్టింగులు",
     "share": "Share",
@@ -451,7 +451,7 @@
     "users": "వినియోగదారులు",
     "videos": "వీడియోలు",
     "welcome": "స్వాగతం",
-    "whatisbt": "BitTubers.com అంటే ఏమిటి?"
+    "whatisbt": "'BitTube.tv' అంటే ఏమిటి?"
   },
   "notify": {
     "Alreadysubscribed": "ఇప్పటికే @{{username}} to కు సభ్యత్వాన్ని పొందారు",
@@ -617,7 +617,7 @@
     "connection": "కనెక్షన్",
     "connections": "కనెక్షన్లు",
     "followers": "అనుచరులు",
-    "followersyoumightknow": "మీకు తెలిసిన అనుచరులు",
+    "followersyoumightknow": "మీకు తెలిసిన చందాదారులు",
     "followeryoumightknow": "అనుచరుడు మీకు తెలిసి ఉండవచ్చు",
     "followings": "అనుసరణలని",
     "joined": "చేరారు",
@@ -717,9 +717,9 @@
     "recommendedvideo": "సిఫార్సు చేయబడింది - వీడియోలు",
     "refsystem": "రెఫరల్ సిస్టమ్",
     "selectacnnttypeis": "మీ ఖాతా రకాన్ని ఎంచుకోండి, ప్రస్తుతం ఇది ఉంది",
-    "selecthome": "BitTubers.com కు లాగిన్ అయినప్పుడు మీ డిఫాల్ట్ హోమ్ పేజీని ఎంచుకోండి.",
+    "selecthome": "'BitTube.tv' కు లాగిన్ అయినప్పుడు మీ డిఫాల్ట్ హోమ్ పేజీని ఎంచుకోండి",
     "selectnotysettings": " మీ నోటిఫికేషన్ సెట్టింగులను ఎంచుకోండి",
-    "selecttheme": "మీ BitTubers.com డిఫాల్ట్ థీమ్‌ను ఎంచుకోండి.",
+    "selecttheme": "మీ 'BitTube.tv' డిఫాల్ట్ థీమ్‌ను ఎంచుకోండి.",
     "settings": "సెట్టింగులు",
     "showaudience": "ప్రేక్షకులను చూపించు",
     "showconnections": "కనెక్షన్లను చూపించు",

@@ -230,7 +230,7 @@
     "replytocomment": "Απάντηση στο σχόλιο",
     "revision": "Αναθεώρηση",
     "save": "Σώσει",
-    "searchbt": "Αναζήτηση στο BitTubers.com",
+    "searchbt": "Αναζήτηση στο 'BitTube.tv'",
     "select": "Επιλέγω",
     "settings": "Ρυθμίσεις",
     "share": "Μερίδιο",
@@ -451,7 +451,7 @@
     "users": "Χρήστες",
     "videos": "Βίντεο",
     "welcome": "καλως ΗΡΘΑΤΕ",
-    "whatisbt": "Τι είναι το BitTubers.com;"
+    "whatisbt": "Τι είναι το BitTube.tv;"
   },
   "notify": {
     "Alreadysubscribed": "Ήδη έχετε εγγραφεί στο @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "σύνδεση",
     "connections": "Συνδέσεις",
     "followers": "Παρακολουθήτες",
-    "followersyoumightknow": "οπαδούς που ίσως γνωρίζετε",
+    "followersyoumightknow": "συνδρομητές που ίσως γνωρίζετε",
     "followeryoumightknow": "οπαδός που ίσως γνωρίζετε",
     "followings": "ακολουθούν",
     "joined": "Εντάχθηκαν",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Συνιστώμενη - Βίντεο",
     "refsystem": "Σύστημα παραπομπής",
     "selectacnnttypeis": "Επιλέξτε τον τύπο λογαριασμού σας, αυτή τη στιγμή είναι",
-    "selecthome": "Επιλέξτε την προεπιλεγμένη αρχική σελίδα όταν συνδεθείτε στο BitTubers.com.",
+    "selecthome": "Επιλέξτε την προεπιλεγμένη αρχική σελίδα όταν συνδεθείτε στο 'BitTube.tv'",
     "selectnotysettings": " Επιλέξτε τις ρυθμίσεις ειδοποιήσεων",
-    "selecttheme": "Επιλέξτε το προεπιλεγμένο θέμα BitTubers.com.",
+    "selecttheme": "Επιλέξτε το προεπιλεγμένο θέμα \"BitTube.tv\".",
     "settings": "Ρυθμίσεις",
     "showaudience": "Εμφάνιση κοινού",
     "showconnections": "Εμφάνιση συνδέσεων",

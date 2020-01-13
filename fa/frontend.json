@@ -230,7 +230,7 @@
     "replytocomment": "پاسخ به نظر",
     "revision": "تجدید نظر",
     "save": "صرفه جویی",
-    "searchbt": "جستجوی BitTubers.com",
+    "searchbt": "جستجو در \"BitTube.tv\"",
     "select": "انتخاب کنید",
     "settings": "تنظیمات",
     "share": "اشتراک گذاری",
@@ -451,7 +451,7 @@
     "users": "کاربران",
     "videos": "فیلم های",
     "welcome": "خوش آمدی",
-    "whatisbt": "BitTubers.com چیست؟"
+    "whatisbt": "'BitTube.tv' چیست؟"
   },
   "notify": {
     "Alreadysubscribed": "قبلاً در @{{username}} subs مشترک شده اید",
@@ -617,7 +617,7 @@
     "connection": "ارتباط",
     "connections": "اتصالات",
     "followers": "دنبال کنندگان",
-    "followersyoumightknow": "پیروان شما ممکن است آنها را بشناسید",
+    "followersyoumightknow": "مشترکانی که ممکن است آنها را بشناسید",
     "followeryoumightknow": "پیرو شما ممکن است می دانید",
     "followings": "دنباله",
     "joined": "پیوست",
@@ -717,9 +717,9 @@
     "recommendedvideo": "توصیه می شود - فیلم ها",
     "refsystem": "سیستم ارجاع",
     "selectacnnttypeis": "نوع حساب خود را انتخاب کنید ، در حال حاضر اینگونه است",
-    "selecthome": "هنگام ورود به BitTubers.com ، صفحه اصلی پیش فرض خود را انتخاب کنید.",
+    "selecthome": "هنگام ورود به \"BitTube.tv\" صفحه اصلی پیش فرض خود را انتخاب کنید",
     "selectnotysettings": " تنظیمات اعلان خود را انتخاب کنید",
-    "selecttheme": "طرح پیش فرض BitTubers.com خود را انتخاب کنید.",
+    "selecttheme": "طرح پیش فرض \"BitTube.tv\" خود را انتخاب کنید.",
     "settings": "تنظیمات",
     "showaudience": "نمایش مخاطب",
     "showconnections": "نمایش اتصالات",

@@ -230,7 +230,7 @@
     "replytocomment": "الرد على التعليق",
     "revision": "مراجعة",
     "save": "حفظ",
-    "searchbt": "بحث BitTubers.com",
+    "searchbt": "البحث في 'BitTube.tv'",
     "select": "تحديد",
     "settings": "الإعدادات",
     "share": "شارك",
@@ -451,7 +451,7 @@
     "users": "المستخدمين",
     "videos": "أشرطة فيديو",
     "welcome": "أهلا بك",
-    "whatisbt": "ما هو موقع BitTubers.com؟"
+    "whatisbt": "ما هو \"BitTube.tv\"؟"
   },
   "notify": {
     "Alreadysubscribed": "مشترك بالفعل في @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "صلة",
     "connections": "روابط",
     "followers": "متابعون",
-    "followersyoumightknow": "أتباع قد تعرف",
+    "followersyoumightknow": "المشتركين قد تعرف",
     "followeryoumightknow": "تابع قد تعرفه",
     "followings": "يلي",
     "joined": "انضم",
@@ -717,9 +717,9 @@
     "recommendedvideo": "الموصى بها - فيديو",
     "refsystem": "نظام الإحالة",
     "selectacnnttypeis": "اختر نوع حسابك ، حاليا",
-    "selecthome": "حدد صفحتك الرئيسية الافتراضية عند تسجيل الدخول إلى BitTubers.com.",
+    "selecthome": "حدد صفحتك الرئيسية الافتراضية عند تسجيل الدخول إلى \"BitTube.tv\"",
     "selectnotysettings": " حدد إعدادات الإشعارات",
-    "selecttheme": "حدد السمة الافتراضية لـ BitTubers.com.",
+    "selecttheme": "حدد السمة الافتراضية \"BitTube.tv\".",
     "settings": "الإعدادات",
     "showaudience": "إظهار الجمهور",
     "showconnections": "إظهار الاتصالات",

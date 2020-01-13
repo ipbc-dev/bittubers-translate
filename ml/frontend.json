@@ -230,7 +230,7 @@
     "replytocomment": "അഭിപ്രായത്തിന് മറുപടി",
     "revision": "പുനരവലോകനം",
     "save": "രക്ഷിക്കും",
-    "searchbt": "BitTubers.com തിരയുക",
+    "searchbt": "'BitTube.tv' ൽ തിരയുക",
     "select": "തിരഞ്ഞെടുക്കുക",
     "settings": "ക്രമീകരണങ്ങൾ",
     "share": "പങ്കിടുക",
@@ -451,7 +451,7 @@
     "users": "ഉപയോക്താക്കൾ",
     "videos": "വീഡിയോകൾ",
     "welcome": "സ്വാഗതം",
-    "whatisbt": "എന്താണ് BitTubers.com?"
+    "whatisbt": "എന്താണ് 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "ഇതിനകം @{{username}} to സബ്‌സ്‌ക്രൈബുചെയ്‌തു",
@@ -617,7 +617,7 @@
     "connection": "കണക്ഷൻ",
     "connections": "കണക്ഷനുകൾ",
     "followers": "അനുയായികൾ",
-    "followersyoumightknow": "നിങ്ങൾക്ക് അറിയാവുന്ന അനുയായികൾ",
+    "followersyoumightknow": "നിങ്ങൾക്ക് അറിയാവുന്ന വരിക്കാർ",
     "followeryoumightknow": "നിങ്ങൾക്ക് അറിയാവുന്ന അനുയായി",
     "followings": "പിന്തുടരലുകൾ",
     "joined": "ചേർന്നു",
@@ -717,9 +717,9 @@
     "recommendedvideo": "ശുപാർശചെയ്യുന്നു - വീഡിയോകൾ",
     "refsystem": "റഫറൽ സിസ്റ്റം",
     "selectacnnttypeis": "നിങ്ങളുടെ അക്കൗണ്ട് തരം തിരഞ്ഞെടുക്കുക, നിലവിൽ അത്",
-    "selecthome": "BitTubers.com- ലേക്ക് ലോഗിൻ ചെയ്യുമ്പോൾ നിങ്ങളുടെ സ്ഥിരസ്ഥിതി ഹോം പേജ് തിരഞ്ഞെടുക്കുക.",
+    "selecthome": "'BitTube.tv' ലേക്ക് പ്രവേശിക്കുമ്പോൾ നിങ്ങളുടെ സ്ഥിരസ്ഥിതി ഹോം പേജ് തിരഞ്ഞെടുക്കുക",
     "selectnotysettings": " നിങ്ങളുടെ അറിയിപ്പ് ക്രമീകരണങ്ങൾ തിരഞ്ഞെടുക്കുക",
-    "selecttheme": "നിങ്ങളുടെ BitTubers.com സ്ഥിരസ്ഥിതി തീം തിരഞ്ഞെടുക്കുക.",
+    "selecttheme": "നിങ്ങളുടെ 'BitTube.tv' സ്ഥിരസ്ഥിതി തീം തിരഞ്ഞെടുക്കുക.",
     "settings": "ക്രമീകരണങ്ങൾ",
     "showaudience": "പ്രേക്ഷകരെ കാണിക്കുക",
     "showconnections": "കണക്ഷനുകൾ കാണിക്കുക",

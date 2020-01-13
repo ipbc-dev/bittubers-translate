@@ -230,7 +230,7 @@
     "replytocomment": "Trả lời bình luận",
     "revision": "Sửa đổi",
     "save": "Tiết kiệm",
-    "searchbt": "Tìm kiếm BitTubers.com",
+    "searchbt": "Tìm kiếm trong 'BitTube.tv'",
     "select": "Lựa chọn",
     "settings": "Cài đặt",
     "share": "Chia sẻ",
@@ -451,7 +451,7 @@
     "users": "Người dùng",
     "videos": "Video",
     "welcome": "Chào mừng bạn",
-    "whatisbt": "BitTubers.com là gì?"
+    "whatisbt": "'BitTube.tv' là gì?"
   },
   "notify": {
     "Alreadysubscribed": "Đã đăng ký @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "kết nối",
     "connections": "Kết nối",
     "followers": "Người theo dõi",
-    "followersyoumightknow": "những người theo dõi bạn có thể biết",
+    "followersyoumightknow": "thuê bao bạn có thể biết",
     "followeryoumightknow": "người theo dõi bạn có thể biết",
     "followings": "theo dõi",
     "joined": "Đã tham gia",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Video được Đề xuất",
     "refsystem": "Hệ thống chuyển tuyến",
     "selectacnnttypeis": "Chọn loại tài khoản của bạn, hiện tại nó là",
-    "selecthome": "Chọn trang chủ mặc định của bạn khi đăng nhập vào BitTubers.com.",
+    "selecthome": "Chọn trang chủ mặc định của bạn khi đăng nhập vào 'BitTube.tv'",
     "selectnotysettings": " Chọn cài đặt thông báo của bạn",
-    "selecttheme": "Chọn chủ đề mặc định BitTubers.com của bạn.",
+    "selecttheme": "Chọn chủ đề mặc định 'BitTube.tv' của bạn.",
     "settings": "Cài đặt",
     "showaudience": "Cho khán giả xem",
     "showconnections": "Hiển thị kết nối",

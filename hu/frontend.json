@@ -230,7 +230,7 @@
     "replytocomment": "Válasz a hozzászólásra",
     "revision": "Felülvizsgálat",
     "save": "Mentés",
-    "searchbt": "Keresés a BitTubers.com webhelyen",
+    "searchbt": "Keresés a 'BitTube.tv' -ban",
     "select": "választ",
     "settings": "Beállítások",
     "share": "Ossza meg",
@@ -451,7 +451,7 @@
     "users": "felhasználók",
     "videos": "Videók",
     "welcome": "Üdvözöljük",
-    "whatisbt": "Mi a BitTubers.com?"
+    "whatisbt": "Mi az a „BitTube.tv”?"
   },
   "notify": {
     "Alreadysubscribed": "Már feliratkozott a @{{username}} oldalra",
@@ -617,7 +617,7 @@
     "connection": "kapcsolat",
     "connections": "kapcsolatok",
     "followers": "Követő",
-    "followersyoumightknow": "követői, akiket talán ismersz",
+    "followersyoumightknow": "feliratkozók, akiket talán ismer",
     "followeryoumightknow": "követõje lehet, hogy ismeri",
     "followings": "következőket",
     "joined": "csatlakozott",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Ajánlott - videók",
     "refsystem": "Ajánló rendszer",
     "selectacnnttypeis": "Válassza ki a fiók típusát, jelenleg az",
-    "selecthome": "Válassza ki az alapértelmezett kezdőlapot, amikor bejelentkezik a BitTubers.com webhelyre.",
+    "selecthome": "Válassza ki az alapértelmezett kezdőlapot, amikor bejelentkezik a 'BitTube.tv'",
     "selectnotysettings": " Válassza ki az értesítési beállításokat",
-    "selecttheme": "Válassza ki a BitTubers.com alapértelmezett témáját.",
+    "selecttheme": "Válassza ki a 'BitTube.tv' alapértelmezett témáját.",
     "settings": "Beállítások",
     "showaudience": "Mutasd a közönséget",
     "showconnections": "Mutassa a kapcsolatokat",

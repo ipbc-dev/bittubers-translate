@@ -230,7 +230,7 @@
     "replytocomment": "Atbildi uz komentāru",
     "revision": "Pārskatīšana",
     "save": "Saglabāt",
-    "searchbt": "Meklējiet vietnē BitTubers.com",
+    "searchbt": "Meklēt vietnē “BitTube.tv”",
     "select": "Izvēlieties",
     "settings": "Iestatījumi",
     "share": "Dalies",
@@ -451,7 +451,7 @@
     "users": "Lietotāji",
     "videos": "Video",
     "welcome": "Laipni lūdzam",
-    "whatisbt": "Kas ir BitTubers.com?"
+    "whatisbt": "Kas ir “BitTube.tv”?"
   },
   "notify": {
     "Alreadysubscribed": "Jau ir abonējis vietni @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "savienojums",
     "connections": "Savienojumi",
     "followers": "Sekotāji",
-    "followersyoumightknow": "sekotāji, kurus jūs varētu zināt",
+    "followersyoumightknow": "abonenti, kurus jūs varētu zināt",
     "followeryoumightknow": "sekotājs, kuru jūs varētu zināt",
     "followings": "sekošana",
     "joined": "Pievienojās",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Ieteicamais - video",
     "refsystem": "Nodošanas sistēma",
     "selectacnnttypeis": "Atlasiet sava konta veidu, šobrīd tas ir",
-    "selecthome": "Piesakoties vietnē BitTubers.com, atlasiet noklusējuma sākumlapu.",
+    "selecthome": "Piesakoties “BitTube.tv”, atlasiet noklusējuma sākumlapu.",
     "selectnotysettings": " Atlasiet paziņojuma iestatījumus",
-    "selecttheme": "Atlasiet savu BitTubers.com noklusējuma motīvu.",
+    "selecttheme": "Atlasiet savu “BitTube.tv” noklusējuma motīvu.",
     "settings": "Iestatījumi",
     "showaudience": "Rādīt auditoriju",
     "showconnections": "Rādīt savienojumus",

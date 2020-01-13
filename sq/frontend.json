@@ -230,7 +230,7 @@
     "replytocomment": "Përgjigju për të komentuar",
     "revision": "rishikim",
     "save": "Save",
-    "searchbt": "Kërko BitTubers.com",
+    "searchbt": "Kërkoni në 'BitTube.tv'",
     "select": "zgjedh",
     "settings": "Cilësimet",
     "share": "pjesë",
@@ -451,7 +451,7 @@
     "users": "përdoruesit",
     "videos": "Videos",
     "welcome": "i mirëpritur",
-    "whatisbt": "Isfarë është BitTubers.com?"
+    "whatisbt": "Farë është 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Tashmë janë pajtuar në @ {ername emrin e përdoruesit}",
@@ -617,7 +617,7 @@
     "connection": "lidhje",
     "connections": "Lidhjet",
     "followers": "Friends",
-    "followersyoumightknow": "ndjekës që mund të njihni",
+    "followersyoumightknow": "pajtimtarët që mund të njihni",
     "followeryoumightknow": "ndjekës që mund ta njihni",
     "followings": "keto",
     "joined": "Regjistruar më",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Rekomanduar - Video",
     "refsystem": "Sistemi i referimit",
     "selectacnnttypeis": "Zgjidhni llojin e llogarisë tuaj, aktualisht është",
-    "selecthome": "Zgjidhni faqen fillestare tuaj origjinale kur hyni në BitTubers.com.",
+    "selecthome": "Zgjidhni faqen tuaj fillestare kur identifikohuni tek \"BitTube.tv\"",
     "selectnotysettings": " Zgjidhni cilësimet e njoftimit",
-    "selecttheme": "Zgjidhni temën tuaj parazgjedhore të BitTubers.com.",
+    "selecttheme": "Zgjidhni temën tuaj të paracaktuar 'BitTube.tv'.",
     "settings": "Cilësimet",
     "showaudience": "Trego audiencën",
     "showconnections": "Trego lidhjet",

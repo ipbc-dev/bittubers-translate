@@ -230,7 +230,7 @@
     "replytocomment": "Vasta kommentaarile",
     "revision": "Redaktsioon",
     "save": "Salvesta",
-    "searchbt": "Otsige BitTubers.com-ist",
+    "searchbt": "Otsing 'BitTube.tv'",
     "select": "Valige",
     "settings": "Seadistused",
     "share": "Jaga",
@@ -451,7 +451,7 @@
     "users": "Kasutajad",
     "videos": "Videod",
     "welcome": "Tere tulemast",
-    "whatisbt": "Mis on BitTubers.com?"
+    "whatisbt": "Mis on 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Juba tellinud saidi @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "ühendus",
     "connections": "Ühendused",
     "followers": "Jälgijad",
-    "followersyoumightknow": "järgijaid, keda võite teada",
+    "followersyoumightknow": "tellijad, keda võite teada",
     "followeryoumightknow": "järgija, keda võite teada",
     "followings": "järgud",
     "joined": "Liitunud",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Soovitatav - videod",
     "refsystem": "Soovitussüsteem",
     "selectacnnttypeis": "Valige oma konto tüüp, praegu see on",
-    "selecthome": "Valige BitTubers.com-i sisselogimisel oma vaikimisi avaleht.",
+    "selecthome": "Valige „BitTube.tv” sisselogimisel oma vaikimisi avaleht",
     "selectnotysettings": " Valige oma märguandeseaded",
-    "selecttheme": "Valige oma BitTubers.com vaikimisteema.",
+    "selecttheme": "Valige oma vaiketeema „BitTube.tv”.",
     "settings": "Seadistused",
     "showaudience": "Näita publikut",
     "showconnections": "Kuva ühendused",

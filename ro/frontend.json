@@ -230,7 +230,7 @@
     "replytocomment": "Răspundeți la comentarii",
     "revision": "Revizuire",
     "save": "Salvați",
-    "searchbt": "Căutați pe BitTubers.com",
+    "searchbt": "Căutați în „BitTube.tv”",
     "select": "Selectați",
     "settings": "Setări",
     "share": "Acțiune",
@@ -451,7 +451,7 @@
     "users": "Utilizatori",
     "videos": "Videoclipuri",
     "welcome": "Bine ati venit",
-    "whatisbt": "Ce este BitTubers.com?"
+    "whatisbt": "Ce este „BitTube.tv”?"
   },
   "notify": {
     "Alreadysubscribed": "Ați abonat deja la @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "conexiune",
     "connections": "Conexiuni",
     "followers": "Urmaritori",
-    "followersyoumightknow": "urmăritori pe care i-ai putea cunoaște",
+    "followersyoumightknow": "abonați pe care i-ar putea ști",
     "followeryoumightknow": "adeptul pe care l-ai putea cunoaște",
     "followings": "adepți",
     "joined": "Alăturat",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Recomandat - Videoclipuri",
     "refsystem": "Sistem de trimitere",
     "selectacnnttypeis": "Selectați tipul de cont, în prezent este",
-    "selecthome": "Selectați pagina dvs. de pornire implicită atunci când vă conectați la BitTubers.com.",
+    "selecthome": "Selectați pagina dvs. de pornire implicită atunci când vă conectați la „BitTube.tv”",
     "selectnotysettings": " Selectați setările de notificare",
-    "selecttheme": "Selectați tema dvs. implicită BitTubers.com.",
+    "selecttheme": "Selectați tema implicită „BitTube.tv”.",
     "settings": "Setări",
     "showaudience": "Show publicului",
     "showconnections": "Afișați conexiuni",

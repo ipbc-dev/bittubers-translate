@@ -230,7 +230,7 @@
     "replytocomment": "Respon al comentari",
     "revision": "Revisió",
     "save": "Desa",
-    "searchbt": "Cerca a BitTubers.com",
+    "searchbt": "Cerca a \"BitTube.tv\"",
     "select": "Selecciona",
     "settings": "Configuració",
     "share": "Compartir",
@@ -451,7 +451,7 @@
     "users": "Usuaris",
     "videos": "Vídeos",
     "welcome": "Benvingut",
-    "whatisbt": "Què és BitTubers.com?"
+    "whatisbt": "Què és \"BitTube.tv\"?"
   },
   "notify": {
     "Alreadysubscribed": "Ja està subscrit a @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "connexió",
     "connections": "Connexions",
     "followers": "Seguidors",
-    "followersyoumightknow": "seguidors que podeu conèixer",
+    "followersyoumightknow": "subscriptors que podríeu conèixer",
     "followeryoumightknow": "seguidor que podríeu conèixer",
     "followings": "seguiments",
     "joined": "S'ha unit",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Recomanat: vídeos",
     "refsystem": "Sistema de derivació",
     "selectacnnttypeis": "Seleccioneu el vostre tipus de compte, actualment és",
-    "selecthome": "Seleccioneu la vostra pàgina d'inici per defecte quan inicieu la sessió a BitTubers.com.",
+    "selecthome": "Seleccioneu la vostra pàgina d'inici per defecte quan inicieu la sessió a \"BitTube.tv\"",
     "selectnotysettings": " Seleccioneu la vostra configuració de notificació",
-    "selecttheme": "Seleccioneu el tema predeterminat de BitTubers.com.",
+    "selecttheme": "Seleccioneu el tema predeterminat de \"BitTube.tv\".",
     "settings": "Configuració",
     "showaudience": "Espectacle de públic",
     "showconnections": "Mostra connexions",

@@ -230,7 +230,7 @@
     "replytocomment": "Odgovori na komentar",
     "revision": "Revizija",
     "save": "Shrani",
-    "searchbt": "Poiščite BitTubers.com",
+    "searchbt": "Išči v 'BitTube.tv'",
     "select": "Izberite",
     "settings": "Nastavitve",
     "share": "Deliti",
@@ -451,7 +451,7 @@
     "users": "Uporabniki",
     "videos": "Videoposnetki",
     "welcome": "Dobrodošli",
-    "whatisbt": "Kaj je BitTubers.com?"
+    "whatisbt": "Kaj je \"BitTube.tv\"?"
   },
   "notify": {
     "Alreadysubscribed": "Že naročeni na @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "povezava",
     "connections": "Povezave",
     "followers": "Spremljevalci",
-    "followersyoumightknow": "privržencev, ki jih morda poznate",
+    "followersyoumightknow": "naročnike, ki jih morda poznate",
     "followeryoumightknow": "privrženec, ki ga morda poznate",
     "followings": "sledi",
     "joined": "Pridružen",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Priporočljivo - videoposnetki",
     "refsystem": "Sistem napotitve",
     "selectacnnttypeis": "Izberite vrsto računa, trenutno je",
-    "selecthome": "Ko se prijavite na BitTubers.com, izberite privzeto domačo stran.",
+    "selecthome": "Izberite privzeto domačo stran, ko se prijavite v »BitTube.tv«",
     "selectnotysettings": " Izberite nastavitve obvestil",
-    "selecttheme": "Izberite privzeto temo BitTubers.com.",
+    "selecttheme": "Izberite privzeto temo »BitTube.tv«.",
     "settings": "Nastavitve",
     "showaudience": "Pokaži občinstvo",
     "showconnections": "Pokaži povezave",

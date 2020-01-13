@@ -230,7 +230,7 @@
     "replytocomment": "Відповісти на коментар",
     "revision": "Перегляд",
     "save": "Зберегти",
-    "searchbt": "Шукайте на BitTubers.com",
+    "searchbt": "Шукати у \"BitTube.tv\"",
     "select": "Виберіть",
     "settings": "Налаштування",
     "share": "Поділитися",
@@ -451,7 +451,7 @@
     "users": "Користувачі",
     "videos": "Відео",
     "welcome": "Ласкаво просимо",
-    "whatisbt": "Що таке BitTubers.com?"
+    "whatisbt": "Що таке \"BitTube.tv\"?"
   },
   "notify": {
     "Alreadysubscribed": "Уже підписалися на @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "з'єднання",
     "connections": "З'єднання",
     "followers": "Послідовники",
-    "followersyoumightknow": "послідовники, яких ви можете знати",
+    "followersyoumightknow": "абонентів, яких ви можете знати",
     "followeryoumightknow": "послідовник, якого ви можете знати",
     "followings": "наступні",
     "joined": "Приєднався",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Рекомендовано - Відео",
     "refsystem": "Реферальна система",
     "selectacnnttypeis": "Виберіть тип свого облікового запису, зараз він є",
-    "selecthome": "Виберіть домашню сторінку за замовчуванням під час входу на BitTubers.com.",
+    "selecthome": "Виберіть домашню сторінку за замовчуванням, коли увійдіть у \"BitTube.tv\"",
     "selectnotysettings": " Виберіть налаштування сповіщень",
-    "selecttheme": "Виберіть свою тему за замовчуванням BitTubers.com.",
+    "selecttheme": "Виберіть тему \"BitTube.tv\" за замовчуванням.",
     "settings": "Налаштування",
     "showaudience": "Показати аудиторію",
     "showconnections": "Показати з'єднання",

@@ -230,7 +230,7 @@
     "replytocomment": "Пікірге жауап беріңіз",
     "revision": "Ревизия",
     "save": "Сақтау",
-    "searchbt": "BitTubers.com сайтынан іздеңіз",
+    "searchbt": "«BitTube.tv» ішінен іздеу",
     "select": "Таңдаңыз",
     "settings": "Параметрлер",
     "share": "Бөлісу",
@@ -451,7 +451,7 @@
     "users": "Пайдаланушылар",
     "videos": "Бейнелер",
     "welcome": "Қош келдіңіз",
-    "whatisbt": "BitTubers.com дегеніміз не?"
+    "whatisbt": "'BitTube.tv' дегеніміз не?"
   },
   "notify": {
     "Alreadysubscribed": "@ {{Username}} бұрыннан жазылды",
@@ -617,7 +617,7 @@
     "connection": "қосылу",
     "connections": "Байланыстар",
     "followers": "Ізбасарлар",
-    "followersyoumightknow": "сіз білетін ізбасарлар",
+    "followersyoumightknow": "сіз білетін жазылушылар",
     "followeryoumightknow": "сіз білетін ізбасар",
     "followings": "нұсқаулар",
     "joined": "Қосылды",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Ұсынылған - Бейнелер",
     "refsystem": "Анықтама жүйесі",
     "selectacnnttypeis": "Тіркелгіңіздің түрін таңдаңыз, дәл қазір ол",
-    "selecthome": "BitTubers.com сайтына кіру кезінде әдепкі басты бетті таңдаңыз.",
+    "selecthome": "'BitTube.tv' сайтына кіру кезінде әдепкі басты бетті таңдаңыз",
     "selectnotysettings": " Хабарландыру параметрлерін таңдаңыз",
-    "selecttheme": "BitTubers.com әдепкі тақырыбын таңдаңыз.",
+    "selecttheme": "'BitTube.tv' әдепкі тақырыбын таңдаңыз.",
     "settings": "Параметрлер",
     "showaudience": "Көрермендерді көрсету",
     "showconnections": "Байланыстарды көрсету",

@@ -230,7 +230,7 @@
     "replytocomment": "Отговор на коментар",
     "revision": "ревизия",
     "save": "Запази",
-    "searchbt": "Търсене в BitTubers.com",
+    "searchbt": "Търсене в „BitTube.tv“",
     "select": "Изберете",
     "settings": "Настройки",
     "share": "Дял",
@@ -451,7 +451,7 @@
     "users": "Потребители",
     "videos": "Видео",
     "welcome": "Добре дошли",
-    "whatisbt": "Какво е BitTubers.com?"
+    "whatisbt": "Какво е „BitTube.tv“?"
   },
   "notify": {
     "Alreadysubscribed": "Вече сте абонирани за @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "Връзка",
     "connections": "Връзки",
     "followers": "последователи",
-    "followersyoumightknow": "последователи, които може би знаете",
+    "followersyoumightknow": "абонати, които може би знаете",
     "followeryoumightknow": "последовател, който може би знаете",
     "followings": "следените",
     "joined": "Присъединиха",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Препоръчани - Видеоклипове",
     "refsystem": "Реферална система",
     "selectacnnttypeis": "Изберете типа на акаунта си, в момента е",
-    "selecthome": "Изберете началната си страница по подразбиране, когато влезете в BitTubers.com.",
+    "selecthome": "Изберете началната си страница по подразбиране, когато влезете в „BitTube.tv“",
     "selectnotysettings": " Изберете настройките за известяване",
-    "selecttheme": "Изберете вашата тема по подразбиране BitTubers.com.",
+    "selecttheme": "Изберете вашата тема по подразбиране „BitTube.tv“.",
     "settings": "Настройки",
     "showaudience": "Показване на аудиторията",
     "showconnections": "Показване на връзки",

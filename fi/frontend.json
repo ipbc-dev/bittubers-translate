@@ -230,7 +230,7 @@
     "replytocomment": "Vastaa kommenttiin",
     "revision": "tarkistus",
     "save": "Tallentaa",
-    "searchbt": "Hae BitTubers.comista",
+    "searchbt": "Etsi 'BitTube.tv'",
     "select": "valita",
     "settings": "asetukset",
     "share": "Jaa",
@@ -451,7 +451,7 @@
     "users": "käyttäjät",
     "videos": "Videot",
     "welcome": "Tervetuloa",
-    "whatisbt": "Mikä on BitTubers.com?"
+    "whatisbt": "Mikä on 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Tilattu jo @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "yhteys",
     "connections": "liitännät",
     "followers": "seuraajaa",
-    "followersyoumightknow": "seuraajia, jotka saatat tietää",
+    "followersyoumightknow": "tilaajat, joista saatat tietää",
     "followeryoumightknow": "seuraaja, jonka saatat tietää",
     "followings": "followings",
     "joined": "liittyi",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Suositus - videot",
     "refsystem": "Viittausjärjestelmä",
     "selectacnnttypeis": "Valitse tilisi tyyppi, tällä hetkellä se on",
-    "selecthome": "Valitse oletussivusi, kun kirjaudut sisään BitTubers.com-sivustoon.",
+    "selecthome": "Valitse oletussivusi, kun kirjaudut sisään 'BitTube.tv'",
     "selectnotysettings": " Valitse ilmoitusasetuksesi",
-    "selecttheme": "Valitse BitTubers.com-oletusteema.",
+    "selecttheme": "Valitse 'BitTube.tv' oletusteema.",
     "settings": "asetukset",
     "showaudience": "Näytä yleisö",
     "showconnections": "Näytä yhteydet",

@@ -230,7 +230,7 @@
     "replytocomment": "टिप्पणीला प्रत्युत्तर द्या",
     "revision": "उजळणी",
     "save": "जतन करा",
-    "searchbt": "BitTubers.com शोधा",
+    "searchbt": "'BitTube.tv' मध्ये शोधा",
     "select": "निवडा",
     "settings": "सेटिंग्ज",
     "share": "सामायिक करा",
@@ -451,7 +451,7 @@
     "users": "वापरकर्ते",
     "videos": "व्हिडिओ",
     "welcome": "स्वागत आहे",
-    "whatisbt": "BitTubers.com म्हणजे काय?"
+    "whatisbt": "'BitTube.tv' म्हणजे काय?"
   },
   "notify": {
     "Alreadysubscribed": "आधीपासूनच @{{username}} to ची सदस्यता घेतली आहे",
@@ -617,7 +617,7 @@
     "connection": "कनेक्शन",
     "connections": "जोडणी",
     "followers": "अनुयायी",
-    "followersyoumightknow": "अनुयायी कदाचित आपणास ठाऊक असतील",
+    "followersyoumightknow": "आपण कदाचित ओळखत असलेले ग्राहक",
     "followeryoumightknow": "अनुयायी तुम्हाला माहिती असेल",
     "followings": "अनुसरण",
     "joined": "सामील झाले",
@@ -717,9 +717,9 @@
     "recommendedvideo": "शिफारस केलेले - व्हिडिओ",
     "refsystem": "रेफरल सिस्टम",
     "selectacnnttypeis": "आपला खाते प्रकार निवडा, सध्या तो आहे",
-    "selecthome": "BitTubers.com वर लॉग इन करताना आपले डीफॉल्ट मुख्यपृष्ठ निवडा.",
+    "selecthome": "'BitTube.tv' वर लॉग इन करताना आपले डीफॉल्ट मुख्यपृष्ठ निवडा",
     "selectnotysettings": " आपल्या सूचना सेटिंग्ज निवडा",
-    "selecttheme": "आपली BitTubers.com डीफॉल्ट थीम निवडा.",
+    "selecttheme": "आपली 'BitTube.tv' डीफॉल्ट थीम निवडा.",
     "settings": "सेटिंग्ज",
     "showaudience": "प्रेक्षक दर्शवा",
     "showconnections": "कनेक्शन दर्शवा",

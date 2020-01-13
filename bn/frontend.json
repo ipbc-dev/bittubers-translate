@@ -230,7 +230,7 @@
     "replytocomment": "মন্তব্যে জবাব দিন",
     "revision": "সংস্করণ",
     "save": "সংরক্ষণ করুন",
-    "searchbt": "বিটটিউবার্স.কম অনুসন্ধান করুন",
+    "searchbt": "'BitTube.tv' এ অনুসন্ধান করুন",
     "select": "নির্বাচন করা",
     "settings": "সেটিংস",
     "share": "ভাগ",
@@ -451,7 +451,7 @@
     "users": "ব্যবহারকারীরা",
     "videos": "ভিডিও",
     "welcome": "স্বাগত",
-    "whatisbt": "বিটটিউবার্স ডটকম কী?"
+    "whatisbt": "'BitTube.tv' কী?"
   },
   "notify": {
     "Alreadysubscribed": "ইতিমধ্যে @{{username}} to এ সাবস্ক্রাইব হয়েছে",
@@ -617,7 +617,7 @@
     "connection": "সংযোগ",
     "connections": "সংযোগ",
     "followers": "অনুসরণ",
-    "followersyoumightknow": "আপনি হয়ত জানেন",
+    "followersyoumightknow": "আপনি জানেন গ্রাহকরা",
     "followeryoumightknow": "আপনি জানেন যে অনুসরণকারী",
     "followings": "অনুগামী",
     "joined": "যোগ দিয়েছে",
@@ -717,9 +717,9 @@
     "recommendedvideo": "প্রস্তাবিত - ভিডিও",
     "refsystem": "রেফারাল সিস্টেম",
     "selectacnnttypeis": "আপনার অ্যাকাউন্টের ধরণটি নির্বাচন করুন, বর্তমানে এটি",
-    "selecthome": "বিটটিউবারস.কম-এ লগ ইন করার সময় আপনার ডিফল্ট হোম পৃষ্ঠা নির্বাচন করুন।",
+    "selecthome": "'BitTube.tv' এ লগ ইন করার সময় আপনার ডিফল্ট হোম পৃষ্ঠাটি নির্বাচন করুন",
     "selectnotysettings": " আপনার বিজ্ঞপ্তি সেটিংস নির্বাচন করুন",
-    "selecttheme": "আপনার BitTubers.com ডিফল্ট থিম নির্বাচন করুন।",
+    "selecttheme": "আপনার 'BitTube.tv' ডিফল্ট থিমটি নির্বাচন করুন।",
     "settings": "সেটিংস",
     "showaudience": "শ্রোতা দেখান",
     "showconnections": "সংযোগগুলি দেখান",

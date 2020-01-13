@@ -230,7 +230,7 @@
     "replytocomment": "回复评论",
     "revision": "修订版",
     "save": "救",
-    "searchbt": "搜索BitTubers.com",
+    "searchbt": "在“ BitTube.tv”中搜索",
     "select": "选择",
     "settings": "设定值",
     "share": "分享",
@@ -451,7 +451,7 @@
     "users": "用户数",
     "videos": "影片",
     "welcome": "欢迎",
-    "whatisbt": "什么是BitTubers.com？"
+    "whatisbt": "什么是“ BitTube.tv”？"
   },
   "notify": {
     "Alreadysubscribed": "已订阅@{{username}}",
@@ -617,7 +617,7 @@
     "connection": "连接",
     "connections": "连接数",
     "followers": "追随者",
-    "followersyoumightknow": "您可能认识的关注者",
+    "followersyoumightknow": "您可能认识的订阅者",
     "followeryoumightknow": "您可能知道的关注者",
     "followings": "追随者",
     "joined": "已加入",
@@ -717,9 +717,9 @@
     "recommendedvideo": "推荐-视频",
     "refsystem": "推荐系统",
     "selectacnnttypeis": "选择您的帐户类型，当前为",
-    "selecthome": "登录到BitTubers.com时，选择默认主页。",
+    "selecthome": "登录到“ BitTube.tv”时，选择默认主页",
     "selectnotysettings": " 选择您的通知设置",
-    "selecttheme": "选择您的BitTubers.com默认主题。",
+    "selecttheme": "选择您的“ BitTube.tv”默认主题。",
     "settings": "设定值",
     "showaudience": "显示观众",
     "showconnections": "显示联系",

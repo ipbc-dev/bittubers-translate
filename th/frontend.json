@@ -230,7 +230,7 @@
     "replytocomment": "ตอบกลับความคิดเห็น",
     "revision": "การทบทวน",
     "save": "บันทึก",
-    "searchbt": "ค้นหา BitTubers.com",
+    "searchbt": "ค้นหาใน 'BitTube.tv'",
     "select": "เลือก",
     "settings": "การตั้งค่า",
     "share": "หุ้น",
@@ -451,7 +451,7 @@
     "users": "ผู้ใช้",
     "videos": "วิดีโอ",
     "welcome": "ยินดีต้อนรับ",
-    "whatisbt": "BitTubers.com คืออะไร"
+    "whatisbt": "'BitTube.tv' คืออะไร"
   },
   "notify": {
     "Alreadysubscribed": "สมัครรับข้อมูลจาก @{{username}} แล้ว",
@@ -617,7 +617,7 @@
     "connection": "สัมพันธ์",
     "connections": "สัมพันธ์",
     "followers": "สมัครพรรคพวก",
-    "followersyoumightknow": "ผู้ติดตามที่คุณอาจรู้จัก",
+    "followersyoumightknow": "สมาชิกที่คุณอาจรู้จัก",
     "followeryoumightknow": "ผู้ติดตามคุณอาจรู้",
     "followings": "ดังต่อไปนี้",
     "joined": "วันที่สมัครสมาชิก",
@@ -717,9 +717,9 @@
     "recommendedvideo": "แนะนำ - วิดีโอ",
     "refsystem": "ระบบการอ้างอิง",
     "selectacnnttypeis": "เลือกประเภทบัญชีของคุณในขณะนี้",
-    "selecthome": "เลือกโฮมเพจเริ่มต้นของคุณเมื่อเข้าสู่ BitTubers.com",
+    "selecthome": "เลือกโฮมเพจเริ่มต้นของคุณเมื่อเข้าสู่ 'BitTube.tv'",
     "selectnotysettings": " เลือกการตั้งค่าการแจ้งเตือนของคุณ",
-    "selecttheme": "เลือกธีมเริ่มต้นของ BitTubers.com ของคุณ",
+    "selecttheme": "เลือกธีมเริ่มต้น 'BitTube.tv' ของคุณ",
     "settings": "การตั้งค่า",
     "showaudience": "แสดงผู้ชม",
     "showconnections": "แสดงการเชื่อมต่อ",

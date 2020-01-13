@@ -230,7 +230,7 @@
     "replytocomment": "Balas komentar",
     "revision": "Revisi",
     "save": "Menyimpan",
-    "searchbt": "Cari BitTubers.com",
+    "searchbt": "Cari di 'BitTube.tv'",
     "select": "Pilih",
     "settings": "Pengaturan",
     "share": "Bagikan",
@@ -451,7 +451,7 @@
     "users": "Pengguna",
     "videos": "Video",
     "welcome": "Selamat datang",
-    "whatisbt": "Apa itu BitTubers.com?"
+    "whatisbt": "Apa itu 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Sudah berlangganan @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "koneksi",
     "connections": "Koneksi",
     "followers": "Pengikut",
-    "followersyoumightknow": "pengikut yang mungkin Anda kenal",
+    "followersyoumightknow": "pelanggan yang mungkin Anda kenal",
     "followeryoumightknow": "pengikut yang mungkin Anda kenal",
     "followings": "berikut ini",
     "joined": "Bergabung",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Direkomendasikan - Video",
     "refsystem": "Sistem Rujukan",
     "selectacnnttypeis": "Pilih jenis akun Anda, saat ini",
-    "selecthome": "Pilih beranda default Anda saat masuk ke BitTubers.com.",
+    "selecthome": "Pilih beranda default Anda saat masuk ke 'BitTube.tv'",
     "selectnotysettings": " Pilih pengaturan pemberitahuan Anda",
-    "selecttheme": "Pilih tema default BitTubers.com Anda.",
+    "selecttheme": "Pilih tema default 'BitTube.tv' Anda.",
     "settings": "Pengaturan",
     "showaudience": "Perlihatkan pemirsa",
     "showconnections": "Tampilkan koneksi",

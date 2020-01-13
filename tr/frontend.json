@@ -230,7 +230,7 @@
     "replytocomment": "Yorum yapmak için yanıtla",
     "revision": "Revizyon",
     "save": "Kayıt etmek",
-    "searchbt": "BitTubers.com'da Ara",
+    "searchbt": "'BitTube.tv' içinde ara",
     "select": "seçmek",
     "settings": "Ayarlar",
     "share": "Paylaş",
@@ -451,7 +451,7 @@
     "users": "Kullanıcılar",
     "videos": "Videolar",
     "welcome": "Hoşgeldiniz",
-    "whatisbt": "BitTubersçcom nedir?"
+    "whatisbt": "'BitTube.tv' nedir?"
   },
   "notify": {
     "Alreadysubscribed": "@{{username}} Aboneliğine zaten abone oldunuz",
@@ -617,7 +617,7 @@
     "connection": "bağ",
     "connections": "Bağlantılar",
     "followers": "Takipçiler",
-    "followersyoumightknow": "takip edebileceğiniz takipçiler",
+    "followersyoumightknow": "tanıyabileceğiniz aboneler",
     "followeryoumightknow": "takip edebileceğin takipçi",
     "followings": "aşağıdakiler",
     "joined": "Katılım",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Önerilen - Videolar",
     "refsystem": "Sevk sistemi",
     "selectacnnttypeis": "Hesap türünüzü seçin, şu anda",
-    "selecthome": "BitTubers.com'a giriş yaparken varsayılan giriş sayfanızı seçin.",
+    "selecthome": "'BitTube.tv'de oturum açarken varsayılan ana sayfanızı seçin",
     "selectnotysettings": " Bildirim ayarlarınızı seçin",
-    "selecttheme": "BitTubers.com varsayılan temanızı seçin.",
+    "selecttheme": "'BitTube.tv' varsayılan temanızı seçin.",
     "settings": "Ayarlar",
     "showaudience": "Kitleyi göster",
     "showconnections": "Bağlantıları göster",

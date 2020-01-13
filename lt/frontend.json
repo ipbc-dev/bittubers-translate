@@ -230,7 +230,7 @@
     "replytocomment": "Atsakykite į komentarą",
     "revision": "Revizija",
     "save": "Sutaupyti",
-    "searchbt": "Ieškokite „BitTubers.com“",
+    "searchbt": "Ieškoti „BitTube.tv“",
     "select": "Pasirinkite",
     "settings": "Nustatymai",
     "share": "Dalintis",
@@ -451,7 +451,7 @@
     "users": "Vartotojai",
     "videos": "Vaizdo įrašai",
     "welcome": "Sveiki",
-    "whatisbt": "Kas yra BitTubers.com?"
+    "whatisbt": "Kas yra „BitTube.tv“?"
   },
   "notify": {
     "Alreadysubscribed": "Jau prenumeruojate @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "ryšys",
     "connections": "Ryšiai",
     "followers": "Pasekėjų",
-    "followersyoumightknow": "pasekėjų, kuriuos galbūt žinote",
+    "followersyoumightknow": "abonentų, kuriuos galbūt žinote",
     "followeryoumightknow": "sekėjas, kurį galbūt žinote",
     "followings": "sekimai",
     "joined": "Prisijungė",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Rekomenduojama - vaizdo įrašai",
     "refsystem": "Kreipimosi sistema",
     "selectacnnttypeis": "Pasirinkite savo paskyros tipą, šiuo metu jis yra",
-    "selecthome": "Pasirinkite numatytąjį pagrindinį puslapį, kai prisijungiate prie „BitTubers.com“.",
+    "selecthome": "Pasirinkite numatytąjį pagrindinį puslapį, kai prisijungiate prie „BitTube.tv“.",
     "selectnotysettings": " Pasirinkite pranešimų nustatymus",
-    "selecttheme": "Pasirinkite numatytąją „BitTubers.com“ temą.",
+    "selecttheme": "Pasirinkite numatytąją „BitTube.tv“ temą.",
     "settings": "Nustatymai",
     "showaudience": "Parodykite auditorijai",
     "showconnections": "Rodyti ryšius",

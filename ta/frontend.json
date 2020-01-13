@@ -230,7 +230,7 @@
     "replytocomment": "கருத்துக்கு பதில்",
     "revision": "மறுபார்வை",
     "save": "சேமி",
-    "searchbt": "BitTubers.com ஐத் தேடுங்கள்",
+    "searchbt": "'BitTube.tv' இல் தேடுங்கள்",
     "select": "தேர்வு",
     "settings": "அமைப்புகள்",
     "share": "பகிர்",
@@ -451,7 +451,7 @@
     "users": "பயனர்கள்",
     "videos": "வீடியோக்கள்",
     "welcome": "வரவேற்பு",
-    "whatisbt": "BitTubers.com என்றால் என்ன?"
+    "whatisbt": "'BitTube.tv' என்றால் என்ன?"
   },
   "notify": {
     "Alreadysubscribed": "ஏற்கனவே @{{username}} to க்கு குழுசேர்ந்துள்ளது",
@@ -617,7 +617,7 @@
     "connection": "இணைப்பு",
     "connections": "இணைப்புகள்",
     "followers": "பின்பற்றுபவர்கள்",
-    "followersyoumightknow": "பின்தொடர்பவர்கள் உங்களுக்குத் தெரிந்திருக்கலாம்",
+    "followersyoumightknow": "உங்களுக்குத் தெரிந்த சந்தாதாரர்கள்",
     "followeryoumightknow": "பின்தொடர்பவர் உங்களுக்குத் தெரிந்திருக்கலாம்",
     "followings": "நபர்களால்",
     "joined": "சேர்ந்த",
@@ -717,9 +717,9 @@
     "recommendedvideo": "பரிந்துரைக்கப்படுகிறது - வீடியோக்கள்",
     "refsystem": "பரிந்துரை அமைப்பு",
     "selectacnnttypeis": "உங்கள் கணக்கு வகையைத் தேர்ந்தெடுக்கவும், தற்போது அது",
-    "selecthome": "BitTubers.com இல் உள்நுழையும்போது உங்கள் இயல்புநிலை முகப்புப் பக்கத்தைத் தேர்ந்தெடுக்கவும்.",
+    "selecthome": "'BitTube.tv' இல் உள்நுழையும்போது உங்கள் இயல்புநிலை முகப்புப் பக்கத்தைத் தேர்ந்தெடுக்கவும்",
     "selectnotysettings": " உங்கள் அறிவிப்பு அமைப்புகளைத் தேர்ந்தெடுக்கவும்",
-    "selecttheme": "உங்கள் BitTubers.com இயல்புநிலை தீம் தேர்ந்தெடுக்கவும்.",
+    "selecttheme": "உங்கள் 'BitTube.tv' இயல்புநிலை தீம் தேர்ந்தெடுக்கவும்.",
     "settings": "அமைப்புகள்",
     "showaudience": "பார்வையாளர்களைக் காட்டு",
     "showconnections": "இணைப்புகளைக் காட்டு",

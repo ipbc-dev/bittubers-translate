@@ -230,7 +230,7 @@
     "replytocomment": "Reageren op commentaar",
     "revision": "Herziening",
     "save": "Opslaan",
-    "searchbt": "Zoek BitTubers.com",
+    "searchbt": "Zoeken in 'BitTube.tv'",
     "select": "kiezen",
     "settings": "instellingen",
     "share": "Delen",
@@ -451,7 +451,7 @@
     "users": "gebruikers",
     "videos": "Videos",
     "welcome": "Welkom",
-    "whatisbt": "Wat is BitTubers.com?"
+    "whatisbt": "Wat is 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Al geabonneerd op @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "verbinding",
     "connections": "aansluitingen",
     "followers": "Volgers",
-    "followersyoumightknow": "volgers die je misschien kent",
+    "followersyoumightknow": "abonnees die je misschien kent",
     "followeryoumightknow": "volger die je misschien kent",
     "followings": "volgenden",
     "joined": "Geregistreerd",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Aanbevolen - Video's",
     "refsystem": "Verwijzingssysteem",
     "selectacnnttypeis": "Selecteer uw accounttype, momenteel is dit",
-    "selecthome": "Selecteer uw standaardhomepage wanneer u inlogt op BitTubers.com.",
+    "selecthome": "Selecteer uw standaard startpagina wanneer u zich aanmeldt bij 'BitTube.tv'",
     "selectnotysettings": " Selecteer uw meldingsinstellingen",
-    "selecttheme": "Selecteer uw standaardthema voor BitTubers.com.",
+    "selecttheme": "Selecteer uw standaardthema 'BitTube.tv'.",
     "settings": "instellingen",
     "showaudience": "Toon publiek",
     "showconnections": "Toon verbindingen",

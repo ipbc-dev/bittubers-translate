@@ -230,7 +230,7 @@
     "replytocomment": "Antwurdzje op kommentaar",
     "revision": "Revyzje",
     "save": "Rêde",
-    "searchbt": "Sykje BitTubers.com",
+    "searchbt": "Sykje yn 'BitTube.tv'",
     "select": "Útkieze",
     "settings": "Ynstellings",
     "share": "Diele",
@@ -451,7 +451,7 @@
     "users": "Brûkers",
     "videos": "Fideo's",
     "welcome": "Wolkom",
-    "whatisbt": "Wat is BitTubers.com?"
+    "whatisbt": "Wat is 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Ynskriuwe al foar @ {{username}}",
@@ -617,7 +617,7 @@
     "connection": "ferbining",
     "connections": "Ferbinings",
     "followers": "Folgers",
-    "followersyoumightknow": "folgers dy't jo miskien wite",
+    "followersyoumightknow": "abonnees dy't jo miskien wite",
     "followeryoumightknow": "folger jo miskien wite",
     "followings": "ferfolch",
     "joined": "Joined",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Oanrikkemandearre - fideo's",
     "refsystem": "Ferwizingsysteem",
     "selectacnnttypeis": "Selektearje jo akkounttype, op it stuit is it",
-    "selecthome": "Selektearje jo standert startside as jo oanmelde by BitTubers.com.",
+    "selecthome": "Selektearje jo standert startside as jo oanmelde by 'BitTube.tv'",
     "selectnotysettings": " Selektearje jo notifikaasje-ynstellingen",
-    "selecttheme": "Selektearje jo BitTubers.com standert tema.",
+    "selecttheme": "Selektearje jo standert tema 'BitTube.tv'.",
     "settings": "Ynstellings",
     "showaudience": "Lit publyk sjen",
     "showconnections": "Ferbinings sjen litte",

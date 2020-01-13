@@ -230,7 +230,7 @@
     "replytocomment": "ಕಾಮೆಂಟ್ ಮಾಡಲು ಪ್ರತ್ಯುತ್ತರಿಸಿ",
     "revision": "ಪರಿಷ್ಕರಣೆ",
     "save": "ಉಳಿಸಿ",
-    "searchbt": "BitTubers.com ಅನ್ನು ಹುಡುಕಿ",
+    "searchbt": "'BitTube.tv' ನಲ್ಲಿ ಹುಡುಕಿ",
     "select": "ಆಯ್ಕೆಮಾಡಿ",
     "settings": "ಸಂಯೋಜನೆಗಳು",
     "share": "ಹಂಚಿಕೊಳ್ಳಿ",
@@ -451,7 +451,7 @@
     "users": "ಬಳಕೆದಾರರು",
     "videos": "ವೀಡಿಯೊಗಳು",
     "welcome": "ಸ್ವಾಗತ",
-    "whatisbt": "BitTubers.com ಎಂದರೇನು?"
+    "whatisbt": "'BitTube.tv' ಎಂದರೇನು?"
   },
   "notify": {
     "Alreadysubscribed": "ಈಗಾಗಲೇ @{{username}} to ಗೆ ಚಂದಾದಾರರಾಗಿದ್ದಾರೆ",
@@ -617,7 +617,7 @@
     "connection": "ಸಂಪರ್ಕ",
     "connections": "ಸಂಪರ್ಕಗಳು",
     "followers": "ಅನುಯಾಯಿಗಳು",
-    "followersyoumightknow": "ಅನುಯಾಯಿಗಳು ನಿಮಗೆ ತಿಳಿದಿರಬಹುದು",
+    "followersyoumightknow": "ನಿಮಗೆ ತಿಳಿದಿರುವ ಚಂದಾದಾರರು",
     "followeryoumightknow": "ಅನುಯಾಯಿ ನಿಮಗೆ ತಿಳಿದಿರಬಹುದು",
     "followings": "ಅನುಸರಣೆಗಳು",
     "joined": "ಸೇರಿದರು",
@@ -717,9 +717,9 @@
     "recommendedvideo": "ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ - ವೀಡಿಯೊಗಳು",
     "refsystem": "ಉಲ್ಲೇಖಿತ ವ್ಯವಸ್ಥೆ",
     "selectacnnttypeis": "ನಿಮ್ಮ ಖಾತೆ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ, ಪ್ರಸ್ತುತ ಅದು",
-    "selecthome": "BitTubers.com ಗೆ ಲಾಗಿನ್ ಆಗುವಾಗ ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಮುಖಪುಟವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+    "selecthome": "'BitTube.tv' ಗೆ ಲಾಗಿನ್ ಆಗುವಾಗ ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಮುಖಪುಟವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
     "selectnotysettings": " ನಿಮ್ಮ ಅಧಿಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
-    "selecttheme": "ನಿಮ್ಮ BitTubers.com ಡೀಫಾಲ್ಟ್ ಥೀಮ್ ಆಯ್ಕೆಮಾಡಿ.",
+    "selecttheme": "ನಿಮ್ಮ 'BitTube.tv' ಡೀಫಾಲ್ಟ್ ಥೀಮ್ ಆಯ್ಕೆಮಾಡಿ.",
     "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
     "showaudience": "ಪ್ರೇಕ್ಷಕರನ್ನು ತೋರಿಸಿ",
     "showconnections": "ಸಂಪರ್ಕಗಳನ್ನು ತೋರಿಸಿ",

@@ -230,7 +230,7 @@
     "replytocomment": "Odpovedať na komentár",
     "revision": "opakovanie",
     "save": "Uložiť",
-    "searchbt": "Vyhľadajte BitTubers.com",
+    "searchbt": "Hľadať v 'BitTube.tv'",
     "select": "vybrať",
     "settings": "nastavenie",
     "share": "zdieľam",
@@ -451,7 +451,7 @@
     "users": "užívatelia",
     "videos": "videá",
     "welcome": "vitajte",
-    "whatisbt": "Čo je to BitTubers.com?"
+    "whatisbt": "Čo je 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Už ste sa prihlásili na odber @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "prípojka",
     "connections": "pripojenie",
     "followers": "nasledovníci",
-    "followersyoumightknow": "sledovateľov, ktorých možno poznáte",
+    "followersyoumightknow": "predplatiteľov, ktorých možno poznáte",
     "followeryoumightknow": "sledovateľ, ktorý možno poznáte",
     "followings": "nasledujú",
     "joined": "pripojený",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Odporúčané - videá",
     "refsystem": "Systém sprostredkovania",
     "selectacnnttypeis": "Vyberte typ svojho účtu, momentálne je to",
-    "selecthome": "Pri prihlásení na stránku BitTubers.com vyberte predvolenú domovskú stránku.",
+    "selecthome": "Vyberte svoju predvolenú domovskú stránku, keď sa prihlásite na server „BitTube.tv“",
     "selectnotysettings": " Vyberte nastavenia upozornení",
-    "selecttheme": "Vyberte predvolený motív služby BitTubers.com.",
+    "selecttheme": "Vyberte predvolenú tému „BitTube.tv“.",
     "settings": "nastavenie",
     "showaudience": "Zobraziť publikum",
     "showconnections": "Zobraziť spojenia",

@@ -230,7 +230,7 @@
     "replytocomment": "Erantzun iruzkinei",
     "revision": "Errepasoa",
     "save": "Save",
-    "searchbt": "Bilatu BitTubers.com",
+    "searchbt": "Bilatu 'BitTube.tv'",
     "select": "Aukeratu",
     "settings": "ezarpenak",
     "share": "Share",
@@ -451,7 +451,7 @@
     "users": "erabiltzaileak",
     "videos": "Bideoak",
     "welcome": "Ongi",
-    "whatisbt": "Zer da BitTubers.com?"
+    "whatisbt": "Zer da 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Harpidetuta dagoeneko @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "konexio",
     "connections": "konexioak",
     "followers": "Jarraitzaileak",
-    "followersyoumightknow": "ezagutzen dituzun jarraitzaileak",
+    "followersyoumightknow": "ezagutzen dituzun harpidedunak",
     "followeryoumightknow": "jakin dezakezuen jarraitzailea",
     "followings": "ondorengoak",
     "joined": "Alta",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Gomendagarria - Bideoak",
     "refsystem": "Erreferentzia sistema",
     "selectacnnttypeis": "Hautatu zure kontu mota, une honetan dago",
-    "selecthome": "Aukeratu BitTubers.com webgunean saioa hasterakoan.",
+    "selecthome": "Aukeratu zure hasierako orria lehenetsi 'BitTube.tv' saioan saioa hasterakoan.",
     "selectnotysettings": " Hautatu jakinarazpenen ezarpenak",
-    "selecttheme": "Aukeratu zure BitTubers.com gai lehenetsia.",
+    "selecttheme": "Aukeratu zure \"BitTube.tv\" gai lehenetsia.",
     "settings": "ezarpenak",
     "showaudience": "Erakutsi audientzia",
     "showconnections": "Erakutsi konexioak",

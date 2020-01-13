@@ -230,7 +230,7 @@
     "replytocomment": "Ответить на комментарий",
     "revision": "Revision",
     "save": "Сохранить",
-    "searchbt": "Поиск BitTubers.com",
+    "searchbt": "Поиск в 'BitTube.tv'",
     "select": "Выбрать",
     "settings": "Настройки",
     "share": "доля",
@@ -451,7 +451,7 @@
     "users": "Пользователи",
     "videos": "Видео",
     "welcome": "Добро пожаловать!",
-    "whatisbt": "Что такое BitTubers.com?"
+    "whatisbt": "Что такое «BitTube.tv»?"
   },
   "notify": {
     "Alreadysubscribed": "Уже подписаны на @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "соединение",
     "connections": "Связи",
     "followers": "Читают",
-    "followersyoumightknow": "последователи, которых вы можете знать",
+    "followersyoumightknow": "подписчики вы можете знать",
     "followeryoumightknow": "последователь вы можете знать",
     "followings": "нижеуказанных",
     "joined": "Регистрация",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Рекомендуемые - Видео",
     "refsystem": "Реферальная система",
     "selectacnnttypeis": "Выберите тип вашей учетной записи, в настоящее время это",
-    "selecthome": "Выберите свою домашнюю страницу по умолчанию при входе на BitTubers.com.",
+    "selecthome": "Выберите свою домашнюю страницу по умолчанию при входе на BitTube.tv",
     "selectnotysettings": " Выберите настройки уведомлений",
-    "selecttheme": "Выберите тему по умолчанию BitTubers.com.",
+    "selecttheme": "Выберите тему по умолчанию «BitTube.tv».",
     "settings": "Настройки",
     "showaudience": "Показывать аудиторию",
     "showconnections": "Показывать связи",

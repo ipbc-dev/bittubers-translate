@@ -230,7 +230,7 @@
     "replytocomment": "コメントに返信",
     "revision": "リビジョン",
     "save": "セーブ",
-    "searchbt": "BitTubers.comを検索",
+    "searchbt": "「BitTube.tv」で検索",
     "select": "選択する",
     "settings": "設定",
     "share": "シェア",
@@ -451,7 +451,7 @@
     "users": "ユーザー",
     "videos": "動画",
     "welcome": "ようこそ",
-    "whatisbt": "BitTubers.comとは何ですか？"
+    "whatisbt": "「BitTube.tv」とは何ですか？"
   },
   "notify": {
     "Alreadysubscribed": "すでに@{{username}} に登録しています",
@@ -617,7 +617,7 @@
     "connection": "接続",
     "connections": "接続",
     "followers": "フォロワー",
-    "followersyoumightknow": "あなたが知っているかもしれないフォロワー",
+    "followersyoumightknow": "あなたが知っているかもしれない加入者",
     "followeryoumightknow": "あなたが知っているかもしれないフォロワー",
     "followings": "フォロー",
     "joined": "参加しました",
@@ -717,9 +717,9 @@
     "recommendedvideo": "推奨-ビデオ",
     "refsystem": "紹介システム",
     "selectacnnttypeis": "アカウントの種類を選択してください。現在は",
-    "selecthome": "BitTubers.comにログインするときにデフォルトのホームページを選択します。",
+    "selecthome": "「BitTube.tv」にログインするときにデフォルトのホームページを選択します",
     "selectnotysettings": " 通知設定を選択します",
-    "selecttheme": "BitTubers.comのデフォルトテーマを選択します。",
+    "selecttheme": "「BitTube.tv」デフォルトテーマを選択します。",
     "settings": "設定",
     "showaudience": "視聴者を表示",
     "showconnections": "接続を表示",

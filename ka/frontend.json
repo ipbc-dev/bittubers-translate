@@ -230,7 +230,7 @@
     "replytocomment": "კომენტარის პასუხი",
     "revision": "გადასინჯვა",
     "save": "Შენახვა",
-    "searchbt": "ძებნა BitTubers.com",
+    "searchbt": "ძებნა \"BitTube.tv\" -ში",
     "select": "შეარჩიეთ",
     "settings": "პარამეტრები",
     "share": "გაზიარება",
@@ -451,7 +451,7 @@
     "users": "მომხმარებლები",
     "videos": "ვიდეოებს",
     "welcome": "მოგესალმებით",
-    "whatisbt": "რა არის BitTubers.com?"
+    "whatisbt": "რა არის \"BitTube.tv\"?"
   },
   "notify": {
     "Alreadysubscribed": "უკვე გამოწერილია @ {{მომხმარებლის სახელი}",
@@ -617,7 +617,7 @@
     "connection": "კავშირი",
     "connections": "კავშირები",
     "followers": "მიმდევრები",
-    "followersyoumightknow": "თქვენ შეიძლება იცოდეთ მიმდევრები",
+    "followersyoumightknow": "აბონენტებს, რომლებიც შეიძლება იცოდეთ",
     "followeryoumightknow": "მიმდევარი შეიძლება იცოდეთ",
     "followings": "მიმდევრები",
     "joined": "შემოუერთდა",
@@ -717,9 +717,9 @@
     "recommendedvideo": "გირჩევთ - ვიდეოები",
     "refsystem": "რეფერალური სისტემა",
     "selectacnnttypeis": "შეარჩიეთ თქვენი ანგარიშის ტიპი, ამჟამად ის არის",
-    "selecthome": "შეარჩიეთ თქვენი საწყისი გვერდი BitTubers.com– ზე შესვლისას.",
+    "selecthome": "შეარჩიეთ თქვენი საწყისი გვერდი, როდესაც შეხვალთ \"BitTube.tv\"",
     "selectnotysettings": " შეარჩიეთ თქვენი შეტყობინებების პარამეტრები",
-    "selecttheme": "შეარჩიეთ თქვენი BitTubers.com ნაგულისხმევი თემა.",
+    "selecttheme": "შეარჩიეთ თქვენი \"BitTube.tv\" საწყისი თემა.",
     "settings": "პარამეტრები",
     "showaudience": "აუდიტორიის ჩვენება",
     "showconnections": "კავშირების ჩვენება",

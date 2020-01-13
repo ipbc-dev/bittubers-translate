@@ -230,7 +230,7 @@
     "replytocomment": "Svar på kommentar",
     "revision": "Revisjon",
     "save": "Lagre",
-    "searchbt": "Søk på BitTubers.com",
+    "searchbt": "Søk i 'BitTube.tv'",
     "select": "Plukke ut",
     "settings": "innstillinger",
     "share": "Dele",
@@ -451,7 +451,7 @@
     "users": "brukere",
     "videos": "videoer",
     "welcome": "Velkommen",
-    "whatisbt": "Hva er BitTubers.com?"
+    "whatisbt": "Hva er 'BitTube.tv'?"
   },
   "notify": {
     "Alreadysubscribed": "Har du allerede abonnert på @{{username}}",
@@ -617,7 +617,7 @@
     "connection": "forbindelse",
     "connections": "tilkoblinger",
     "followers": "etterfølgere",
-    "followersyoumightknow": "følgere du kanskje kjenner",
+    "followersyoumightknow": "abonnenter du kanskje kjenner",
     "followeryoumightknow": "følger du kanskje kjenner",
     "followings": "follo",
     "joined": "Ble med",
@@ -717,9 +717,9 @@
     "recommendedvideo": "Anbefalt - videoer",
     "refsystem": "Henvisingssystem",
     "selectacnnttypeis": "Velg kontotypen din, for øyeblikket",
-    "selecthome": "Velg din startside når du logger inn på BitTubers.com.",
+    "selecthome": "Velg standard hjemmeside når du logger deg på 'BitTube.tv'",
     "selectnotysettings": " Velg varslingsinnstillinger",
-    "selecttheme": "Velg ditt BitTubers.com-standardtema.",
+    "selecttheme": "Velg standardtemaet \"BitTube.tv\".",
     "settings": "innstillinger",
     "showaudience": "Vis publikum",
     "showconnections": "Vis tilkoblinger",
